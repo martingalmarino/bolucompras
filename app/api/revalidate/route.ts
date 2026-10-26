@@ -15,6 +15,7 @@ export async function GET(request: Request) {
   revalidatePath("/", "layout");
   revalidatePath("/b/[slug]", "page");
   revalidatePath("/sitemap.xml");
+  revalidatePath("/rss.xml");
 
   return NextResponse.json({
     ok: true,

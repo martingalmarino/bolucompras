@@ -56,9 +56,23 @@ Para sumar productos nuevos hay que volver a deployar: el JSON viaja en el build
 
 1. Subí el repo a GitHub.
 2. En Vercel, importá el proyecto. Framework: Next.js. El comando de build es `npm run build`.
-3. Variables de entorno:
-   - `NEXT_PUBLIC_SITE_URL`: la URL pública, sin barra al final. Sirve para el canonical, el sitemap y Open Graph.
+3. Variables de entorno (también están en `.env.example`):
+   - `NEXT_PUBLIC_SITE_URL`: la URL pública, sin barra al final. Sirve para el canonical, el sitemap, Open Graph y el feed.
    - `CRON_SECRET`: un string largo. Vercel lo manda como `Authorization: Bearer …` cuando corre el cron. Si no está, cualquiera puede pegarle a `/api/revalidate`.
+   - `KIT_API_KEY`: API key de Kit (ConvertKit), la de la API v3. Solo vive en el servidor.
+   - `KIT_FORM_ID`: id numérico del formulario de Kit al que se anotan los mails.
 4. El archivo `vercel.json` programa `/api/revalidate` a las 03:05 UTC, que son las 00:05 en Argentina (UTC−3, sin horario de verano). Eso, más la revalidación de 24 horas, cambia el día sin un deploy manual.
 
-En el plan Hobby de Vercel el cron diario entra. Después del deploy, la home, el archivo, las fichas `/b/[slug]` y el sitemap se regeneran con la fecha nueva.
+En el plan Hobby de Vercel el cron diario entra. Después del deploy, la home, el archivo, las fichas `/b/[slug]`, el sitemap y `/rss.xml` se regeneran con la fecha nueva.
+
+## Newsletter
+
+El formulario “Recibí la boludez del día” hace `POST /api/subscribe` con el mail. La ruta valida el mail, frena repeticiones por IP y manda el alta a Kit:
+
+`POST https://api.convertkit.com/v3/forms/${KIT_FORM_ID}/subscribe`
+
+`KIT_API_KEY` no se manda al navegador. Si falta la key o el id del formulario, la página muestra un error y sigue en pie. Hay un campo oculto (honeypot): si viene con texto, no se suscribe a nadie.
+
+## RSS
+
+`/rss.xml` lista las bolucompras ya publicadas, de la más nueva a la más vieja. Cada ítem trae título, descripción, link y fecha. Las que todavía no salieron no entran. Sirve para armar el mail diario.
