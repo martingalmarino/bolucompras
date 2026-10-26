@@ -37,6 +37,9 @@ export const metadata: Metadata = {
     description: SITE_DESCRIPTION,
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: "crGNhcUvRZASWLc8ANndk83KMX8Q1U6kLfaZ4w9BPtk",
+  },
   alternates: {
     types: {
       "application/rss+xml": "/rss.xml",
