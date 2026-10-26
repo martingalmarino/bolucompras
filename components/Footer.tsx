@@ -41,6 +41,15 @@ export function Footer() {
           Precios orientativos, pueden cambiar. No nos hacemos cargo de tu pareja preguntando “¿y
           esto para qué?”. © {year} Bolucompras · Hecho con 🧉 y cero responsabilidad financiera.
         </p>
+        <p className="mt-3">
+          Desarrollado por{" "}
+          <a
+            className="font-extrabold text-white no-underline hover:text-sun"
+            href="mailto:m.galmarino@gmail.com"
+          >
+            Martín Galmarino 🤖
+          </a>
+        </p>
       </div>
     </footer>
   );
