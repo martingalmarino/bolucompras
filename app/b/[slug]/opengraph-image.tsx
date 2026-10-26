@@ -9,7 +9,7 @@ export const revalidate = 86400;
 export default async function Image({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const product = getPublishedBySlug(slug);
-  const title = product?.nombre ?? "Esta boludez todavía no salió";
+  const title = product?.tituloSeo || product?.nombre || "Esta boludez todavía no salió";
   const kicker = product
     ? `${product.tienda} · nivel ${product.nivel}/10`
     : "Bolucompras · sin spoilers";
@@ -46,6 +46,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
         <div
           style={{
             display: "flex",
+            flexWrap: "wrap",
             fontSize: 64,
             fontWeight: 800,
             lineHeight: 1.05,

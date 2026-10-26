@@ -1,3 +1,8 @@
+export type FaqItem = {
+  pregunta: string;
+  respuesta: string;
+};
+
 export type Bolucompra = {
   id: number;
   slug: string;
@@ -15,4 +20,15 @@ export type Bolucompra = {
   tags: string[];
   categoria: string;
   fecha: string;
+  tituloSeo: string;
+  metaDescription: string;
+  intro: string;
+  porQue: string[];
+  paraQuien: string[];
+  pros: string[];
+  contras: string[];
+  ideasDeUso: string[];
+  veredicto: string;
+  faq: FaqItem[];
+  tagsRicos: string[];
 };

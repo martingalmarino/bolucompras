@@ -2,7 +2,12 @@ import "server-only";
 
 import dataset from "@/data/dataset.json";
 import { todayISO } from "@/lib/dates";
-import type { Bolucompra } from "@/lib/types";
+import type { Bolucompra, FaqItem } from "@/lib/types";
+
+type RawFaq = {
+  pregunta?: string;
+  respuesta?: string;
+};
 
 type RawProduct = {
   id: number;
@@ -20,7 +25,33 @@ type RawProduct = {
   categoria: string;
   link_afiliado: string;
   fecha_publicacion: string;
+  slug?: string;
+  titulo_seo?: string;
+  meta_description?: string;
+  intro?: string;
+  por_que_es_bolucompra?: string[];
+  para_quien?: string[];
+  pros?: string[];
+  contras?: string[];
+  ideas_de_uso?: string[];
+  veredicto?: string;
+  faq?: RawFaq[];
+  tags_ricos?: string[];
 };
+
+function asList(value: string[] | undefined): string[] {
+  if (!Array.isArray(value)) return [];
+  return value.map((item) => item.trim()).filter(Boolean);
+}
+
+function asFaq(value: RawFaq[] | undefined): FaqItem[] {
+  if (!Array.isArray(value)) return [];
+  return value.flatMap((item) => {
+    const pregunta = item?.pregunta?.trim() ?? "";
+    const respuesta = item?.respuesta?.trim() ?? "";
+    return pregunta && respuesta ? [{ pregunta, respuesta }] : [];
+  });
+}
 
 const DATE = /^\d{4}-\d{2}-\d{2}$/;
 
@@ -41,7 +72,7 @@ function toProduct(raw: RawProduct): Bolucompra {
   }
   return {
     id: raw.id,
-    slug: slugify(raw.nombre, raw.id),
+    slug: raw.slug?.trim() || slugify(raw.nombre, raw.id),
     nombre: raw.nombre.trim(),
     tienda: raw.tienda.trim(),
     urlProducto: raw.url_producto?.trim() ?? "",
@@ -59,6 +90,17 @@ function toProduct(raw: RawProduct): Bolucompra {
       .filter(Boolean),
     categoria: raw.categoria.trim(),
     fecha: raw.fecha_publicacion,
+    tituloSeo: raw.titulo_seo?.trim() || raw.nombre.trim(),
+    metaDescription: raw.meta_description?.trim() || raw.descripcion_graciosa?.trim() || "",
+    intro: raw.intro?.trim() ?? "",
+    porQue: asList(raw.por_que_es_bolucompra),
+    paraQuien: asList(raw.para_quien),
+    pros: asList(raw.pros),
+    contras: asList(raw.contras),
+    ideasDeUso: asList(raw.ideas_de_uso),
+    veredicto: raw.veredicto?.trim() ?? "",
+    faq: asFaq(raw.faq),
+    tagsRicos: asList(raw.tags_ricos),
   };
 }
 

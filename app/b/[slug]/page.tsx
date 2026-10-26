@@ -1,4 +1,5 @@
 import { BolucompraCard } from "@/components/BolucompraCard";
+import { FichaContenido } from "@/components/FichaContenido";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductCard } from "@/components/ProductCard";
 import { formatLongDate } from "@/lib/dates";
@@ -30,22 +31,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const site = getSiteUrl();
+  const title = product.tituloSeo || product.nombre;
+  const description = product.metaDescription || product.descripcion;
   return {
-    title: product.nombre,
-    description: product.descripcion,
+    title,
+    description,
     alternates: { canonical: `/b/${product.slug}` },
     openGraph: {
       type: "website",
       locale: "es_AR",
       url: `${site}/b/${product.slug}`,
-      title: product.nombre,
-      description: product.descripcion,
+      title,
+      description,
       images: product.imagenUrl ? [{ url: product.imagenUrl, alt: product.nombre }] : undefined,
     },
     twitter: {
       card: product.imagenUrl ? "summary_large_image" : "summary",
-      title: product.nombre,
-      description: product.descripcion,
+      title,
+      description,
       images: product.imagenUrl ? [product.imagenUrl] : undefined,
     },
   };
@@ -89,10 +92,11 @@ export default async function BolucompraPage({ params }: PageProps) {
             : `Salió el ${formatLongDate(product.fecha)}. Sigue dando vergüenza ajena.`}
         </p>
         <BolucompraCard product={product} today={today} heading="h1" priorityImage />
+        <FichaContenido product={product} />
         {others.length > 0 ? (
           <section className="mt-12" aria-labelledby="otras-titulo">
             <h2 id="otras-titulo" className="mb-5 font-impact text-[30px] leading-none min-[701px]:text-[40px]">
-              Otras que ya salieron
+              Más bolucompras
             </h2>
             <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
               {others.map((item, index) => (

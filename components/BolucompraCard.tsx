@@ -1,4 +1,4 @@
-import { AffiliateLink } from "@/components/AffiliateLink";
+import { BuyButton, BuyNote } from "@/components/BuyButton";
 import { BoludezMeter } from "@/components/BoludezMeter";
 import { ProductVisual } from "@/components/ProductVisual";
 import { Sticker } from "@/components/Sticker";
@@ -6,12 +6,8 @@ import { StoreBadge } from "@/components/StoreBadge";
 import { badgesFor } from "@/lib/badges";
 import { formatLongDate } from "@/lib/dates";
 import { formatPrice } from "@/lib/format";
-import { ctaHref, usesAffiliateLink } from "@/lib/links";
 import type { Bolucompra } from "@/lib/types";
 import Link from "next/link";
-
-const CTA_CLASS =
-  "mt-1 block w-full rounded-[18px] border-4 border-ink bg-grass-deep py-4 text-center font-impact text-[26px] tracking-wide text-white no-underline shadow-[6px_6px_0_#1d1d1b] transition hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[8px_8px_0_#1d1d1b] active:translate-x-0.5 active:translate-y-0.5 active:shadow-[2px_2px_0_#1d1d1b] min-[701px]:text-[30px]";
 
 export function BolucompraCard({
   product,
@@ -28,7 +24,6 @@ export function BolucompraCard({
 }) {
   const Title = heading;
   const precio = formatPrice(product.precioReferencia, product.moneda);
-  const href = ctaHref(product);
   const isToday = product.fecha === today;
 
   return (
@@ -89,18 +84,8 @@ export function BolucompraCard({
             </li>
           ))}
         </ul>
-        {href ? (
-          <AffiliateLink href={href} className={CTA_CLASS}>
-            ¡LA QUIERO YA! 🛒
-          </AffiliateLink>
-        ) : (
-          <span className={`${CTA_CLASS} cursor-not-allowed opacity-70`}>Link en camino</span>
-        )}
-        <p className="mt-2.5 text-center text-xs font-bold text-ink/70">
-          {usesAffiliateLink(product)
-            ? "Link de afiliado · El precio puede cambiar en la tienda"
-            : "Te manda a la tienda · Precio orientativo, puede cambiar"}
-        </p>
+        <BuyButton product={product} />
+        <BuyNote product={product} />
         {showFichaLink ? (
           <p className="mt-3 text-center text-sm font-extrabold">
             <Link
