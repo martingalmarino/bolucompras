@@ -1,0 +1,97 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bolucompras – La boludez del día</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Arial Rounded MT Bold","Trebuchet MS",system-ui,sans-serif;background:#FFF4D6;color:#1d1d1b;background-image:radial-gradient(#ffd23f55 2px,transparent 2px);background-size:22px 22px}
+.wrap{max-width:1160px;margin:0 auto;padding:0 20px}
+header{background:#1d1d1b;color:#fff;border-bottom:5px solid #FF3E9A}
+header .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 20px;gap:12px}
+.logo{font-family:Impact,"Arial Black",sans-serif;font-size:34px;letter-spacing:1px;transform:rotate(-2deg)}
+.logo span{background:#FFD23F;color:#1d1d1b;padding:0 8px;border-radius:8px;margin-left:4px}
+nav a{color:#fff;text-decoration:none;margin-left:18px;font-weight:700}
+nav a.cta{background:#FF3E9A;padding:8px 14px;border-radius:30px;border:2px solid #fff}
+.ticker{background:#FFD23F;font-weight:800;padding:8px 0;white-space:nowrap;overflow:hidden;border-bottom:3px solid #1d1d1b;font-size:14px}
+.hero{padding:40px 0 30px}
+.hero h1{font-family:Impact,"Arial Black",sans-serif;font-size:56px;line-height:1;text-align:center;margin-bottom:6px}
+.hero h1 em{color:#FF3E9A;font-style:normal;-webkit-text-stroke:2px #1d1d1b}
+.sub{text-align:center;font-size:18px;margin-bottom:28px}
+.card{display:grid;grid-template-columns:1fr 1fr;gap:30px;background:#fff;border:4px solid #1d1d1b;border-radius:28px;box-shadow:12px 12px 0 #1d1d1b;padding:30px;position:relative}
+.img{background:linear-gradient(135deg,#7CF5D0,#5AB0FF);border:3px solid #1d1d1b;border-radius:22px;display:flex;align-items:center;justify-content:center;font-size:190px;min-height:360px;position:relative}
+.sticker{position:absolute;font-family:Impact,sans-serif;border:3px solid #1d1d1b;padding:8px 14px;border-radius:14px;font-size:20px;box-shadow:4px 4px 0 #1d1d1b}
+.s1{top:-18px;left:-18px;background:#FF3E9A;color:#fff;transform:rotate(-10deg)}
+.s2{bottom:16px;right:-20px;background:#FFD23F;transform:rotate(8deg)}
+.s3{top:20px;right:14px;background:#fff;border-radius:50%;width:92px;height:92px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:15px;transform:rotate(12deg)}
+.store{display:inline-block;background:#FFE600;border:2px solid #1d1d1b;border-radius:20px;padding:4px 12px;font-weight:800;font-size:13px}
+.date{float:right;font-size:14px;opacity:.7;font-weight:700}
+.info h2{font-family:"Arial Black",sans-serif;font-size:34px;margin:14px 0 10px;line-height:1.1}
+.info p{font-size:17px;line-height:1.5;margin-bottom:16px}
+.price{font-family:Impact,sans-serif;font-size:52px;color:#FF3E9A}
+.price s{font-size:22px;color:#888;margin-left:8px}
+.meter{margin:16px 0}.meter b{display:flex;justify-content:space-between;font-size:15px;margin-bottom:6px}
+.bar{height:22px;border:3px solid #1d1d1b;border-radius:20px;overflow:hidden;background:#eee}
+.bar i{display:block;height:100%;width:90%;background:repeating-linear-gradient(45deg,#FF3E9A 0 14px,#FF6FB5 14px 28px)}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+.badges span{border:2px solid #1d1d1b;border-radius:10px;padding:6px 10px;font-weight:800;font-size:13px;background:#E8F7FF}
+.btn{display:block;text-align:center;background:#00C46A;color:#fff;font-family:Impact,sans-serif;font-size:30px;padding:16px;border:4px solid #1d1d1b;border-radius:18px;box-shadow:6px 6px 0 #1d1d1b;text-decoration:none;letter-spacing:1px}
+.mini{text-align:center;font-size:12px;margin-top:10px;opacity:.65}
+.sec{padding:40px 0}
+.sec h3{font-family:Impact,sans-serif;font-size:40px;margin-bottom:6px}
+.row{display:flex;justify-content:space-between;align-items:end;margin-bottom:18px;gap:10px}
+.arrows button{width:50px;height:50px;border-radius:50%;border:3px solid #1d1d1b;background:#FFD23F;font-size:22px;font-weight:900;box-shadow:3px 3px 0 #1d1d1b;margin-left:8px}
+.tabs span{display:inline-block;border:2px solid #1d1d1b;border-radius:20px;padding:5px 12px;margin:0 6px 6px 0;font-weight:800;font-size:13px;background:#fff}
+.tabs span.on{background:#1d1d1b;color:#fff}
+.carousel{display:flex;gap:20px;overflow:hidden;padding:6px 6px 16px}
+.pc{flex:0 0 250px;background:#fff;border:3px solid #1d1d1b;border-radius:20px;box-shadow:6px 6px 0 #1d1d1b;overflow:hidden}
+.pc:nth-child(odd){transform:rotate(-1.5deg)}.pc:nth-child(even){transform:rotate(1.2deg)}
+.pc .e{font-size:84px;text-align:center;padding:20px 0;border-bottom:3px solid #1d1d1b}
+.pc .b{padding:14px}.pc h4{font-size:17px;margin:8px 0}
+.pc .m{display:flex;justify-content:space-between;align-items:center;font-size:13px;font-weight:700}
+.pc .p{font-family:Impact,sans-serif;font-size:24px;color:#FF3E9A}
+.dots{text-align:center;margin-top:8px}.dots i{display:inline-block;width:12px;height:12px;border-radius:50%;background:#1d1d1b33;margin:0 4px}.dots i.on{background:#FF3E9A;width:30px;border-radius:8px}
+.news{background:#7B2FF7;color:#fff;border:4px solid #1d1d1b;border-radius:28px;box-shadow:12px 12px 0 #1d1d1b;padding:40px;text-align:center;position:relative}
+.news h3{font-size:44px}.news p{font-size:18px;margin:8px 0 20px}
+.news form{display:flex;max-width:560px;margin:0 auto;gap:10px}
+.news input{flex:1;padding:16px;border:3px solid #1d1d1b;border-radius:14px;font-size:17px}
+.news button{background:#FFD23F;border:3px solid #1d1d1b;border-radius:14px;font-family:Impact,sans-serif;font-size:22px;padding:0 20px;box-shadow:4px 4px 0 #1d1d1b}
+.news .sticker{top:-24px;right:30px;background:#00C46A;transform:rotate(8deg)}
+footer{background:#1d1d1b;color:#ddd;margin-top:40px;padding:30px 0;font-size:14px;line-height:1.6;border-top:5px solid #FFD23F}
+footer .logo{font-size:26px;color:#fff;margin-bottom:10px;display:inline-block}
+.aff{background:#2c2c2a;border-left:5px solid #FF3E9A;padding:12px 16px;border-radius:8px;margin:12px 0}
+.demo{text-align:center;background:#1d1d1bcc;color:#fff;font-size:11px;padding:4px 8px;border-radius:6px}
+@media(max-width:700px){nav a:not(.cta){display:none}.logo{font-size:26px}.hero h1{font-size:38px}.card{grid-template-columns:1fr;padding:18px;box-shadow:7px 7px 0 #1d1d1b}.img{min-height:260px;font-size:140px}.info h2{font-size:26px}.price{font-size:42px}.sec h3{font-size:30px}.arrows{display:none}.news{padding:30px 18px;box-shadow:7px 7px 0 #1d1d1b}.news h3{font-size:32px}.news form{flex-direction:column}.news button{padding:14px}.pc{flex-basis:220px}.s2{right:-6px}}
+</style></head><body>
+<header><div class="wrap"><div class="logo">🛒 BOLU<span>COMPRAS</span></div><nav><a href="#">Archivo</a><a href="#">Ranking</a><a href="#">¿Qué es esto?</a><a class="cta" href="#">💌 Suscribite</a></nav></div></header>
+<div class="ticker">🔥 &nbsp;Mercado Libre · Amazon · Temu · Shein &nbsp;★&nbsp; Una boludez nueva cada día &nbsp;★&nbsp; Tu billetera ya está temblando &nbsp;★&nbsp; Comprar no es necesario, pero qué lindo 🔥</div>
+<section class="hero"><div class="wrap">
+<h1>LA <em>BOLUCOMPRA</em> DEL DÍA</h1><p class="sub">Nadie la necesita. Todos la quieren. 🤷‍♂️</p>
+<div class="card">
+ <div class="img">🦆<div class="sticker s1">¡HOY!</div><div class="sticker s3">100%<br>INÚTIL</div><div class="sticker s2">Tu billetera llora 😭</div></div>
+ <div class="info">
+  <span class="store">🟡 Mercado Libre</span><span class="date">📅 Domingo 25 oct</span>
+  <h2>Pato de goma gigante con lentes de sol para la ducha</h2>
+  <p>Porque bañarte solo es triste. Este pato de 40&nbsp;cm te mira con onda mientras cantás Arjona. No hace nada. Absolutamente nada. Y es perfecto.</p>
+  <div class="price">$12.999 <s>$18.500</s></div>
+  <div class="meter"><b><span>🤪 Nivel de boludez</span><span>9/10</span></b><div class="bar"><i></i></div></div>
+  <div class="badges"><span>🚚 Envío gratis</span><span>🎁 Ideal para regalar</span><span>💀 Arrepentimiento: bajo</span></div>
+  <a class="btn" href="#">¡LA QUIERO YA! 🛒</a>
+  <p class="mini">Link de afiliado · Producto y precio de ejemplo</p>
+ </div>
+</div></div></section>
+<section class="sec"><div class="wrap">
+<div class="row"><div><h3>📚 Bolucompras anteriores</h3><div class="tabs"><span class="on">Esta semana</span><span>Septiembre</span><span>Agosto</span><span>🏆 Las más boludas</span></div></div><div class="arrows"><button>←</button><button>→</button></div></div>
+<div class="carousel">
+ <div class="pc"><div class="e" style="background:#FFD23F">🍌</div><div class="b"><div class="m"><span>24 oct</span><span class="store" style="background:#FF9900">Amazon</span></div><h4>Protector de bananas anti-aplaste</h4><div class="m"><span class="p">US$ 9</span><span>🤪 7/10</span></div></div></div>
+ <div class="pc"><div class="e" style="background:#7CF5D0">🐔</div><div class="b"><div class="m"><span>23 oct</span><span class="store" style="background:#FF7A00;color:#fff">Temu</span></div><h4>Gallina que grita cuando la apretás</h4><div class="m"><span class="p">$3.200</span><span>🤪 10/10</span></div></div></div>
+ <div class="pc"><div class="e" style="background:#FF9EC9">🧦</div><div class="b"><div class="m"><span>22 oct</span><span class="store" style="background:#1d1d1b;color:#fff">Shein</span></div><h4>Medias con la cara de tu gato</h4><div class="m"><span class="p">$5.490</span><span>🤪 8/10</span></div></div></div>
+ <div class="pc"><div class="e" style="background:#B9A6FF">🥔</div><div class="b"><div class="m"><span>21 oct</span><span class="store">Mercado Libre</span></div><h4>Papa antiestrés que habla</h4><div class="m"><span class="p">$7.800</span><span>🤪 9/10</span></div></div></div>
+ <div class="pc"><div class="e" style="background:#5AB0FF">🦖</div><div class="b"><div class="m"><span>20 oct</span><span class="store" style="background:#FF9900">Amazon</span></div><h4>Disfraz inflable de T-Rex para perros</h4><div class="m"><span class="p">US$ 24</span><span>🤪 10/10</span></div></div></div>
+</div>
+<div class="dots"><i class="on"></i><i></i><i></i><i></i></div>
+</div></section>
+<section class="sec"><div class="wrap"><div class="news"><div class="sticker">GRATIS 🙌</div>
+<h3>💌 Recibí la boludez del día</h3><p>Todas las mañanas, una compra innecesaria directo a tu mail. Sin spam (bueno, un poquito de boludez).</p>
+<form onsubmit="return false"><input placeholder="tu@mail.com"><button>¡ME SUMO!</button></form></div></div></section>
+<footer><div class="wrap"><div class="logo">🛒 BOLU<span>COMPRAS</span></div>
+<div class="aff">⚠️ <b>Aviso de afiliados:</b> algunos links de este sitio son de afiliados (Mercado Libre, Amazon, Temu, Shein). Si comprás, podemos recibir una comisión sin costo extra para vos. Así bancamos el servidor y más boludeces.</div>
+<p>Precios orientativos, pueden cambiar. No nos hacemos cargo de tu pareja preguntando “¿y esto para qué?”. © 2026 Bolucompras · Hecho con 🧉 y cero responsabilidad financiera.</p></div></footer>
+<div class="demo" style="padding:6px">Maqueta · datos de ejemplo</div>
+</body></html>

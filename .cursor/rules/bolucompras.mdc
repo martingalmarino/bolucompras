@@ -1,0 +1,11 @@
+---
+description: Reglas del proyecto Bolucompras
+alwaysApply: true
+---
+- Todo el texto visible va en español, con tono divertido y un guiño rioplatense suave.
+- Respetar el estilo de referencia/index.html: bordes negros gruesos, sombras duras tipo sticker, tarjetas inclinadas, colores fucsia, amarillo, verde, violeta y celeste, títulos tipo Impact.
+- Todo link de afiliado lleva rel="sponsored nofollow noopener" y target="_blank".
+- El aviso de afiliados es obligatorio en el footer.
+- No inventar productos ni precios: usar solo data/dataset.json.
+- Mobile first. Accesible: alt en imágenes, contraste suficiente y foco visible.
+- Fechas en zona America/Argentina/Cordoba.
