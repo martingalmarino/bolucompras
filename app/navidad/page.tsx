@@ -56,10 +56,10 @@ export default async function NavidadPage({ searchParams }: NavidadProps) {
   return (
     <section className="px-5 py-10">
       <div className="mx-auto w-full max-w-[1160px]">
-        <h1 className="font-impact text-[34px] leading-none min-[400px]:text-[42px] min-[701px]:text-[56px]">
+        <h1 className="text-center font-impact text-[34px] leading-none min-[400px]:text-[42px] min-[701px]:text-[56px]">
           Regalos navideños para chicos
         </h1>
-        <p className="mb-6 mt-3 max-w-3xl text-lg leading-relaxed">
+        <p className="mx-auto mb-6 mt-3 max-w-3xl text-center text-lg leading-relaxed">
           ¿Buscás un regalo de Navidad para un pibe y todo lo serio te aburre? Acá van las
           bolucompras navideñas que ya salieron: juguetes, disfraces y chiches que arrancan una
           carcajada. Filtrá por edad y por franja de precio. Lo que todavía no se publicó no
