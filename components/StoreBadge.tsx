@@ -20,7 +20,7 @@ export function StoreBadge({
       className={
         compact
           ? "inline-block max-w-full truncate rounded-full border-2 border-ink px-2 py-1 text-[12px] font-extrabold leading-none"
-          : "inline-block rounded-full border-2 border-ink px-3 py-1 text-[13px] font-extrabold leading-none"
+          : "inline-block whitespace-nowrap rounded-full border-2 border-ink px-3 py-1 text-[13px] font-extrabold leading-none"
       }
       style={{ backgroundColor: style.bg, color: style.color }}
     >

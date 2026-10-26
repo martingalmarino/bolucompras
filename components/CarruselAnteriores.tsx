@@ -68,7 +68,7 @@ export function CarruselAnteriores({ tabs }: { tabs: CarruselTab[] }) {
       <div className="mx-auto w-full max-w-[1160px]">
         <div className="mb-4 flex items-end justify-between gap-3">
           <div className="min-w-0">
-            <h2 id="anteriores-titulo" className="font-impact text-[30px] leading-none min-[701px]:text-[40px]">
+            <h2 id="anteriores-titulo" className="font-impact text-[26px] leading-none min-[400px]:text-[32px] min-[701px]:text-[40px]">
               📚 Bolucompras anteriores
             </h2>
             <div role="tablist" aria-label="Filtrar bolucompras anteriores" className="mt-2 flex flex-wrap">

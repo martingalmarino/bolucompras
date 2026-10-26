@@ -7,7 +7,7 @@ import type { ReactNode } from "react";
 
 function Titulo({ id, children }: { id: string; children: ReactNode }) {
   return (
-    <h2 id={id} className="mb-4 font-impact text-[30px] leading-none min-[701px]:text-[40px]">
+    <h2 id={id} className="mb-4 break-words font-impact text-[26px] leading-none min-[400px]:text-[32px] min-[701px]:text-[40px]">
       {children}
     </h2>
   );
@@ -105,10 +105,10 @@ export function FichaContenido({ product }: { product: Bolucompra }) {
         <section aria-labelledby="veredicto-titulo">
           <Titulo id="veredicto-titulo">Veredicto</Titulo>
           <div className="relative rounded-[28px] border-4 border-ink bg-white p-6 shadow-[12px_12px_0_#1d1d1b] min-[701px]:p-8">
-            <Sticker tone="pink" className="right-4 top-[-18px] rotate-[8deg]">
+            <Sticker tone="pink" className="right-3 top-3 rotate-[8deg] min-[701px]:right-4 min-[701px]:top-[-18px]">
               SIN FILTRO
             </Sticker>
-            <p className="mt-4 text-[18px] leading-relaxed min-[701px]:text-xl">{product.veredicto}</p>
+            <p className="mt-10 text-[18px] leading-relaxed min-[701px]:mt-4 min-[701px]:text-xl">{product.veredicto}</p>
             <BoludezMeter nivel={product.nivel} />
             <div className="mx-auto mt-6 max-w-xl">
               <BuyButton product={product} />

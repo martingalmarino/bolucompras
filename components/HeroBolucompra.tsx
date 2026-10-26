@@ -6,8 +6,11 @@ import type { Bolucompra } from "@/lib/types";
 function TituloDelDia() {
   return (
     <>
-      <h1 className="text-center font-impact text-[38px] leading-none min-[701px]:text-[56px]">
-        LA <em className="titulo-fucsia not-italic">BOLUCOMPRA</em> DEL DÍA
+        <h1 className="text-center font-impact text-[32px] leading-[0.9] min-[400px]:text-[40px] min-[701px]:text-[56px]">
+        <span className="block">
+          LA <em className="titulo-fucsia not-italic">BOLUCOMPRA</em>
+        </span>
+        <span className="block">DEL DÍA</span>
       </h1>
       <p className="mb-7 mt-1.5 text-center text-lg">Nadie la necesita. Todos la quieren. 🤷‍♂️</p>
     </>
@@ -44,10 +47,10 @@ export function HeroEspera({ today, nextDate }: { today: string; nextDate: strin
                 🤷
               </span>
             </div>
-            <Sticker tone="pink" className="left-[-18px] top-[-18px] -rotate-[10deg]">
+            <Sticker tone="pink" className="left-2 top-2 -rotate-[10deg] min-[701px]:left-[-18px] min-[701px]:top-[-18px]">
               MUY PRONTO
             </Sticker>
-            <Sticker tone="yellow" className="bottom-4 right-[-6px] rotate-[8deg] min-[701px]:right-[-20px]">
+            <Sticker tone="yellow" className="bottom-3 right-2 rotate-[8deg] min-[701px]:bottom-4 min-[701px]:right-[-20px]">
               Billetera a salvo
             </Sticker>
           </div>
@@ -57,7 +60,7 @@ export function HeroEspera({ today, nextDate }: { today: string; nextDate: strin
             </h2>
             <p className="mt-3 text-[17px] leading-normal">{when}</p>
             <p className="mt-3 text-[17px] leading-normal">
-              Cuando cambia el día en Córdoba, entra la que toca. Una sola. Ni una más.
+              Cuando cambia el día en Argentina, entra la que toca. Una sola. Ni una más.
             </p>
           </div>
         </div>

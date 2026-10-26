@@ -38,40 +38,40 @@ export function BolucompraCard({
             priority={priorityImage}
           />
         </div>
-        <Sticker tone="pink" className="left-[-18px] top-[-18px] -rotate-[10deg]">
+        <Sticker tone="pink" className="left-2 top-2 -rotate-[10deg] min-[701px]:left-[-18px] min-[701px]:top-[-18px]">
           {isToday ? "¡HOY!" : "LA ÚLTIMA"}
         </Sticker>
-        <Sticker tone="white" shape="circle" className="right-3.5 top-5 rotate-[12deg]">
+        <Sticker tone="white" shape="circle" className="right-2 top-2 rotate-[12deg] min-[701px]:right-3.5 min-[701px]:top-5">
           <span>100%</span>
           <span>INÚTIL</span>
         </Sticker>
         <Sticker
           tone="yellow"
-          className="bottom-4 right-[-6px] rotate-[8deg] min-[701px]:right-[-20px]"
+          className="bottom-3 right-2 rotate-[8deg] whitespace-nowrap min-[701px]:bottom-4 min-[701px]:right-[-20px]"
         >
           Tu billetera llora 😭
         </Sticker>
       </div>
 
       <div className="min-w-0">
-        <div className="flex items-start justify-between gap-3">
+        <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-2">
           <StoreBadge tienda={product.tienda} withMark />
-          <time dateTime={product.fecha} className="shrink-0 pt-1 text-sm font-bold text-ink/70">
+          <time dateTime={product.fecha} className="shrink-0 text-sm font-bold text-ink/70">
             <span aria-hidden="true">📅 </span>
             {formatLongDate(product.fecha)}
           </time>
         </div>
-        <Title className="mb-2.5 mt-3.5 font-heavy text-[26px] leading-tight min-[701px]:text-[34px]">
+        <Title className="mb-2.5 mt-3.5 break-words font-heavy text-[26px] leading-tight min-[701px]:text-[34px]">
           {product.nombre}
         </Title>
         <p className="mb-4 text-[17px] leading-normal">{product.descripcion}</p>
         {precio ? (
-          <p className="font-impact text-[42px] leading-none text-fucsia min-[701px]:text-[52px]">
+          <p className="break-words font-impact text-[34px] leading-none text-fucsia min-[400px]:text-[42px] min-[701px]:text-[52px]">
             <span className="sr-only">Precio de referencia: </span>
             {precio}
           </p>
         ) : (
-          <p className="font-impact text-[32px] leading-none text-ink">Precio en la tienda</p>
+          <p className="font-impact text-[26px] leading-none text-ink min-[400px]:text-[32px]">Precio en la tienda</p>
         )}
         <BoludezMeter nivel={product.nivel} />
         <ul className="my-3.5 flex flex-wrap gap-2">

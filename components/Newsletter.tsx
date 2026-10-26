@@ -8,11 +8,11 @@ export function Newsletter() {
 
   return (
     <section id="newsletter" className="scroll-mt-6 px-5 pb-2 pt-6" aria-labelledby="newsletter-titulo">
-      <div className="relative mx-auto max-w-[1160px] rounded-[28px] border-4 border-ink bg-violet px-[18px] py-8 text-center text-white shadow-[7px_7px_0_#1d1d1b] min-[701px]:px-10 min-[701px]:py-10 min-[701px]:shadow-[12px_12px_0_#1d1d1b]">
-        <Sticker tone="green" className="right-3 top-[-22px] rotate-[8deg] min-[701px]:right-8">
+      <div className="relative mx-auto max-w-[1160px] rounded-[28px] border-4 border-ink bg-violet px-4 pb-8 pt-20 text-center text-white shadow-[7px_7px_0_#1d1d1b] min-[701px]:px-10 min-[701px]:py-10 min-[701px]:shadow-[12px_12px_0_#1d1d1b]">
+        <Sticker tone="green" className="right-3 top-3 rotate-[8deg] min-[701px]:right-8 min-[701px]:top-[-22px]">
           GRATIS 🙌
         </Sticker>
-        <h2 id="newsletter-titulo" className="font-impact text-[32px] leading-none min-[701px]:text-[44px]">
+        <h2 id="newsletter-titulo" className="font-impact text-[28px] leading-none min-[400px]:text-[32px] min-[701px]:text-[44px]">
           💌 Recibí la boludez del día
         </h2>
         <p className="mx-auto mt-2 max-w-2xl text-lg">

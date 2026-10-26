@@ -8,4 +8,4 @@ alwaysApply: true
 - El aviso de afiliados es obligatorio en el footer.
 - No inventar productos ni precios: usar solo data/dataset.json.
 - Mobile first. Accesible: alt en imágenes, contraste suficiente y foco visible.
-- Fechas en zona America/Argentina/Cordoba.
+- El sitio es para Argentina. Las fechas usan la hora del país, zona America/Argentina/Cordoba.

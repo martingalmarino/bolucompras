@@ -95,7 +95,7 @@ export default async function BolucompraPage({ params }: PageProps) {
         <FichaContenido product={product} />
         {others.length > 0 ? (
           <section className="mt-12" aria-labelledby="otras-titulo">
-            <h2 id="otras-titulo" className="mb-5 font-impact text-[30px] leading-none min-[701px]:text-[40px]">
+            <h2 id="otras-titulo" className="mb-5 font-impact text-[26px] leading-none min-[400px]:text-[32px] min-[701px]:text-[40px]">
               Más bolucompras
             </h2>
             <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">

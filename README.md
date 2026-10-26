@@ -1,6 +1,6 @@
 # Bolucompras
 
-Cada día, una sola compra innecesaria. El sitio elige la bolucompra según la fecha de Córdoba y deja el resto para más adelante.
+Cada día, una sola compra innecesaria. El sitio elige la bolucompra según la fecha de Argentina y deja el resto para más adelante.
 
 ## Cómo verlo en local
 
@@ -15,7 +15,7 @@ Abrí [http://localhost:3000](http://localhost:3000).
 
 ## Cómo se elige la del día
 
-La zona horaria es `America/Argentina/Cordoba`.
+La hora es la de Argentina. La zona IANA es `America/Argentina/Cordoba`: es el reloj de todo el país (UTC−3, sin horario de verano).
 
 - Si hay un producto con `fecha_publicacion` igual a hoy, esa es la bolucompra del día.
 - Si no hay, se muestra la última ya publicada.
@@ -59,6 +59,6 @@ Para sumar productos nuevos hay que volver a deployar: el JSON viaja en el build
 3. Variables de entorno:
    - `NEXT_PUBLIC_SITE_URL`: la URL pública, sin barra al final. Sirve para el canonical, el sitemap y Open Graph.
    - `CRON_SECRET`: un string largo. Vercel lo manda como `Authorization: Bearer …` cuando corre el cron. Si no está, cualquiera puede pegarle a `/api/revalidate`.
-4. El archivo `vercel.json` programa `/api/revalidate` a las 03:05 UTC, que son las 00:05 en Córdoba (UTC−3, sin horario de verano). Eso, más la revalidación de 24 horas, cambia el día sin un deploy manual.
+4. El archivo `vercel.json` programa `/api/revalidate` a las 03:05 UTC, que son las 00:05 en Argentina (UTC−3, sin horario de verano). Eso, más la revalidación de 24 horas, cambia el día sin un deploy manual.
 
 En el plan Hobby de Vercel el cron diario entra. Después del deploy, la home, el archivo, las fichas `/b/[slug]` y el sitemap se regeneran con la fecha nueva.

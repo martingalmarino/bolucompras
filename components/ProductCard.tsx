@@ -54,11 +54,11 @@ export function ProductCard({
         <p className="mt-2 line-clamp-3 min-h-[3.9rem] text-[17px] font-extrabold leading-tight">
           {product.nombre}
         </p>
-        <div className="mt-auto flex items-center justify-between gap-2 pt-2 text-[13px] font-bold">
-          <span className="font-impact text-2xl leading-none text-fucsia">
+        <div className="mt-auto flex items-end justify-between gap-2 pt-2 text-[13px] font-bold">
+          <span className="min-w-0 font-impact text-xl leading-none text-fucsia">
             {precio ?? "En la tienda"}
           </span>
-          <span>🤪 {product.nivel}/10</span>
+          <span className="shrink-0">🤪 {product.nivel}/10</span>
         </div>
       </div>
     </Link>

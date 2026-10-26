@@ -1,3 +1,4 @@
+/** Hora de Argentina. El nombre IANA dice Cordoba y cubre todo el país (UTC−3, sin horario de verano). */
 export const TIME_ZONE = "America/Argentina/Cordoba";
 
 export function calendarDate(iso: string): Date {

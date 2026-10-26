@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 const cards = [
   {
     title: "Una por día",
-    text: "Ni un carrusel infinito de ofertas ni un “también te puede interesar” eterno en la tapa. Cada día, en Córdoba, entra una sola. La de ayer pasa al archivo. La de mañana no se espía.",
+    text: "Ni un carrusel infinito de ofertas ni un “también te puede interesar” eterno en la tapa. Cada día, en Argentina, entra una sola. La de ayer pasa al archivo. La de mañana no se espía.",
     bg: "#FFD23F",
     rotate: "-rotate-1",
   },
@@ -47,7 +47,7 @@ export default function QueEsEstoPage() {
   return (
     <section className="px-5 py-10">
       <div className="mx-auto w-full max-w-[1160px]">
-        <h1 className="text-center font-impact text-[38px] leading-none min-[701px]:text-[56px]">
+        <h1 className="text-center font-impact text-[34px] leading-none min-[400px]:text-[42px] min-[701px]:text-[56px]">
           ¿QUÉ <em className="titulo-fucsia not-italic">ES</em> ESTO?
         </h1>
         <p className="mx-auto mb-8 mt-3 max-w-2xl text-center text-lg">

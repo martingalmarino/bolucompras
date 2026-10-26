@@ -17,7 +17,7 @@ Sitio en español para público hispanohablante. Cada día muestra UNA "bolucomp
 6. Página individual por bolucompra (/b/[slug]) y página de Archivo, para SEO y para compartir.
 
 ## Lógica de publicación
-- Bolucompra del día = el ítem con fecha_publicacion igual a hoy (zona America/Argentina/Cordoba). Si no hay ninguno, el último publicado.
+- Bolucompra del día = el ítem con fecha_publicacion igual a hoy (hora de Argentina, zona America/Argentina/Cordoba). Si no hay ninguno, el último publicado.
 - Nunca mostrar ítems con fecha futura.
 - Anteriores = fecha_publicacion < hoy, de la más nueva a la más vieja.
 - Generación estática con revalidación diaria (ISR o un cron de Vercel a las 00:05) para que el cambio de día sea automático, sin deploy manual.

@@ -93,10 +93,10 @@ export default async function ArchivoPage({ searchParams }: ArchivoProps) {
   return (
     <section className="px-5 py-10">
       <div className="mx-auto w-full max-w-[1160px]">
-        <h1 className="font-impact text-[38px] leading-none min-[701px]:text-[56px]">{heading}</h1>
+        <h1 className="font-impact text-[34px] leading-none min-[400px]:text-[42px] min-[701px]:text-[56px]">{heading}</h1>
         <p className="mb-6 mt-2 max-w-2xl text-lg">
           {published.length === 0
-            ? "Todavía no salió ninguna. Cuando cambie el día en Córdoba, esta página se llena sola."
+            ? "Todavía no salió ninguna. Cuando cambie el día en Argentina, esta página se llena sola."
             : vista === "boludas"
               ? `${items.length} en el ranking, de la que más duele a la que apenas hace cosquillas.`
               : `${items.length} ${items.length === 1 ? "bolucompra ya publicada" : "bolucompras ya publicadas"}, de la más nueva a la más vieja.`}

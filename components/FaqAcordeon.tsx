@@ -9,8 +9,8 @@ export function FaqAcordeon({ items }: { items: FaqItem[] }) {
           className="group rounded-[18px] border-[3px] border-ink bg-white shadow-[4px_4px_0_#1d1d1b] open:bg-sun"
         >
           <summary className="flex items-center justify-between gap-3 px-4 py-3 font-extrabold">
-            <span>{item.pregunta}</span>
-            <span aria-hidden="true" className="font-impact text-xl group-open:rotate-45">
+            <span className="min-w-0">{item.pregunta}</span>
+            <span aria-hidden="true" className="shrink-0 font-impact text-xl leading-none group-open:rotate-45">
               +
             </span>
           </summary>

@@ -25,8 +25,8 @@ export function Sticker({
         "pointer-events-none absolute z-10 border-[3px] border-ink text-center font-impact shadow-[4px_4px_0_#1d1d1b]",
         tones[tone],
         shape === "circle"
-          ? "flex h-[92px] w-[92px] flex-col items-center justify-center rounded-full p-1 text-[15px] leading-tight"
-          : "rounded-[14px] px-3.5 py-2 text-xl leading-none",
+          ? "flex h-[72px] w-[72px] flex-col items-center justify-center rounded-full p-1 text-[12px] leading-tight min-[701px]:h-[92px] min-[701px]:w-[92px] min-[701px]:text-[15px]"
+          : "rounded-[14px] px-2.5 py-1.5 text-base leading-tight min-[701px]:px-3.5 min-[701px]:py-2 min-[701px]:text-xl min-[701px]:leading-none",
         className,
       )}
     >
