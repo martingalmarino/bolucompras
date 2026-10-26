@@ -69,3 +69,19 @@ export function monthLabel(key: string, withYear = false): string {
 export function yearFromISO(iso: string): string {
   return iso.slice(0, 4);
 }
+
+export function formatDayMonth(iso: string): string {
+  const [, month, day] = iso.split("-");
+  return `${Number(day)}/${Number(month)}`;
+}
+
+/** Del 15 de noviembre al 6 de enero, inclusive. Vale para cualquier año. */
+export function isFestiveSeason(iso: string): boolean {
+  const monthDay = iso.slice(5);
+  return monthDay >= "11-15" || monthDay <= "01-06";
+}
+
+/** El enlace a /navidad entra al menú desde el 1 de noviembre de 2026. */
+export function showNavidadMenu(iso: string): boolean {
+  return iso >= "2026-11-01";
+}

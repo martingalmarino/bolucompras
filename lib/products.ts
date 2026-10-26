@@ -2,7 +2,8 @@ import "server-only";
 
 import dataset from "@/data/dataset.json";
 import { todayISO } from "@/lib/dates";
-import type { Bolucompra, FaqItem } from "@/lib/types";
+import { armarPortada } from "@/lib/portada";
+import type { Bolucompra, FaqItem, FranjaPrecio, Temporada } from "@/lib/types";
 
 type RawFaq = {
   pregunta?: string;
@@ -14,7 +15,7 @@ type RawProduct = {
   nombre: string;
   tienda: string;
   url_producto: string;
-  precio_referencia: string;
+  precio_referencia: string | number | null;
   moneda: string;
   fecha_precio: string;
   emoji: string;
@@ -37,7 +38,31 @@ type RawProduct = {
   veredicto?: string;
   faq?: RawFaq[];
   tags_ricos?: string[];
+  temporada?: string;
+  edad_sugerida?: string;
+  franja_precio?: string;
+  consejo_para_regalar?: string;
 };
+
+function asText(value: unknown): string {
+  return typeof value === "string" ? value.trim() : "";
+}
+
+function asPrice(value: unknown): string {
+  if (typeof value === "number" && Number.isFinite(value)) return String(value);
+  if (typeof value === "string") return value.trim();
+  return "";
+}
+
+function asTemporada(value: unknown): Temporada {
+  if (value === "Navidad" || value === "Reyes" || value === "general") return value;
+  return "general";
+}
+
+function asFranja(value: unknown): FranjaPrecio | "" {
+  if (value === "barato" || value === "medio" || value === "caro") return value;
+  return "";
+}
 
 function asList(value: string[] | undefined): string[] {
   if (!Array.isArray(value)) return [];
@@ -77,7 +102,7 @@ function toProduct(raw: RawProduct): Bolucompra {
     tienda: raw.tienda.trim(),
     urlProducto: raw.url_producto?.trim() ?? "",
     linkAfiliado: raw.link_afiliado?.trim() ?? "",
-    precioReferencia: raw.precio_referencia?.trim() ?? "",
+    precioReferencia: asPrice(raw.precio_referencia),
     moneda: raw.moneda?.trim() ?? "",
     fechaPrecio: raw.fecha_precio?.trim() ?? "",
     emoji: raw.emoji?.trim() || "🛒",
@@ -101,6 +126,10 @@ function toProduct(raw: RawProduct): Bolucompra {
     veredicto: raw.veredicto?.trim() ?? "",
     faq: asFaq(raw.faq),
     tagsRicos: asList(raw.tags_ricos),
+    temporada: asTemporada(raw.temporada),
+    edadSugerida: asText(raw.edad_sugerida),
+    franja: asFranja(raw.franja_precio),
+    consejoParaRegalar: asText(raw.consejo_para_regalar),
   };
 }
 
@@ -119,23 +148,19 @@ for (const product of products) {
 
 const bySlug = new Map(products.map((product) => [product.slug, product]));
 
-export type Catalogo = {
-  today: string;
-  featured: Bolucompra | null;
-  anteriores: Bolucompra[];
-  published: Bolucompra[];
-};
+export type Catalogo = ReturnType<typeof armarPortada>;
 
 export function getCatalog(now = new Date()): Catalogo {
+  return armarPortada(products, todayISO(now));
+}
+
+export function getNavidad(now = new Date()): { today: string; published: Bolucompra[]; estreno: string } {
   const today = todayISO(now);
+  const estreno = products.find((product) => product.temporada === "Navidad")?.fecha ?? "2026-11-22";
   const published = products
-    .filter((product) => product.fecha <= today)
+    .filter((product) => product.temporada === "Navidad" && product.fecha <= today)
     .sort((a, b) => b.fecha.localeCompare(a.fecha) || b.id - a.id);
-  const featured = published.find((product) => product.fecha === today) ?? published[0] ?? null;
-  const anteriores = published.filter(
-    (product) => product.fecha < today && product.id !== featured?.id,
-  );
-  return { today, featured, anteriores, published };
+  return { today, published, estreno };
 }
 
 export function getPublishedBySlug(slug: string, now = new Date()): Bolucompra | null {

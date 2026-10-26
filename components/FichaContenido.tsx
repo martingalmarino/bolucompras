@@ -2,8 +2,10 @@ import { BoludezMeter } from "@/components/BoludezMeter";
 import { BuyButton, BuyNote } from "@/components/BuyButton";
 import { FaqAcordeon } from "@/components/FaqAcordeon";
 import { Sticker } from "@/components/Sticker";
+import { badgeTemporada, franjaLabel } from "@/lib/temporada";
 import type { Bolucompra } from "@/lib/types";
 import type { ReactNode } from "react";
+import Link from "next/link";
 
 function Titulo({ id, children }: { id: string; children: ReactNode }) {
   return (
@@ -27,8 +29,51 @@ function Lista({ items }: { items: string[] }) {
 }
 
 export function FichaContenido({ product }: { product: Bolucompra }) {
+  const temporada = badgeTemporada(product.temporada);
+  const deFiesta = product.temporada === "Navidad" || product.temporada === "Reyes";
+
   return (
     <div className="mt-12 space-y-12">
+      {deFiesta ? (
+        <section aria-labelledby="temporada-titulo">
+          <h2
+            id="temporada-titulo"
+            className={`inline-block -rotate-2 rounded-2xl border-[3px] border-ink px-4 py-2 font-impact text-[28px] leading-none text-white shadow-[4px_4px_0_#1d1d1b] ${
+              product.temporada === "Reyes" ? "bg-violet" : "bg-[#C8102E]"
+            }`}
+          >
+            {temporada}
+          </h2>
+          {product.edadSugerida || product.franja ? (
+            <ul className="mt-5 flex flex-wrap gap-2">
+              {product.edadSugerida ? (
+                <li className="rounded-full border-2 border-ink bg-white px-3 py-1.5 text-sm font-extrabold">
+                  Edad: {product.edadSugerida}
+                </li>
+              ) : null}
+              {product.franja ? (
+                <li className="rounded-full border-2 border-ink bg-mint px-3 py-1.5 text-sm font-extrabold">
+                  {franjaLabel(product.franja)}
+                </li>
+              ) : null}
+            </ul>
+          ) : null}
+          {product.consejoParaRegalar ? (
+            <div className="mt-5 rotate-1 rounded-[24px] border-4 border-ink bg-sun p-6 shadow-[8px_8px_0_#1d1d1b]">
+              <p className="font-impact text-[28px] leading-none min-[701px]:text-4xl">Consejo para regalar</p>
+              <p className="mt-3 text-[17px] leading-relaxed">{product.consejoParaRegalar}</p>
+            </div>
+          ) : null}
+          {product.temporada === "Navidad" ? (
+            <p className="mt-4 text-sm font-extrabold">
+              <Link href="/navidad" className="text-ink underline decoration-2 underline-offset-4 hover:text-fucsia-deep">
+                Ver los regalos de Navidad que ya salieron
+              </Link>
+            </p>
+          ) : null}
+        </section>
+      ) : null}
+
       {product.intro ? (
         <section aria-labelledby="intro-titulo">
           <Titulo id="intro-titulo">La previa</Titulo>

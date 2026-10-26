@@ -69,7 +69,8 @@
       "pantuflas de peluche",
       "regalos graciosos",
       "bolucompra de invierno"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 2,
@@ -141,7 +142,8 @@
       "amigo invisible",
       "humor negro tierno",
       "regalos raros"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 3,
@@ -213,7 +215,8 @@
       "medias originales",
       "regalos baratos",
       "shein"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 4,
@@ -286,7 +289,8 @@
       "memes",
       "decoración divertida",
       "bolucompra"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 5,
@@ -358,7 +362,8 @@
       "cotillón",
       "disfraz los simpson",
       "accesorios para fiestas"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 6,
@@ -430,7 +435,8 @@
       "regalos inútiles",
       "cocina divertida",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 7,
@@ -502,7 +508,8 @@
       "medias de invierno",
       "regalos tiernos",
       "shein"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 8,
@@ -574,7 +581,8 @@
       "botiquín divertido",
       "regalo para cocineros",
       "gadgets raros"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 9,
@@ -646,7 +654,8 @@
       "despedida de soltero",
       "fiesta de egresados",
       "juguetes para fiestas"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 10,
@@ -719,7 +728,8 @@
       "memes de animales",
       "regalos graciosos",
       "bolucompra"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 11,
@@ -791,7 +801,8 @@
       "regalo para golosos",
       "peluches originales",
       "shein"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 12,
@@ -863,7 +874,8 @@
       "decoración de dormitorio",
       "regalos tiernos",
       "peluches de comida"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 13,
@@ -935,7 +947,8 @@
       "cotillón mundial",
       "accesorios para la playa",
       "regalos para hinchas"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 14,
@@ -1007,7 +1020,8 @@
       "regalos para amantes del café",
       "dinosaurios",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 15,
@@ -1080,7 +1094,8 @@
       "años 70",
       "regalo para quien lo tiene todo",
       "bolucompra"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 16,
@@ -1152,7 +1167,8 @@
       "regalos geek",
       "juguetes de escritorio",
       "regalo para quien lo tiene todo"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 17,
@@ -1224,7 +1240,8 @@
       "humor de baño",
       "regalo día del padre",
       "regalos graciosos"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 18,
@@ -1296,7 +1313,8 @@
       "michis",
       "halloween mascotas",
       "regalos para gateros"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 19,
@@ -1368,7 +1386,8 @@
       "afeitado",
       "regalo día del padre",
       "gadgets de baño"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 20,
@@ -1440,7 +1459,8 @@
       "juguetes para perros",
       "cotillón",
       "regalos de broma"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 21,
@@ -1512,7 +1532,8 @@
       "regalos raros",
       "regalos para gateros",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 22,
@@ -1584,7 +1605,8 @@
       "noche de películas",
       "decoración divertida",
       "mantas originales"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 23,
@@ -1656,7 +1678,8 @@
       "cotillón",
       "regalos de broma",
       "juguetes de humor"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 24,
@@ -1728,7 +1751,8 @@
       "regalos para golosos",
       "cumpleaños",
       "comida divertida"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 25,
@@ -1800,7 +1824,8 @@
       "objetos tiernos",
       "escritorio",
       "michis"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 26,
@@ -1872,7 +1897,8 @@
       "humor de baño",
       "decoración graciosa",
       "regalos de broma"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 27,
@@ -1944,7 +1970,8 @@
       "halloween",
       "fiestas temáticas",
       "videos virales"
-    ]
+    ],
+    "temporada": "general"
   },
   {
     "id": 28,
@@ -2016,7 +2043,84 @@
       "verano",
       "regalos de verano",
       "pileta"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 51,
+    "nombre": "Cactus bailarín que repite lo que decís",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/05MrY7/cactus-luminoso-bailarin-repetidor-musica-40cm-algodon-ninos",
+    "url_verificada": false,
+    "precio_referencia": 11990,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🌵",
+    "imagen_url": "",
+    "descripcion_graciosa": "Un cactus que baila, canta y repite todo. Ideal para que el sobrino te imite en la mesa de Nochebuena.",
+    "nivel_boludez": 8,
+    "tags": "cactus bailarín,juguete que repite,regalo navidad niños,juguete musical,regalos para chicos,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-22",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Precio visto en el resultado de búsqueda, verificar.",
+    "slug": "cactus-bailarin-que-repite-lo-que-decis-51",
+    "titulo_seo": "Cactus bailarín que repite lo que decís: regalo de Navidad gracioso pa",
+    "meta_description": "Un cactus que baila, canta y repite todo. Ideal para que el sobrino te imite en la mesa de Nochebuena. Ideas de regalo navideño para chicos.",
+    "intro": "Hay regalos que se olvidan a los diez minutos y después está el cactus bailarín, que no te deja olvidarlo nunca más. Le hablás, te contesta con voz de ardilla acelerada, se mueve como si estuviera en una fiesta de egresados y encima se ilumina. Para un chico es magia pura. Para los adultos de la casa, es el comienzo de una Navidad muy, muy musical.",
+    "por_que_es_bolucompra": [
+      "Ningún ser humano necesita una planta que baile. Las plantas de verdad tienen la decencia de quedarse quietas y no repetir lo que dijo el tío en la sobremesa. Este cactus, en cambio, graba frases cortas y las devuelve con una voz finita que convierte cualquier conversación en un sketch.",
+      "Y justamente por eso es una bolucompra perfecta para regalar a chicos: es absurdo, es tierno y genera risas garantizadas el 24 a la noche. Además no pincha, porque es de tela, así que es el único cactus de la familia que se puede abrazar sin consecuencias."
+    ],
+    "para_quien": [
+      "Chicos de 3 a 6 años que se ríen de cualquier ruido raro",
+      "Sobrinos a los que querés convertir en fans eternos del tío o la tía",
+      "Padrinos que buscan un regalo seguro que no ocupe media casa",
+      "Familias que disfrutan del caos sonoro de las fiestas"
+    ],
+    "pros": [
+      "Repite voces y frases, algo que a los chicos les encanta",
+      "Es de tela, liviano y sin espinas reales",
+      "Funciona también como adorno simpático en la habitación"
+    ],
+    "contras": [
+      "Va a repetir cosas que no querías que repita",
+      "El volumen y las canciones dependen del modelo, revisá la publicación",
+      "A la semana vas a saberte todas sus canciones de memoria"
+    ],
+    "ideas_de_uso": [
+      "Ponerlo junto al arbolito para que reciba a las visitas",
+      "Grabar un saludo navideño y que lo repita cuando lleguen los abuelos",
+      "Usarlo como juego para que los más chicos practiquen palabras",
+      "Dejarlo de sorpresa en la habitación la mañana del 25"
+    ],
+    "veredicto": "Es un regalo barato, seguro y con una tasa de carcajadas altísima. Los adultos lo van a sufrir un poquito, pero ver a un nene bailando con un cactus vale cada repetición. Bolucompra navideña aprobada.",
+    "faq": [
+      {
+        "pregunta": "¿Necesita pilas o se carga?",
+        "respuesta": "Depende del vendedor: hay versiones recargables por USB y otras a pilas. Revisá la descripción de la publicación antes de comprar."
+      },
+      {
+        "pregunta": "¿Para qué edad es?",
+        "respuesta": "Las publicaciones lo suelen recomendar desde los 3 años. Igual conviene revisar la edad indicada por el vendedor."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "cactus bailarín",
+      "juguete que repite",
+      "regalo navidad niños",
+      "juguete musical",
+      "regalos para chicos",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 a 6 años",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: cactus bailarín que repite lo que decís funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 6 años. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 29,
@@ -2088,7 +2192,84 @@
       "accesorios originales",
       "regalos para amigas",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 52,
+    "nombre": "Pistola automática de burbujas",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/QCctrq/burbujero-pistola-automatica-burbujas-ideal-regalo-nino",
+    "url_verificada": false,
+    "precio_referencia": 7700,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🫧",
+    "imagen_url": "",
+    "descripcion_graciosa": "Apretás el gatillo y el patio se convierte en una nube. El arma más pacífica de toda la Navidad.",
+    "nivel_boludez": 6,
+    "tags": "pistola de burbujas,burbujero automático,regalo navidad niños,juguetes de verano,regalo barato para chicos,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-23",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Precio visto en el resultado de búsqueda, verificar.",
+    "slug": "pistola-automatica-de-burbujas-52",
+    "titulo_seo": "Pistola automática de burbujas: regalo de Navidad gracioso para chicos",
+    "meta_description": "Apretás el gatillo y el patio se convierte en una nube. El arma más pacífica de toda la Navidad. Ideas de regalo navideño para chicos.",
+    "intro": "En Argentina, la Navidad cae en pleno calor, con chicos corriendo por el patio y adultos que no se pueden mover después del vitel toné. La pistola de burbujas es la respuesta perfecta a ese caos: un gatillo, miles de burbujas y diez minutos de paz mientras todos persiguen la nube que sale del aparatito.",
+    "por_que_es_bolucompra": [
+      "Soplar burbujas con el aro de plástico funcionó durante generaciones. No había ninguna necesidad de motorizar algo que ya era perfecto. Pero alguien decidió que las burbujas tenían que salir a ráfaga, como en una película de acción para menores de cinco años, y la humanidad aceptó sin discutir.",
+      "Lo bolucompra está en que vas a terminar disparando vos también. Es imposible tener una pistola de burbujas en la mano y no apuntarle al primo grande. Es un regalo para chicos que, en la práctica, también entretiene a todos los adultos con alma de nene."
+    ],
+    "para_quien": [
+      "Chicos que en Nochebuena no pueden quedarse quietos ni un minuto",
+      "Familias con patio, terraza o balcón para las fiestas",
+      "Tíos que quieren el regalo más festejado al menor costo",
+      "Padres que necesitan una actividad al aire libre después de la cena"
+    ],
+    "pros": [
+      "Ideal para el verano navideño argentino",
+      "Entretiene a varios chicos a la vez",
+      "Suele ser uno de los regalos más baratos de la lista"
+    ],
+    "contras": [
+      "El líquido se termina rápido y hay que reponerlo",
+      "Adentro de la casa deja el piso resbaladizo",
+      "Algunos modelos usan pilas que no vienen incluidas"
+    ],
+    "ideas_de_uso": [
+      "Show de burbujas a las doce, mientras explotan los fuegos del vecino",
+      "Juego de reventar burbujas antes de abrir los regalos",
+      "Fotos navideñas con fondo de burbujas en el patio",
+      "Regalo de amigo invisible infantil en el jardín"
+    ],
+    "veredicto": "Es la bolucompra más noble de la temporada: barata, al aire libre y con risas aseguradas. No reemplaza al aro de toda la vida, pero lo hace muchísimo más épico.",
+    "faq": [
+      {
+        "pregunta": "¿Viene con líquido?",
+        "respuesta": "Muchas publicaciones incluyen líquido y bandeja, pero no todas. Mirá qué incluye el kit antes de comprar y sumá un repuesto."
+      },
+      {
+        "pregunta": "¿Se puede usar adentro?",
+        "respuesta": "Se puede, pero el líquido deja el piso resbaloso. Lo ideal es usarla afuera y con supervisión de un adulto."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "pistola de burbujas",
+      "burbujero automático",
+      "regalo navidad niños",
+      "juguetes de verano",
+      "regalo barato para chicos",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 años en adelante",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pistola automática de burbujas funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 30,
@@ -2160,7 +2341,84 @@
       "regalos absurdos",
       "souvenirs graciosos",
       "humor visual"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 53,
+    "nombre": "Disfraz de reno para chicos",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-de-reno",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🦌",
+    "imagen_url": "",
+    "descripcion_graciosa": "Para que Papá Noel tenga un reno de repuesto sentado en la mesa del 24.",
+    "nivel_boludez": 7,
+    "tags": "disfraz de reno,disfraz navideño infantil,reno niños,ropa navideña chicos,regalo navidad niños,bolucompra navideña",
+    "categoria": "Disfraces",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-24",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "disfraz-de-reno-para-chicos-53",
+    "titulo_seo": "Disfraz de reno para chicos: regalo de Navidad gracioso para chicos | ",
+    "meta_description": "Para que Papá Noel tenga un reno de repuesto sentado en la mesa del 24. Ideas de regalo navideño para chicos.",
+    "intro": "Todos los años alguien de la familia se disfraza de Papá Noel y pasa calor como nunca en su vida. Este año podés sumarle compañía: un reno chiquito, con vincha de astas y cara de no haber hecho nada. Los disfraces de reno para chicos convierten la foto familiar en una postal y al nene en la estrella absoluta de la noche.",
+    "por_que_es_bolucompra": [
+      "Un chico no necesita astas. Los chicos ya son suficientemente adorables sin cuernos de felpa en la cabeza. Pero en diciembre la lógica se toma vacaciones y vestir al más chico como integrante oficial del equipo de Papá Noel parece, de pronto, una decisión impostergable.",
+      "Es bolucompra porque se usa una o dos noches por año y después vive en un cajón hasta el diciembre siguiente, cuando ya no le entra. Pero esas dos noches valen cada peso: fotos, risas y un reno que reparte regalos debajo del árbol."
+    ],
+    "para_quien": [
+      "Chicos que aman disfrazarse y ser el centro de atención",
+      "Familias que hacen la foto navideña temática cada año",
+      "Jardines y escuelas con acto de fin de año navideño",
+      "Madrinas que quieren regalar algo distinto a la ropa de siempre"
+    ],
+    "pros": [
+      "Hay variantes con tutú, remera, vincha o mameluco",
+      "Hace muchísimo más divertida la noche del 24",
+      "Sirve también para actos escolares y cumpleaños temáticos"
+    ],
+    "contras": [
+      "Con el calor de diciembre, los modelos enteros pueden dar mucho calor",
+      "Los talles cambian según el vendedor",
+      "Al año siguiente probablemente le quede chico"
+    ],
+    "ideas_de_uso": [
+      "Que el reno sea el encargado de repartir los regalos",
+      "Foto familiar con Papá Noel y su asistente",
+      "Acto de fin de año del jardín",
+      "Combinarlo con la vincha con luces para salir a ver los fuegos"
+    ],
+    "veredicto": "No hace falta, pero transforma la Navidad en un recuerdo. Elegí un modelo liviano para el calor y preparate para la mejor foto del año.",
+    "faq": [
+      {
+        "pregunta": "¿Qué talle conviene?",
+        "respuesta": "Cada publicación tiene su propia tabla de talles. Medí al chico y, si está entre dos, elegí el más grande."
+      },
+      {
+        "pregunta": "¿Hay modelos frescos para el verano?",
+        "respuesta": "Sí, en el listado aparecen sets de vincha y tutú o remera, mucho más livianos que un mameluco entero."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "disfraz de reno",
+      "disfraz navideño infantil",
+      "reno niños",
+      "ropa navideña chicos",
+      "regalo navidad niños",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según talle de la publicación",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: disfraz de reno para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 31,
@@ -2232,7 +2490,84 @@
       "regalos tiernos",
       "decoración divertida",
       "potato pillow"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 54,
+    "nombre": "Almohadón tira pedos",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/Rpb9h8/almohadon-tira-pedos-chasco-juego-bromas-juguete",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "💨",
+    "imagen_url": "",
+    "descripcion_graciosa": "El clásico chasco que no falla: lo dejás en la silla del abuelo y la Nochebuena se vuelve inolvidable.",
+    "nivel_boludez": 9,
+    "tags": "almohadón tira pedos,chasco,bromas para chicos,día de los inocentes,regalo gracioso navidad,bolucompra navideña",
+    "categoria": "Bromas",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-25",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "almohadon-tira-pedos-54",
+    "titulo_seo": "Almohadón tira pedos: regalo de Navidad gracioso para chicos | Bolucom",
+    "meta_description": "El clásico chasco que no falla: lo dejás en la silla del abuelo y la Nochebuena se vuelve inolvidable. Ideas de regalo navideño para chicos.",
+    "intro": "Hay bromas que pasan de moda y después está el almohadón tira pedos, que sobrevivió a todas las generaciones sin perder ni un gramo de efectividad. Es un globo de goma que, al sentarse alguien encima, hace el ruido más sincero del mundo. Los chicos lo aman, los abuelos lo sufren y la mesa navideña nunca vuelve a ser la misma.",
+    "por_que_es_bolucompra": [
+      "No existe ninguna razón práctica para tener un almohadón que simule flatulencias. Es la definición de boludez en estado puro: goma, aire y un sonido que hace reír desde los cuatro hasta los noventa años sin ninguna explicación científica razonable.",
+      "Y sin embargo es uno de los mejores regalos para chicos: barato, simple, sin pantallas y con un humor que une a toda la familia. Ningún videojuego logra la carcajada colectiva de un pedo falso justo antes del brindis."
+    ],
+    "para_quien": [
+      "Chicos bromistas que ya saben preparar un chasco",
+      "Tíos que se ganan el título de favorito por méritos propios",
+      "Familias con buen humor y abuelos con paciencia",
+      "Amigos invisibles infantiles con presupuesto ajustado"
+    ],
+    "pros": [
+      "Barato y sin pilas",
+      "Humor universal que funciona con todas las edades",
+      "Se guarda en el bolsillo y está listo para la próxima víctima"
+    ],
+    "contras": [
+      "Pierde efecto si todos ya saben dónde está",
+      "Hay que inflarlo bien para que suene",
+      "Alguna tía puede no encontrarlo tan gracioso"
+    ],
+    "ideas_de_uso": [
+      "Dejarlo en la silla de Papá Noel antes de que llegue",
+      "Incluirlo en una bolsita de regalos chicos",
+      "Broma oficial del 28 de diciembre, Día de los Inocentes",
+      "Juego de esconderlo en distintas sillas durante la cena"
+    ],
+    "veredicto": "Es la bolucompra más honesta de la lista: no promete nada más que risas, y las cumple. Un clásico que todo chico merece tener al menos una vez.",
+    "faq": [
+      {
+        "pregunta": "¿Es apto para chicos chicos?",
+        "respuesta": "Es de goma y puede tener piezas pequeñas o partes que se rompen. Para los más chicos, usalo siempre con un adulto cerca."
+      },
+      {
+        "pregunta": "¿Cómo se usa?",
+        "respuesta": "Se infla soplando por la boquilla, se esconde en una silla y se espera a la víctima. Así de simple."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "almohadón tira pedos",
+      "chasco",
+      "bromas para chicos",
+      "día de los inocentes",
+      "regalo gracioso navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Para chicos que ya entienden las bromas, con supervisión",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: almohadón tira pedos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: para chicos que ya entienden las bromas, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 32,
@@ -2304,7 +2639,84 @@
       "regalos divertidos",
       "calzado de entrecasa",
       "memes de patos"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 55,
+    "nombre": "Huevos de dinosaurio que nacen en el agua",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/juguetes-que-crecen-en-el-agua",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🥚",
+    "imagen_url": "",
+    "descripcion_graciosa": "Ponés el huevo en agua, esperás y nace un dinosaurio. Jurassic Park versión vaso de la cocina.",
+    "nivel_boludez": 7,
+    "tags": "huevo de dinosaurio,juguetes que crecen en agua,dinosaurios para niños,regalo navidad barato,experimentos para chicos,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-26",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "huevos-de-dinosaurio-que-nacen-en-el-agua-55",
+    "titulo_seo": "Huevos de dinosaurio que nacen en el agua: regalo de Navidad gracioso ",
+    "meta_description": "Ponés el huevo en agua, esperás y nace un dinosaurio. Jurassic Park versión vaso de la cocina. Ideas de regalo navideño para chicos.",
+    "intro": "Tener un dinosaurio de mascota es complicado: come mucho, ocupa lugar y extingue especies. Los huevos que eclosionan en el agua son la versión domesticada del sueño: se meten en un vaso, se agrietan con el paso de las horas y adentro aparece un dinosaurito que sigue creciendo varios días. Para un chico, es ciencia y magia en el mismo vaso.",
+    "por_que_es_bolucompra": [
+      "Un juguete que tarda días en estar listo va contra todo lo que esperamos en diciembre, el mes de la ansiedad. Hay que esperar, mirar el vaso, volver a mirar el vaso y volver a preguntar si ya nació. Es la paciencia convertida en juguete.",
+      "Y la boludez llega al final: el dinosaurio crece, crece y después de unos días, si lo sacás del agua, se achica. Es una mascota con fecha de vencimiento. Pero el viaje, con un chico emocionado preguntando cada mañana, es lo que vale."
+    ],
+    "para_quien": [
+      "Chicos curiosos que aman los dinosaurios",
+      "Familias que buscan un regalo sin pantallas",
+      "Docentes que quieren un experimento simple para el aula",
+      "Padrinos que regalan en cantidad a varios ahijados"
+    ],
+    "pros": [
+      "Combina juego con observación y paciencia",
+      "Suelen venderse en packs para varios chicos",
+      "Ocupa poco y no necesita pilas"
+    ],
+    "contras": [
+      "El proceso tarda: puede llevar horas o días",
+      "El agua hay que cambiarla para que no huela",
+      "No es para chicos que se meten todo en la boca"
+    ],
+    "ideas_de_uso": [
+      "Ponerlo en agua la noche del 24 y descubrir el dino el 25",
+      "Competencia entre primos para ver cuál nace primero",
+      "Diario de crecimiento con fotos día por día",
+      "Sorpresa en la bolsita de regalos de fin de año"
+    ],
+    "veredicto": "Es barato, es simple y genera una emoción que dura varios días. Una bolucompra que, sin querer, enseña a esperar. En diciembre, eso es casi un milagro.",
+    "faq": [
+      {
+        "pregunta": "¿Cuánto tarda en nacer?",
+        "respuesta": "Según las publicaciones, suelen empezar a agrietarse en el primer día y crecer durante varios días. Mirá las instrucciones del producto."
+      },
+      {
+        "pregunta": "¿Es seguro?",
+        "respuesta": "Los materiales que crecen en agua pueden ser peligrosos si se tragan. Usalo con supervisión adulta y lejos de los más chicos."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "huevo de dinosaurio",
+      "juguetes que crecen en agua",
+      "dinosaurios para niños",
+      "regalo navidad barato",
+      "experimentos para chicos",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 años en adelante, con supervisión",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: huevos de dinosaurio que nacen en el agua funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 33,
@@ -2376,7 +2788,84 @@
       "decoración de escritorio",
       "regalos tiernos",
       "regalos para oficina"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 56,
+    "nombre": "Fábrica de slime con toppings",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://articulo.mercadolibre.com.ar/MLA-1454531744-fabrica-de-slime-1-l-17-toppings-p-ninos-sugar-splash-c-_JM",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🧪",
+    "imagen_url": "",
+    "descripcion_graciosa": "Un litro de slime y una pila de toppings: el regalo que los chicos aman y los sillones temen.",
+    "nivel_boludez": 7,
+    "tags": "fábrica de slime,kit de slime,manualidades para chicos,regalo navidad niñas,juegos sensoriales,bolucompra navideña",
+    "categoria": "Manualidades",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-27",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "fabrica-de-slime-con-toppings-56",
+    "titulo_seo": "Fábrica de slime con toppings: regalo de Navidad gracioso para chicos ",
+    "meta_description": "Un litro de slime y una pila de toppings: el regalo que los chicos aman y los sillones temen. Ideas de regalo navideño para chicos.",
+    "intro": "El slime es esa masa pegajosa, elástica y brillante que los chicos pueden estirar durante horas como si fuera lo más interesante del universo. Una fábrica de slime con toppings le suma purpurina, bolitas y decoraciones para inventar mezclas propias. Es el laboratorio de Navidad más pegote del mercado.",
+    "por_que_es_bolucompra": [
+      "Ningún adulto entiende del todo el slime. Es una sustancia que no sirve para nada, que se pega en el pelo del perro y que aparece misteriosamente en el sillón tres semanas después. Y aun así, cualquier chico que lo recibe reacciona como si hubiera ganado la lotería.",
+      "Es bolucompra porque es puro juego sensorial sin ningún objetivo, y ahí está su encanto. Mezclar, estirar, aplastar y volver a empezar. En una tarde calurosa de diciembre, entretiene más que cualquier aparato con batería."
+    ],
+    "para_quien": [
+      "Chicos que aman las manualidades y ensuciarse un poco",
+      "Fanáticos de los videos de slime",
+      "Padrinos que quieren un regalo que se use durante semanas",
+      "Familias con una mesa de jardín para el laboratorio"
+    ],
+    "pros": [
+      "Mucho juego creativo por regalo",
+      "Se puede compartir entre hermanos o primos",
+      "No necesita pantalla ni pilas"
+    ],
+    "contras": [
+      "Mancha, se pega y aparece en lugares insólitos",
+      "Requiere supervisión con los más chicos",
+      "Hay que guardarlo cerrado o se seca"
+    ],
+    "ideas_de_uso": [
+      "Taller de slime navideño con colores rojo y verde",
+      "Actividad para la tarde del 25 mientras los grandes duermen la siesta",
+      "Competencia del slime más estirable",
+      "Regalitos caseros de slime para los compañeros"
+    ],
+    "veredicto": "Bolucompra pegajosa y feliz. Prepará un mantel viejo y aceptá que el slime va a formar parte de tu Navidad.",
+    "faq": [
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "Revisá la edad indicada en la publicación y en el envase. Con chicos chicos, siempre con un adulto."
+      },
+      {
+        "pregunta": "¿Cómo saco el slime de la ropa?",
+        "respuesta": "Depende de la tela. Lo más común es dejarlo secar, sacar lo grueso y lavar; probá primero en una parte poco visible."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "fábrica de slime",
+      "kit de slime",
+      "manualidades para chicos",
+      "regalo navidad niñas",
+      "juegos sensoriales",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según indicación del fabricante, con supervisión",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: fábrica de slime con toppings funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del fabricante, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 34,
@@ -2448,7 +2937,84 @@
       "regalo para parrilleros",
       "regalos graciosos",
       "aromas extraños"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 57,
+    "nombre": "Garras de dinosaurio",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/garra-dinosaurio",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🦕",
+    "imagen_url": "",
+    "descripcion_graciosa": "Manos de T-Rex para chicos: imposible abrir los regalos, pero qué estilo.",
+    "nivel_boludez": 8,
+    "tags": "garras de dinosaurio,disfraz dinosaurio,juguetes de dinosaurios,regalo navidad niños,juego imaginativo,bolucompra navideña",
+    "categoria": "Disfraces",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-28",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "garras-de-dinosaurio-57",
+    "titulo_seo": "Garras de dinosaurio: regalo de Navidad gracioso para chicos | Bolucom",
+    "meta_description": "Manos de T-Rex para chicos: imposible abrir los regalos, pero qué estilo. Ideas de regalo navideño para chicos.",
+    "intro": "Hay chicos que no quieren un dinosaurio: quieren SER un dinosaurio. Las garras de dinosaurio se ponen como guantes y transforman las manos en zarpas de reptil prehistórico. Rugir es opcional, pero va a pasar. Es el accesorio más simple para que un nene se transforme en el depredador más temido del living.",
+    "por_que_es_bolucompra": [
+      "Las manos humanas son una maravilla de la evolución: sirven para escribir, comer y abrir regalos. Las garras de dinosaurio vienen a deshacer millones de años de progreso para que tu sobrino no pueda agarrar ni un pan dulce. Y está chocho.",
+      "Es bolucompra porque no tiene ninguna función práctica, pero alimenta algo mucho más importante: la imaginación. Con unas garras, el patio es una selva y el perro, una presa. El juego viene incluido."
+    ],
+    "para_quien": [
+      "Chicos fanáticos de los dinosaurios",
+      "Hermanos que juegan a perseguirse",
+      "Tíos que quieren un regalo simple y gracioso",
+      "Fiestas temáticas de dinosaurios"
+    ],
+    "pros": [
+      "Barato y fácil de sumar a otro regalo",
+      "Estimula el juego imaginativo",
+      "Combina con disfraces y pijamas de dino"
+    ],
+    "contras": [
+      "Con las garras puestas no se puede hacer nada más",
+      "Los modelos varían en material y tamaño",
+      "Puede haber persecuciones peligrosas por el pasillo"
+    ],
+    "ideas_de_uso": [
+      "Combo con el pijama kigurumi de dinosaurio",
+      "Juego de 'el dinosaurio busca los regalos'",
+      "Fotos navideñas con garras y gorro de Papá Noel",
+      "Accesorio para un cumpleaños jurásico"
+    ],
+    "veredicto": "Simple, barato y con un nivel de diversión prehistórico. Para el chico dinosaurio de tu vida, es un acierto seguro.",
+    "faq": [
+      {
+        "pregunta": "¿Son de goma o de tela?",
+        "respuesta": "Hay de varios materiales según el vendedor. Revisá cada publicación del listado."
+      },
+      {
+        "pregunta": "¿Le quedan a un adulto?",
+        "respuesta": "Algunas son de talle único y otras infantiles. Fijate las medidas si querés sumarte al juego."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "garras de dinosaurio",
+      "disfraz dinosaurio",
+      "juguetes de dinosaurios",
+      "regalo navidad niños",
+      "juego imaginativo",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según indicación del vendedor",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: garras de dinosaurio funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del vendedor. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 35,
@@ -2520,7 +3086,84 @@
       "sushi",
       "regalos para dueños de perros",
       "mascotas graciosas"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 58,
+    "nombre": "Buzo navideño",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/buzo-de-navidad",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🎄",
+    "imagen_url": "",
+    "descripcion_graciosa": "El ugly sweater llegó a la Argentina: abrigo de lana en pleno diciembre, la bolucompra más valiente del año.",
+    "nivel_boludez": 9,
+    "tags": "buzo navideño,ugly sweater,sweater navideño niños,ropa navideña,foto familiar navidad,bolucompra navideña",
+    "categoria": "Ropa",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-29",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "buzo-navideno-58",
+    "titulo_seo": "Buzo navideño: regalo de Navidad gracioso para chicos | Bolucompras",
+    "meta_description": "El ugly sweater llegó a la Argentina: abrigo de lana en pleno diciembre, la bolucompra más valiente del año. Ideas de regalo navideño para chicos.",
+    "intro": "En el hemisferio norte, el ugly sweater navideño tiene sentido: hace frío, nieva y todos se tapan con renos tejidos. En Argentina, el 24 de diciembre hace treinta grados. Por eso regalarle un buzo navideño a un chico es una declaración de principios: la Navidad se festeja con estilo, aunque el estilo sea sudar.",
+    "por_que_es_bolucompra": [
+      "Ningún argentino necesita un buzo en diciembre. Es la bolucompra climática por excelencia. El chico se lo pone para la foto, cuenta hasta diez y ya está buscando la pileta.",
+      "Pero tiene su lógica secreta: la foto queda espectacular, sirve para el acto navideño con aire acondicionado y al año siguiente se convierte en tradición. Algunas familias hasta lo usan en julio, para la Navidad en invierno."
+    ],
+    "para_quien": [
+      "Familias que hacen la foto de Navidad con look coordinado",
+      "Chicos que viajan a lugares fríos en las fiestas",
+      "Fanáticos de las películas navideñas yanquis",
+      "Tíos con sentido del humor y del ridículo"
+    ],
+    "pros": [
+      "Fotos navideñas inolvidables",
+      "Se puede usar en invierno o en la Navidad en julio",
+      "Hay modelos con renos, Papá Noel y personajes"
+    ],
+    "contras": [
+      "En diciembre es una sauna con renos",
+      "Los talles dependen del vendedor",
+      "Probablemente le quede chico para la Navidad siguiente"
+    ],
+    "ideas_de_uso": [
+      "Foto familiar con todos de buzo navideño",
+      "Fiesta de Navidad en julio",
+      "Viaje a la Patagonia en las vacaciones",
+      "Concurso del buzo más feo de la familia"
+    ],
+    "veredicto": "Es una bolucompra fuera de estación, y eso la hace más graciosa. Para la foto y el recuerdo, vale. Para la cena, preparate para un cambio de ropa.",
+    "faq": [
+      {
+        "pregunta": "¿Se consigue en talle infantil?",
+        "respuesta": "En el listado aparecen buzos navideños de distintos talles. Revisá que el que elijas sea infantil."
+      },
+      {
+        "pregunta": "¿No da mucho calor?",
+        "respuesta": "En diciembre, sí. Pensalo para la foto, para un viaje al frío o para la Navidad en julio."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "buzo navideño",
+      "ugly sweater",
+      "sweater navideño niños",
+      "ropa navideña",
+      "foto familiar navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según talle de la publicación",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: buzo navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 36,
@@ -2592,7 +3235,84 @@
       "regalos tiernos",
       "calzado de invierno",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 59,
+    "nombre": "Gorro de Papá Noel con luces",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/gorros-de-navidad-con-luces",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🎅",
+    "imagen_url": "",
+    "descripcion_graciosa": "El gorro clásico, pero que brilla: ideal para encontrar a los chicos en la oscuridad a las doce.",
+    "nivel_boludez": 6,
+    "tags": "gorro de papá noel,gorro navideño con luces,accesorios navidad niños,cotillón navideño,regalo barato navidad,bolucompra navideña",
+    "categoria": "Navidad",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-11-30",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "gorro-de-papa-noel-con-luces-59",
+    "titulo_seo": "Gorro de Papá Noel con luces: regalo de Navidad gracioso para chicos |",
+    "meta_description": "El gorro clásico, pero que brilla: ideal para encontrar a los chicos en la oscuridad a las doce. Ideas de regalo navideño para chicos.",
+    "intro": "El gorro de Papá Noel es un clásico de las fiestas argentinas, y la versión con luces lo lleva al siguiente nivel. Cuando a las doce salen todos a la vereda a ver los fuegos, el chico del gorro luminoso es imposible de perder. Es decoración, disfraz y faro de emergencia en un solo producto.",
+    "por_que_es_bolucompra": [
+      "Un gorro de felpa en diciembre ya es un acto de rebeldía térmica. Agregarle luces de colores es directamente sumar fiesta al acto de rebeldía. Nadie lo necesita, pero todos lo quieren en la foto.",
+      "Lo bueno es que es barato y se puede comprar en cantidad, así que toda la mesa infantil puede tener el suyo. Y cuando se apaga la luz de la casa para el brindis, el efecto es espectacular."
+    ],
+    "para_quien": [
+      "Chicos que quieren sentirse ayudantes de Papá Noel",
+      "Familias grandes con muchos primos",
+      "Organizadores de fiestas de fin de año del jardín o la escuela",
+      "Padres que no quieren perder a sus hijos en la vereda a las doce"
+    ],
+    "pros": [
+      "Económico y fácil de comprar para varios chicos",
+      "Suma ambiente navideño al instante",
+      "Ayuda a ubicar a los chicos de noche"
+    ],
+    "contras": [
+      "Las luces usan pilas pequeñas: deben quedar fuera del alcance de los chicos",
+      "Con el calor, dura poco tiempo puesto",
+      "La calidad varía mucho entre vendedores"
+    ],
+    "ideas_de_uso": [
+      "Gorro para toda la mesa infantil del 24",
+      "Uniforme para repartir los regalos",
+      "Accesorio para el acto escolar",
+      "Decoración del arbolito cuando nadie lo usa"
+    ],
+    "veredicto": "Bolucompra brillante, barata y festiva. Revisá que el compartimento de las pilas esté bien cerrado y dejá que los chicos iluminen la Nochebuena.",
+    "faq": [
+      {
+        "pregunta": "¿Qué pilas usa?",
+        "respuesta": "Depende del modelo. Muchos usan pilas tipo botón, que son peligrosas si se tragan: asegurate de que el compartimento esté cerrado con tornillo o traba."
+      },
+      {
+        "pregunta": "¿Se puede comprar en cantidad?",
+        "respuesta": "Sí, en el listado aparecen packs. Es una opción práctica para familias grandes."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "gorro de papá noel",
+      "gorro navideño con luces",
+      "accesorios navidad niños",
+      "cotillón navideño",
+      "regalo barato navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según indicación del vendedor",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gorro de papá noel con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del vendedor. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 37,
@@ -2664,7 +3384,84 @@
       "despedida de soltero",
       "disfraces",
       "accesorios para fiestas"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 60,
+    "nombre": "Disfraz de Rex de Toy Story",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-toy-story-rex-dinosaurio",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🦖",
+    "imagen_url": "",
+    "descripcion_graciosa": "El dinosaurio más miedoso del cine, ahora en talle nene. Ruge poco, abraza mucho.",
+    "nivel_boludez": 7,
+    "tags": "disfraz de rex,toy story,disfraz dinosaurio niños,disfraces infantiles,regalo navidad niños,bolucompra navideña",
+    "categoria": "Disfraces",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-01",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "disfraz-de-rex-de-toy-story-60",
+    "titulo_seo": "Disfraz de Rex de Toy Story: regalo de Navidad gracioso para chicos | ",
+    "meta_description": "El dinosaurio más miedoso del cine, ahora en talle nene. Ruge poco, abraza mucho. Ideas de regalo navideño para chicos.",
+    "intro": "Rex es el dinosaurio de Toy Story que tiene brazos cortos, mucha ansiedad y un corazón enorme. Disfrazar a un chico de Rex es regalarle un personaje querido por toda la familia, desde los abuelos que vieron la primera película hasta los hermanitos que la descubrieron ayer. Es el disfraz ideal para un dino que, en el fondo, es un tierno.",
+    "por_que_es_bolucompra": [
+      "El disfraz de dinosaurio es una bolucompra clásica, pero el de Rex suma una capa extra: es un dinosaurio que tiene miedo de todo. Vestir a tu sobrino de un T-Rex inseguro es una forma muy elegante de decirle que está bien no ser feroz todo el tiempo.",
+      "Y, como todo disfraz, se usa poco. Pero en Navidad, en un cumpleaños o en el acto escolar, el Rex de la familia se roba todas las miradas."
+    ],
+    "para_quien": [
+      "Chicos fanáticos de Toy Story",
+      "Familias que miran las películas de Pixar juntas",
+      "Padrinos que buscan un disfraz con personaje reconocible",
+      "Fiestas temáticas de juguetes"
+    ],
+    "pros": [
+      "Personaje querido por chicos y grandes",
+      "Sirve para cumpleaños, actos y juegos",
+      "Hay distintas versiones en el listado"
+    ],
+    "contras": [
+      "Los modelos enteros dan calor en diciembre",
+      "Revisá que sea producto con licencia si te importa",
+      "Los talles cambian entre vendedores"
+    ],
+    "ideas_de_uso": [
+      "Maratón de Toy Story la tarde del 25 con disfraz incluido",
+      "Cumpleaños temático de juguetes",
+      "Foto con todos los juguetes nuevos",
+      "Combinarlo con las garras de dinosaurio"
+    ],
+    "veredicto": "Es una bolucompra con corazón de Pixar. Elegí un talle con margen y dejá que el chico ruja tímidamente toda la noche.",
+    "faq": [
+      {
+        "pregunta": "¿Es oficial de Disney?",
+        "respuesta": "En el listado hay publicaciones de distintos vendedores. Si buscás licencia oficial, verificalo en cada publicación."
+      },
+      {
+        "pregunta": "¿Qué incluye?",
+        "respuesta": "Depende del modelo: algunos son mameluco con capucha y otros incluyen accesorios. Mirá la descripción."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "disfraz de rex",
+      "toy story",
+      "disfraz dinosaurio niños",
+      "disfraces infantiles",
+      "regalo navidad niños",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según talle de la publicación",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: disfraz de rex de toy story funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Navidad"
   },
   {
     "id": 38,
@@ -2736,7 +3533,84 @@
       "regalos para dueños de perros",
       "mascotas",
       "juegos al aire libre"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 61,
+    "nombre": "Ugly sweater navideño para chicos",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FM3V7XM2",
+    "url_verificada": true,
+    "precio_referencia": 22923,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🧶",
+    "imagen_url": "https://m.media-amazon.com/images/I/81cAJBkD69L._AC_UL320_.jpg",
+    "descripcion_graciosa": "Buzo tejido con renos y Papá Noel, para la foto más calurosa del verano.",
+    "nivel_boludez": 8,
+    "tags": "ugly christmas sweater,buzo navideño niños,sweater navideño,ropa navideña infantil,amazon navidad,bolucompra navideña",
+    "categoria": "Ropa",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-02",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "ugly-sweater-navideno-para-chicos-61",
+    "titulo_seo": "Ugly sweater navideño para chicos: regalo de Navidad gracioso para chi",
+    "meta_description": "Buzo tejido con renos y Papá Noel, para la foto más calurosa del verano. Ideas de regalo navideño para chicos.",
+    "intro": "El ugly sweater es una tradición yanqui que consiste en usar el buzo más navideño, recargado y ridículo posible. Esta versión infantil, en talles de 3 a 7 años según la publicación, trae motivos de renos y Papá Noel tejidos. En Argentina se usa diez minutos, para la foto, y después se negocia con el chico para que se lo saque antes de que se derrita.",
+    "por_que_es_bolucompra": [
+      "Es literalmente un abrigo de punto para una fiesta que en la Argentina cae en pleno verano. No hay argumento térmico que lo defienda. Sin embargo, la foto con los primos todos con buzo navideño es una tradición que vale el sacrificio.",
+      "La bolucompra está en que lo vas a pedir desde Amazon, va a cruzar medio planeta y se va a usar un rato. Pero ese rato va a quedar en el álbum familiar para siempre."
+    ],
+    "para_quien": [
+      "Chicos de 3 a 7 años",
+      "Familias que viajan al frío en diciembre",
+      "Fans de la estética navideña norteamericana",
+      "Padrinos que quieren un regalo de foto"
+    ],
+    "pros": [
+      "Talles infantiles indicados en la publicación",
+      "Ideal para fotos y eventos navideños",
+      "Sirve para el invierno o la Navidad en julio"
+    ],
+    "contras": [
+      "Muy caluroso para diciembre en Argentina",
+      "Es compra internacional: considerá envío e impuestos",
+      "Los tiempos de envío pueden no llegar al 24"
+    ],
+    "ideas_de_uso": [
+      "Foto familiar coordinada",
+      "Navidad en julio en las vacaciones de invierno",
+      "Viaje a Bariloche en las fiestas",
+      "Concurso del buzo más feo"
+    ],
+    "veredicto": "Bolucompra internacional y climáticamente desafiante. Si la querés para el 24, pedila con mucha anticipación.",
+    "faq": [
+      {
+        "pregunta": "¿Llega a la Argentina?",
+        "respuesta": "Es una compra en Amazon de Estados Unidos. Confirmá en el checkout si envía a tu dirección, cuánto cuesta y en qué fecha llega."
+      },
+      {
+        "pregunta": "¿Qué talles tiene?",
+        "respuesta": "La publicación lo indica para chicos de 3 a 7 años. Revisá la tabla de talles."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "ugly christmas sweater",
+      "buzo navideño niños",
+      "sweater navideño",
+      "ropa navideña infantil",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 a 7 años",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: ugly sweater navideño para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 7 años. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 39,
@@ -2808,7 +3682,84 @@
       "decoración divertida",
       "cultura pop",
       "regalos de broma"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 62,
+    "nombre": "Vincha de reno con luces",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FVRZ8YWN",
+    "url_verificada": true,
+    "precio_referencia": 15277,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🦌",
+    "imagen_url": "https://m.media-amazon.com/images/I/71bEIQtXWHL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Astas de reno que se prenden: la Nochebuena con un chico que brilla en la oscuridad.",
+    "nivel_boludez": 6,
+    "tags": "vincha de reno,astas de reno con luces,accesorios navideños,cotillón navidad,regalo barato,bolucompra navideña",
+    "categoria": "Navidad",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-03",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "vincha-de-reno-con-luces-62",
+    "titulo_seo": "Vincha de reno con luces: regalo de Navidad gracioso para chicos | Bol",
+    "meta_description": "Astas de reno que se prenden: la Nochebuena con un chico que brilla en la oscuridad. Ideas de regalo navideño para chicos.",
+    "intro": "La vincha de reno es el accesorio navideño más democrático: le queda bien a cualquiera, cuesta poco y transforma al instante. Esta tiene luces, así que cuando se apagan las luces para el brindis, las astas siguen brillando. Es la forma más simple de que un chico se sienta parte del trineo de Papá Noel.",
+    "por_que_es_bolucompra": [
+      "Las astas son un accesorio que ningún mamífero urbano necesita. Pero en diciembre, ponerse cuernitos que brillan parece lo más razonable del mundo. Es puro espíritu navideño con pilas.",
+      "Es bolucompra porque va a estar en la cabeza del chico media hora y después en la del perro, el tío o el arbolito. Pero esa media hora genera fotos y risas que valen."
+    ],
+    "para_quien": [
+      "Chicos que quieren disfrazarse sin pasar calor",
+      "Familias que hacen fotos navideñas",
+      "Fiestas de fin de año en jardines y escuelas",
+      "Primos que quieren hacer juego"
+    ],
+    "pros": [
+      "Liviana y fresca para el verano",
+      "Las luces le suman magia a la noche",
+      "Barata y fácil de combinar"
+    ],
+    "contras": [
+      "La publicación la presenta para mujeres: chequeá el tamaño para un chico",
+      "Las pilas deben quedar fuera del alcance de los más chicos",
+      "Puede apretar después de un rato"
+    ],
+    "ideas_de_uso": [
+      "Uniforme del repartidor de regalos",
+      "Foto a las doce con los fuegos",
+      "Combinar con el disfraz de reno",
+      "Decoración del árbol cuando nadie la usa"
+    ],
+    "veredicto": "Bolucompra brillante y barata. Revisá el tamaño y el compartimento de pilas, y que empiece el desfile de renos.",
+    "faq": [
+      {
+        "pregunta": "¿Le queda a un chico?",
+        "respuesta": "La publicación la orienta a mujeres. Muchas vinchas son ajustables, pero revisá las medidas antes de comprar."
+      },
+      {
+        "pregunta": "¿Las pilas son seguras?",
+        "respuesta": "Si usa pilas botón, son peligrosas si se tragan. Asegurate de que el compartimento esté bien cerrado."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "vincha de reno",
+      "astas de reno con luces",
+      "accesorios navideños",
+      "cotillón navidad",
+      "regalo barato",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión adulta",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: vincha de reno con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 40,
@@ -2880,7 +3831,84 @@
       "accesorios de lluvia",
       "gadgets raros",
       "regalos divertidos"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 63,
+    "nombre": "Papá Noel que tira burbujas por la cola",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0CSND78J8",
+    "url_verificada": true,
+    "precio_referencia": 39745,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🎅",
+    "imagen_url": "https://m.media-amazon.com/images/I/71XO-qe61jL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Un Papá Noel que, con todo respeto, larga burbujas por atrás. El regalo que ningún chico olvida.",
+    "nivel_boludez": 10,
+    "tags": "papá noel burbujas,máquina de burbujas,juguete gracioso navidad,regalo divertido niños,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-04",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "papa-noel-que-tira-burbujas-por-la-cola-63",
+    "titulo_seo": "Papá Noel que tira burbujas por la cola: regalo de Navidad gracioso pa",
+    "meta_description": "Un Papá Noel que, con todo respeto, larga burbujas por atrás. El regalo que ningún chico olvida. Ideas de regalo navideño para chicos.",
+    "intro": "Hay juguetes navideños tiernos, hay juguetes navideños educativos y después está este: un Papá Noel que tira burbujas por la cola, con sonidos de pedo incluidos según la descripción de la publicación. Es el regalo más irreverente de la temporada, y por eso mismo los chicos lo van a amar con locura.",
+    "por_que_es_bolucompra": [
+      "Que la figura más querida de la Navidad se convierta en una máquina de burbujas trasera es el tipo de idea que solo puede salir de una reunión creativa muy larga. Nadie lo pidió, nadie lo necesitaba, y sin embargo existe.",
+      "Es la bolucompra navideña por excelencia: humor escatológico apto para toda la familia, burbujas para el verano y la cara de los abuelos cuando lo vean en acción. Puro caos festivo."
+    ],
+    "para_quien": [
+      "Chicos que se ríen de cualquier chiste de pedos (o sea, todos)",
+      "Tíos que quieren el regalo más comentado de la noche",
+      "Familias con humor y patio",
+      "Amigos invisibles infantiles"
+    ],
+    "pros": [
+      "Combina dos éxitos: burbujas y humor de baño",
+      "Ideal para el patio en verano",
+      "Garantiza fotos y videos virales familiares"
+    ],
+    "contras": [
+      "No es para familias que se toman la Navidad muy en serio",
+      "Necesita líquido de burbujas y energía según el modelo",
+      "Compra internacional: sumá envío e impuestos"
+    ],
+    "ideas_de_uso": [
+      "Que aparezca 'Papá Noel' a las doce haciendo burbujas",
+      "Show del patio el 25 a la tarde",
+      "Video para el grupo de la familia",
+      "Regalo sorpresa del abuelo bromista"
+    ],
+    "veredicto": "Nivel de boludez máximo y risas garantizadas. Si tu familia tiene humor, es el regalo de la noche.",
+    "faq": [
+      {
+        "pregunta": "¿Hace ruido?",
+        "respuesta": "La publicación lo presenta como una máquina de burbujas con humor de pedos. Revisá la descripción para ver sus sonidos y funciones."
+      },
+      {
+        "pregunta": "¿Qué necesita para funcionar?",
+        "respuesta": "Mirá en la publicación qué tipo de pilas o batería usa y si incluye el líquido."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "papá noel burbujas",
+      "máquina de burbujas",
+      "juguete gracioso navidad",
+      "regalo divertido niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión adulta",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: papá noel que tira burbujas por la cola funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 41,
@@ -2952,7 +3980,84 @@
       "desayuno",
       "gadgets de cocina",
       "regalos originales"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 64,
+    "nombre": "Pack de slimes navideños",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FK4VT1S4",
+    "url_verificada": true,
+    "precio_referencia": 15124,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🟢",
+    "imagen_url": "https://m.media-amazon.com/images/I/81aRiynDcyL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Slimes con temática de Navidad para meter en la bota. El relleno más pegote de las fiestas.",
+    "nivel_boludez": 7,
+    "tags": "slime navideño,relleno bota navideña,regalos para repartir,slime para niños,amazon navidad,bolucompra navideña",
+    "categoria": "Manualidades",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-05",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "pack-de-slimes-navidenos-64",
+    "titulo_seo": "Pack de slimes navideños: regalo de Navidad gracioso para chicos | Bol",
+    "meta_description": "Slimes con temática de Navidad para meter en la bota. El relleno más pegote de las fiestas. Ideas de regalo navideño para chicos.",
+    "intro": "En las películas, las botas navideñas colgadas de la chimenea se llenan de chocolates y regalitos. Este pack de slimes navideños está pensado justamente para eso: varios potecitos de slime con motivos de las fiestas para chicos de 4 a 12 años, según la publicación. Es el relleno perfecto para el arbolito, la bota o la bolsita sorpresa.",
+    "por_que_es_bolucompra": [
+      "Nadie necesita varios potes de una sustancia que se pega a todo. Pero el slime es el idioma universal de los chicos, y en versión navideña directamente se vuelve irresistible.",
+      "Lo bolucompra es que se compra de a muchos, y cada chico de la familia termina con uno. Entonces el slime está en todas partes al mismo tiempo. Es una invasión pegajosa, pero festiva."
+    ],
+    "para_quien": [
+      "Chicos de 4 a 12 años",
+      "Familias con muchos primos para repartir",
+      "Docentes que regalan algo al grupo",
+      "Padrinos que arman bolsitas sorpresa"
+    ],
+    "pros": [
+      "Viene en pack, ideal para repartir",
+      "Temática navideña lista para regalar",
+      "Rango de edad amplio indicado en la publicación"
+    ],
+    "contras": [
+      "Se pega en ropa, alfombras y mascotas",
+      "Hay que cerrar bien los potes para que no se seque",
+      "Compra internacional con tiempo de envío"
+    ],
+    "ideas_de_uso": [
+      "Relleno para las botas navideñas",
+      "Premio para juegos de la Nochebuena",
+      "Regalo de fin de año para compañeros",
+      "Bolsitas para la mesa infantil"
+    ],
+    "veredicto": "Bolucompra repartible y pegajosa. Si tenés muchos sobrinos y poco presupuesto por cabeza, es una gran opción.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántos slimes trae?",
+        "respuesta": "La publicación indica un pack para varios chicos. Revisá la cantidad exacta antes de comprar."
+      },
+      {
+        "pregunta": "¿Es seguro?",
+        "respuesta": "Respetá la edad indicada y no dejes que los más chicos se lo lleven a la boca."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "slime navideño",
+      "relleno bota navideña",
+      "regalos para repartir",
+      "slime para niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "4 a 12 años",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pack de slimes navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 4 a 12 años. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 42,
@@ -3024,7 +4129,84 @@
       "regalos originales",
       "patos",
       "moda excéntrica"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 65,
+    "nombre": "Orejas de duende",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B08GJ4MRF7",
+    "url_verificada": true,
+    "precio_referencia": 7631,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🧝",
+    "imagen_url": "https://m.media-amazon.com/images/I/51Hc1RdORCL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Orejas puntiagudas de goma para que el chico sea oficialmente ayudante de Papá Noel.",
+    "nivel_boludez": 8,
+    "tags": "orejas de duende,disfraz de elfo,ayudante de papá noel,accesorios disfraz,amazon navidad,bolucompra navideña",
+    "categoria": "Disfraces",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-06",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "orejas-de-duende-65",
+    "titulo_seo": "Orejas de duende: regalo de Navidad gracioso para chicos | Bolucompras",
+    "meta_description": "Orejas puntiagudas de goma para que el chico sea oficialmente ayudante de Papá Noel. Ideas de regalo navideño para chicos.",
+    "intro": "Todo Papá Noel necesita ayudantes, y todo ayudante necesita orejas puntiagudas. Estas orejas de duende de goma blanda se colocan sobre las orejas reales y transforman a cualquier chico en un elfo del Polo Norte. Son baratas, livianas y perfectas para el calor de diciembre.",
+    "por_que_es_bolucompra": [
+      "Ningún chico necesita orejas extra. Ya tiene dos, funcionan perfecto y no suelen pedir repuestos. Pero las orejas de duende son la llave a un mundo de juego navideño.",
+      "Es bolucompra porque es un pedacito de goma que sale poco y genera muchísimo. Con ellas puestas, el chico reparte regalos, cuida el árbol y vigila que nadie se coma el turrón antes de tiempo."
+    ],
+    "para_quien": [
+      "Chicos que quieren ser ayudantes de Papá Noel",
+      "Familias que arman una noche navideña temática",
+      "Actos escolares de fin de año",
+      "Fanáticos de la fantasía y los elfos"
+    ],
+    "pros": [
+      "Baratas y fáciles de usar",
+      "Frescas para el verano",
+      "Sirven para otros disfraces de fantasía"
+    ],
+    "contras": [
+      "Pueden incomodar si se usan mucho tiempo",
+      "Se pierden con facilidad",
+      "Compra internacional para un producto chiquito"
+    ],
+    "ideas_de_uso": [
+      "Nombrar al duende oficial que reparte los regalos",
+      "Combinarlas con el gorro de Papá Noel",
+      "Juego de búsqueda de regalos escondidos",
+      "Disfraz de elfo para un cumpleaños"
+    ],
+    "veredicto": "Bolucompra chiquita con poder transformador. Si sumás varias cosas a un mismo pedido, el envío se aprovecha mejor.",
+    "faq": [
+      {
+        "pregunta": "¿Cómo se sostienen?",
+        "respuesta": "Según la publicación son de punta blanda y se colocan sobre la oreja. Revisá las indicaciones del vendedor."
+      },
+      {
+        "pregunta": "¿Sirven para adultos?",
+        "respuesta": "Suelen usarse en disfraces de todas las edades. Revisá la descripción para saber el tamaño."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "orejas de duende",
+      "disfraz de elfo",
+      "ayudante de papá noel",
+      "accesorios disfraz",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión adulta",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: orejas de duende funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 43,
@@ -3096,7 +4278,84 @@
       "regalos para friolentos",
       "comida mexicana",
       "decoración divertida"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 66,
+    "nombre": "Arbolito de Navidad que canta y baila",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0DHZLGGZ1",
+    "url_verificada": true,
+    "precio_referencia": 45862,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🎄",
+    "imagen_url": "https://m.media-amazon.com/images/I/71Oh6GJPK1L._AC_UL320_.jpg",
+    "descripcion_graciosa": "Un arbolito de peluche que baila, toca villancicos y repite lo que decís. El primo navideño del cactus.",
+    "nivel_boludez": 9,
+    "tags": "arbolito que baila,juguete navideño musical,peluche que repite,regalo navidad niños,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-07",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "arbolito-de-navidad-que-canta-y-baila-66",
+    "titulo_seo": "Arbolito de Navidad que canta y baila: regalo de Navidad gracioso para",
+    "meta_description": "Un arbolito de peluche que baila, toca villancicos y repite lo que decís. El primo navideño del cactus. Ideas de regalo navideño para chicos.",
+    "intro": "Si el cactus bailarín te parecía demasiado, conocé a su primo navideño: un arbolito de peluche con luces que baila, canta villancicos y repite lo que le decís, según la descripción. Es básicamente un pino que vino a la fiesta con ganas de ser protagonista.",
+    "por_que_es_bolucompra": [
+      "Un árbol de Navidad ya cumple su función quedándose quieto y lleno de adornos. No había ningún motivo para enseñarle a bailar. Y sin embargo, acá está, moviéndose al ritmo de un villancico con saxofón.",
+      "La bolucompra es que vas a tener dos arbolitos: el grande, que es decoración, y el chiquito, que es show. Los chicos van a preferir el que baila, obvio."
+    ],
+    "para_quien": [
+      "Chicos que aman los juguetes que repiten voces",
+      "Familias que quieren un toque musical en la mesa",
+      "Abuelos que buscan un regalo navideño temático",
+      "Fans del cactus bailarín que quieren versión fiestas"
+    ],
+    "pros": [
+      "Temático navideño al cien por cien",
+      "Combina luces, música y repetición de voz",
+      "Sirve como decoración divertida"
+    ],
+    "contras": [
+      "Los villancicos se repiten hasta el infinito",
+      "Compra internacional con tiempos de envío",
+      "Revisá el tipo de batería y carga"
+    ],
+    "ideas_de_uso": [
+      "Ponerlo en el centro de la mesa infantil",
+      "Grabar un mensaje de Papá Noel para los chicos",
+      "Juego de imitar voces en la sobremesa",
+      "Decoración del cuarto durante diciembre"
+    ],
+    "veredicto": "Bolucompra navideña con banda de sonido propia. Ideal para chicos, desafiante para los adultos que quieran dormir la siesta.",
+    "faq": [
+      {
+        "pregunta": "¿Qué canciones tiene?",
+        "respuesta": "La publicación habla de villancicos y música navideña. Las canciones suelen estar en inglés."
+      },
+      {
+        "pregunta": "¿Cómo se carga?",
+        "respuesta": "Revisá en la publicación si funciona con batería recargable o con pilas."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "arbolito que baila",
+      "juguete navideño musical",
+      "peluche que repite",
+      "regalo navidad niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión adulta",
+    "franja_precio": "caro",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: arbolito de navidad que canta y baila funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 44,
@@ -3168,7 +4427,84 @@
       "amigo invisible",
       "humor de baño",
       "regalos raros"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 67,
+    "nombre": "Pijama de animal enterito",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0H6S1HFZN",
+    "url_verificada": true,
+    "precio_referencia": 29040,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🐻",
+    "imagen_url": "https://m.media-amazon.com/images/I/818AEljZ4JL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Mameluco de animal para que la pijamada navideña parezca un zoológico.",
+    "nivel_boludez": 6,
+    "tags": "pijama de animal,onesie niños,kigurumi,pijamada,amazon navidad,bolucompra navideña",
+    "categoria": "Ropa",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-08",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "pijama-de-animal-enterito-67",
+    "titulo_seo": "Pijama de animal enterito: regalo de Navidad gracioso para chicos | Bo",
+    "meta_description": "Mameluco de animal para que la pijamada navideña parezca un zoológico. Ideas de regalo navideño para chicos.",
+    "intro": "Los pijamas enteros de animales son el uniforme oficial de las pijamadas épicas. Esta versión de Amazon está pensada como pijama y disfraz para Halloween o Navidad, según la publicación. Es ideal para quienes viajan al frío en las fiestas o para guardarlo como regalo de invierno.",
+    "por_que_es_bolucompra": [
+      "Un pijama que también es disfraz parece una gran idea hasta que pensás que en diciembre en Argentina hace calor. Por eso es una bolucompra: el contexto climático lo vuelve ridículo, pero los chicos no se van a fijar en eso.",
+      "Además, la publicación lo vende para Halloween y para Navidad, o sea que es un producto con doble personalidad. Muy navideño, muy terrorífico, muy confundido."
+    ],
+    "para_quien": [
+      "Chicos que van a lugares fríos en vacaciones",
+      "Pijamadas temáticas con primos",
+      "Fotos familiares de animales",
+      "Regalos pensados para el invierno"
+    ],
+    "pros": [
+      "Funciona como pijama y disfraz",
+      "Muchos personajes para elegir",
+      "Ideal para pijamadas"
+    ],
+    "contras": [
+      "Mucho calor para el verano argentino",
+      "Talles a revisar con atención",
+      "Envío internacional"
+    ],
+    "ideas_de_uso": [
+      "Regalo de Reyes para el viaje de vacaciones",
+      "Fiesta de pijamas",
+      "Disfraz de cumpleaños",
+      "Navidad en julio"
+    ],
+    "veredicto": "Divertido y útil para el frío. Para diciembre, más para la foto que para dormir.",
+    "faq": [
+      {
+        "pregunta": "¿Qué animales hay?",
+        "respuesta": "La publicación ofrece variantes. Elegí el modelo y el talle en la página del producto."
+      },
+      {
+        "pregunta": "¿Es abrigado?",
+        "respuesta": "Es un mameluco entero, así que pensalo para climas frescos."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "pijama de animal",
+      "onesie niños",
+      "kigurumi",
+      "pijamada",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según talle de la publicación",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pijama de animal enterito funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 45,
@@ -3240,7 +4576,84 @@
       "regalos graciosos",
       "fotos de bebés",
       "bolucompra amazon"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 68,
+    "nombre": "Básquet para el inodoro con pelotas de caca",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B07KXM5G6N",
+    "url_verificada": true,
+    "precio_referencia": 19865,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "💩",
+    "imagen_url": "https://m.media-amazon.com/images/I/91+JOI8w3FL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Un aro para el baño y pelotitas con forma de caca. El deporte más escatológico de la Navidad.",
+    "nivel_boludez": 10,
+    "tags": "básquet de baño,poop shoot,regalo gracioso,humor para chicos,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-09",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "basquet-para-el-inodoro-con-pelotas-de-caca-68",
+    "titulo_seo": "Básquet para el inodoro con pelotas de caca: regalo de Navidad gracios",
+    "meta_description": "Un aro para el baño y pelotitas con forma de caca. El deporte más escatológico de la Navidad. Ideas de regalo navideño para chicos.",
+    "intro": "Poop Shoot es un juego de básquet de baño: un aro que se coloca en el inodoro y pelotitas con forma de caca para embocar, según la publicación. Es humor de baño en estado puro, y los chicos que están en la etapa de reírse de todo lo que tenga que ver con la caca van a declararlo el mejor regalo de la historia.",
+    "por_que_es_bolucompra": [
+      "Nadie necesita practicar tiros libres en el baño. Es un lugar al que se va por otros motivos, y la mayoría de los adultos preferiría que siguiera siendo así. Pero este juego transforma el momento más privado de la casa en una final de la NBA.",
+      "Es bolucompra con todas las letras: el producto entero es un chiste, el packaging es un chiste y el regalo es un chiste. Funciona justamente por eso."
+    ],
+    "para_quien": [
+      "Chicos en plena etapa del humor escatológico",
+      "Tíos que quieren ser recordados para siempre",
+      "Familias con mucho sentido del humor",
+      "Fans del básquet que ya tienen de todo"
+    ],
+    "pros": [
+      "Risas aseguradas apenas abren la caja",
+      "Es un juego, no una pantalla",
+      "Ideal para amigo invisible gracioso"
+    ],
+    "contras": [
+      "Hay que lavar bien las pelotitas, por las dudas",
+      "No todos los adultos lo van a festejar",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Torneo familiar de tiros en el baño",
+      "Regalo de amigo invisible del primo grande",
+      "Broma del Día de los Inocentes",
+      "Usarlo como aro de escritorio, para los más finos"
+    ],
+    "veredicto": "Es la boludez más absurda de la lista, y eso es un elogio. Para chicos que se ríen de todo, imbatible.",
+    "faq": [
+      {
+        "pregunta": "¿Es higiénico?",
+        "respuesta": "Las pelotitas no se usan dentro del inodoro, sino como juego de lanzamiento. Igual, lavalas seguido."
+      },
+      {
+        "pregunta": "¿Para qué edad?",
+        "respuesta": "Revisá la edad indicada por el fabricante. Por el tamaño de las piezas, no es para los más chicos."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "básquet de baño",
+      "poop shoot",
+      "regalo gracioso",
+      "humor para chicos",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Para chicos grandes, con supervisión",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: básquet para el inodoro con pelotas de caca funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: para chicos grandes, con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 46,
@@ -3312,7 +4725,84 @@
       "regalos para fans del terror",
       "zombies",
       "decoración rara"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 69,
+    "nombre": "Kit de moldes para hacer gomitas",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0D39T1VRG",
+    "url_verificada": true,
+    "precio_referencia": 25982,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🍬",
+    "imagen_url": "https://m.media-amazon.com/images/I/81HZD8kf7SL._AC_UL320_.jpg",
+    "descripcion_graciosa": "117 piezas para fabricar gomitas en casa. Willy Wonka con delantal y supervisión adulta.",
+    "nivel_boludez": 6,
+    "tags": "moldes de gomitas,cocina con chicos,golosinas caseras,regalo navidad niños,amazon navidad,bolucompra navideña",
+    "categoria": "Cocina",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-10",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "kit-de-moldes-para-hacer-gomitas-69",
+    "titulo_seo": "Kit de moldes para hacer gomitas: regalo de Navidad gracioso para chic",
+    "meta_description": "117 piezas para fabricar gomitas en casa. Willy Wonka con delantal y supervisión adulta. Ideas de regalo navideño para chicos.",
+    "intro": "Este kit trae moldes, goteros, envoltorios y una tarjeta de recetas para fabricar gomitas caseras, según la publicación. Es el regalo para el chico que sueña con tener su propia fábrica de golosinas, y para la familia que quiere pasar una tarde de vacaciones cocinando juntos.",
+    "por_que_es_bolucompra": [
+      "Las gomitas se venden en cualquier kiosco por poca plata. Fabricarlas en casa requiere tiempo, ingredientes, paciencia y limpieza posterior. Es una decisión completamente irracional desde lo económico.",
+      "Pero ahí está la magia de la bolucompra: lo que se compra no son gomitas, sino una tarde de cocina, risas y manos pegoteadas. Y unas gomitas con formas que el kiosco no tiene."
+    ],
+    "para_quien": [
+      "Chicos golosos con alma de chef",
+      "Familias que cocinan juntas en vacaciones",
+      "Padrinos que buscan un regalo de experiencia",
+      "Cumpleaños con taller de golosinas"
+    ],
+    "pros": [
+      "Actividad compartida entre grandes y chicos",
+      "Muchas piezas para variar formas",
+      "Incluye envoltorios para regalar las gomitas"
+    ],
+    "contras": [
+      "Requiere ingredientes que no vienen en el kit",
+      "Hay que usar la cocina con un adulto",
+      "Limpieza post-fábrica obligatoria"
+    ],
+    "ideas_de_uso": [
+      "Gomitas navideñas rojas y verdes",
+      "Regalos caseros para la maestra",
+      "Taller de vacaciones con primos",
+      "Gomitas para la mesa dulce de Año Nuevo"
+    ],
+    "veredicto": "Bolucompra deliciosa. Más trabajo que comprarlas, pero muchísimo más divertido.",
+    "faq": [
+      {
+        "pregunta": "¿Trae ingredientes?",
+        "respuesta": "Por la descripción, incluye moldes, goteros, envoltorios y receta. Los ingredientes se compran aparte."
+      },
+      {
+        "pregunta": "¿Lo pueden usar solos?",
+        "respuesta": "Para calentar ingredientes hace falta un adulto. Los chicos pueden ayudar a llenar los moldes."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "moldes de gomitas",
+      "cocina con chicos",
+      "golosinas caseras",
+      "regalo navidad niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con adulto en la cocina",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de moldes para hacer gomitas funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con adulto en la cocina. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 47,
@@ -3384,7 +4874,84 @@
       "amigo invisible",
       "regalos tiernos",
       "alpacas"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 70,
+    "nombre": "Almohadón de caca sonriente",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B014K94TIA",
+    "url_verificada": true,
+    "precio_referencia": 22312,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "💩",
+    "imagen_url": "https://m.media-amazon.com/images/I/81Q8lFffMGL._AC_UL320_.jpg",
+    "descripcion_graciosa": "El emoji más famoso del celular, en versión peluche. Abrazable, sonriente y marrón.",
+    "nivel_boludez": 9,
+    "tags": "almohadón emoji,peluche caca,emoji poop,regalo gracioso,amazon navidad,bolucompra navideña",
+    "categoria": "Peluches",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-11",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "almohadon-de-caca-sonriente-70",
+    "titulo_seo": "Almohadón de caca sonriente: regalo de Navidad gracioso para chicos | ",
+    "meta_description": "El emoji más famoso del celular, en versión peluche. Abrazable, sonriente y marrón. Ideas de regalo navideño para chicos.",
+    "intro": "El emoji de la caca sonriente es uno de los íconos culturales de este siglo, y este almohadón de peluche de 32 cm lo trae al mundo real, según la publicación. Es suave, es simpático y es exactamente lo que un chico quiere tener en la cama para hacer reír a todo el que entra a su cuarto.",
+    "por_que_es_bolucompra": [
+      "Un almohadón con forma de excremento sonriente es la definición de algo que nadie necesita. Y aun así, los chicos lo piden, los adolescentes lo usan de broma y hasta algunos adultos lo tienen en el sillón.",
+      "La bolucompra es que es completamente inofensivo: es un peluche, abraza bien y hace reír. No hay contras reales más allá del gusto estético de la decoración."
+    ],
+    "para_quien": [
+      "Chicos que usan el emoji de caca en todos los mensajes",
+      "Adolescentes con humor absurdo",
+      "Primos que se mandan memes",
+      "Regalos de amigo invisible"
+    ],
+    "pros": [
+      "Suave y apto para abrazar",
+      "Humor simple y universal",
+      "Precio accesible"
+    ],
+    "contras": [
+      "No combina con ninguna decoración",
+      "Puede generar debates familiares",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Almohada oficial de la siesta navideña",
+      "Premio para el ganador del juego familiar",
+      "Decoración del cuarto adolescente",
+      "Regalo del amigo invisible gracioso"
+    ],
+    "veredicto": "Es tierno, es absurdo y es abrazable. Bolucompra clásica con aprobación infantil asegurada.",
+    "faq": [
+      {
+        "pregunta": "¿Qué tamaño tiene?",
+        "respuesta": "La publicación indica 32 cm."
+      },
+      {
+        "pregunta": "¿Se puede lavar?",
+        "respuesta": "Revisá las indicaciones del fabricante; muchos peluches se lavan a mano."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "almohadón emoji",
+      "peluche caca",
+      "emoji poop",
+      "regalo gracioso",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Todas las edades",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: almohadón de caca sonriente funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 48,
@@ -3456,7 +5023,84 @@
       "regalos para cocineros",
       "estilo campo",
       "gadgets de cocina"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 71,
+    "nombre": "Pack de 120 squishies navideños",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0DFB89ZHG",
+    "url_verificada": true,
+    "precio_referencia": 33628,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🧸",
+    "imagen_url": "https://m.media-amazon.com/images/I/71REN5rYC6L._AC_UL320_.jpg",
+    "descripcion_graciosa": "120 muñequitos blanditos para apretar. Alcanza para todo el árbol genealógico y sobra.",
+    "nivel_boludez": 7,
+    "tags": "squishies,regalos para repartir,bolsitas sorpresa,juguetes antiestrés,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-12",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "pack-de-120-squishies-navidenos-71",
+    "titulo_seo": "Pack de 120 squishies navideños: regalo de Navidad gracioso para chico",
+    "meta_description": "120 muñequitos blanditos para apretar. Alcanza para todo el árbol genealógico y sobra. Ideas de regalo navideño para chicos.",
+    "intro": "Los squishies son esos muñequitos blanditos que se aprietan, se deforman y vuelven a su forma como si nada. Este pack trae 120 unidades, según la publicación, pensadas para bolsitas navideñas y regalos para repartir. Es la solución para la familia que tiene más sobrinos que sillas.",
+    "por_que_es_bolucompra": [
+      "Ciento veinte juguetitos es una cantidad que nadie necesita. Es suficiente para un jardín entero, dos cumpleaños y todavía guardar para el año que viene. Pero justamente ahí está la gracia: comprar uno parece aburrido; comprar 120 es una aventura.",
+      "La bolucompra es que van a aparecer squishies en cada rincón de la casa hasta marzo. Debajo del sillón, en el auto, en la cartera. Es un regalo que sigue apareciendo."
+    ],
+    "para_quien": [
+      "Docentes que regalan algo a todo el grado",
+      "Familias con muchos primos",
+      "Organizadores de fiestas infantiles",
+      "Padrinos que quieren algo para cada chico de la mesa"
+    ],
+    "pros": [
+      "Gran cantidad para repartir",
+      "Antiestrés para chicos y grandes",
+      "Ideal para bolsitas sorpresa"
+    ],
+    "contras": [
+      "Son piezas chicas: no para menores que se llevan cosas a la boca",
+      "Vas a tener squishies por todas partes",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Bolsitas sorpresa para la mesa infantil",
+      "Premios para juegos de Navidad",
+      "Regalo grupal para el jardín",
+      "Relleno de las botas navideñas"
+    ],
+    "veredicto": "Es una bolucompra a escala industrial. Para regalar a muchos chicos con poco presupuesto, difícil encontrar algo mejor.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántos trae?",
+        "respuesta": "La publicación indica 120 piezas."
+      },
+      {
+        "pregunta": "¿Son aptos para chicos chicos?",
+        "respuesta": "Son piezas pequeñas; respetá la edad indicada y no los dejes al alcance de bebés."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "squishies",
+      "regalos para repartir",
+      "bolsitas sorpresa",
+      "juguetes antiestrés",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión, no para los más chicos",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pack de 120 squishies navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión, no para los más chicos. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 49,
@@ -3528,7 +5172,84 @@
       "regalos para friolentos",
       "regalos tiernos",
       "invierno"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 72,
+    "nombre": "Kit de slime de unicornio esponjoso",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B08LDHJ38P",
+    "url_verificada": true,
+    "precio_referencia": 41274,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🦄",
+    "imagen_url": "https://m.media-amazon.com/images/I/A1pG+jL2jrL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Slime tipo nube con temática de unicornio. Magia, brillos y un sillón en peligro.",
+    "nivel_boludez": 7,
+    "tags": "slime de unicornio,kit de slime,manualidades niñas,regalo de reyes,amazon navidad,bolucompra navideña",
+    "categoria": "Manualidades",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-13",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "kit-de-slime-de-unicornio-esponjoso-72",
+    "titulo_seo": "Kit de slime de unicornio esponjoso: regalo de Navidad gracioso para c",
+    "meta_description": "Slime tipo nube con temática de unicornio. Magia, brillos y un sillón en peligro. Ideas de regalo navideño para chicos.",
+    "intro": "Este kit de FunKidz sirve para fabricar slime esponjoso tipo nube con estética de unicornio, y la publicación lo indica para chicos desde 6 años. Es el regalo para la nena o el nene que vive en un universo de arcoíris, brillos y criaturas mágicas, y que además disfruta meter las manos en la masa.",
+    "por_que_es_bolucompra": [
+      "El slime ya es una sustancia sin propósito. El slime de unicornio esponjoso es esa misma sustancia sin propósito, pero con purpurina y una historia mágica detrás. Nadie lo necesita, todos los chicos lo quieren.",
+      "Es bolucompra porque convierte la mesa de la cocina en un laboratorio de fantasía por una tarde. Después, la purpurina se queda a vivir con ustedes para siempre."
+    ],
+    "para_quien": [
+      "Chicos desde 6 años fans de los unicornios",
+      "Nenas y nenes que aman hacer manualidades",
+      "Padrinos que buscan un regalo de actividad",
+      "Pijamadas creativas"
+    ],
+    "pros": [
+      "Actividad para hacer, no solo para mirar",
+      "Temática mágica muy buscada",
+      "Edad indicada en la publicación"
+    ],
+    "contras": [
+      "Purpurina eterna",
+      "Requiere supervisión y espacio",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Taller de slime en la tarde del 25",
+      "Regalo de Reyes",
+      "Actividad de pijamada",
+      "Regalos caseros para amigas"
+    ],
+    "veredicto": "Una bolucompra mágica y pegajosa. Si el chico ama los unicornios, no falla.",
+    "faq": [
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo indica desde 6 años."
+      },
+      {
+        "pregunta": "¿Trae todo lo necesario?",
+        "respuesta": "Es un kit para hacer slime; revisá en la descripción qué incluye exactamente."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "slime de unicornio",
+      "kit de slime",
+      "manualidades niñas",
+      "regalo de reyes",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "6 años en adelante",
+    "franja_precio": "caro",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de slime de unicornio esponjoso funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 6 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
   },
   {
     "id": 50,
@@ -3600,6 +5321,1375 @@
       "amigo invisible",
       "regalos graciosos",
       "medias divertidas"
-    ]
+    ],
+    "temporada": "general"
+  },
+  {
+    "id": 73,
+    "nombre": "Kit de casita de jengibre para decorar",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FW4BCYLF",
+    "url_verificada": true,
+    "precio_referencia": 53478,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🏠",
+    "imagen_url": "https://m.media-amazon.com/images/I/71h7O5O3ZCL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Paredes prehorneadas, glasé y caramelos: arquitectura comestible con alta probabilidad de derrumbe.",
+    "nivel_boludez": 7,
+    "tags": "casita de jengibre,gingerbread house,navidad con chicos,actividades navideñas,amazon navidad,bolucompra navideña",
+    "categoria": "Cocina",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-14",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "kit-de-casita-de-jengibre-para-decorar-73",
+    "titulo_seo": "Kit de casita de jengibre para decorar: regalo de Navidad gracioso par",
+    "meta_description": "Paredes prehorneadas, glasé y caramelos: arquitectura comestible con alta probabilidad de derrumbe. Ideas de regalo navideño para chicos.",
+    "intro": "La casita de jengibre es una tradición navideña de las películas: paredes de galletita, techo de glasé y caramelos como tejas. Este kit, según la publicación, trae paneles prehorneados y precortados, glasé y golosinas para decorar. Los chicos solo tienen que armarla, decorarla y, inevitablemente, comérsela.",
+    "por_que_es_bolucompra": [
+      "Construir una casa que no se puede habitar y que se va a comer en dos días es una actividad sin sentido práctico. Encima, en la Argentina el pan dulce ya cumple la cuota de masa navideña.",
+      "Pero es una bolucompra hermosa: una tarde entera en familia, glasé en todas partes y una casita torcida que va a quedar en la foto del año. El derrumbe es parte del encanto."
+    ],
+    "para_quien": [
+      "Familias que buscan una tradición navideña nueva",
+      "Chicos que aman decorar y comer golosinas",
+      "Fans de las películas navideñas",
+      "Tíos que quieren hacer algo con los sobrinos"
+    ],
+    "pros": [
+      "Actividad familiar con tradición",
+      "Paneles listos, sin hornear",
+      "Decoración comestible"
+    ],
+    "contras": [
+      "Con el calor el glasé puede costar",
+      "Es comida importada: revisá condiciones de envío",
+      "La casita casi seguro se cae"
+    ],
+    "ideas_de_uso": [
+      "Concurso de casitas entre primos",
+      "Centro de mesa del 24",
+      "Actividad del 23 a la tarde",
+      "Fotos navideñas con la casita"
+    ],
+    "veredicto": "Bolucompra comestible y de tradición. Ideal para hacer juntos, aunque el resultado sea más rancho que casita.",
+    "faq": [
+      {
+        "pregunta": "¿Hay que hornear?",
+        "respuesta": "Según la publicación, los paneles vienen prehorneados y precortados."
+      },
+      {
+        "pregunta": "¿Se puede enviar a Argentina?",
+        "respuesta": "Al ser un alimento, puede tener restricciones de envío. Confirmalo en el checkout de Amazon."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "casita de jengibre",
+      "gingerbread house",
+      "navidad con chicos",
+      "actividades navideñas",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Con supervisión adulta",
+    "franja_precio": "caro",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de casita de jengibre para decorar funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 74,
+    "nombre": "Teléfono banana",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0761VVFDX",
+    "url_verificada": true,
+    "precio_referencia": 61155,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🍌",
+    "imagen_url": "https://m.media-amazon.com/images/I/41KiRdhYfiL._AC_UY218_.jpg",
+    "descripcion_graciosa": "Un auricular con forma de banana para atender llamadas. Ring ring ring, banana phone.",
+    "nivel_boludez": 10,
+    "tags": "banana phone,teléfono banana,gadget gracioso,regalo absurdo,amazon navidad,bolucompra navideña",
+    "categoria": "Gadgets",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-15",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "telefono-banana-74",
+    "titulo_seo": "Teléfono banana: regalo de Navidad gracioso para chicos | Bolucompras",
+    "meta_description": "Un auricular con forma de banana para atender llamadas. Ring ring ring, banana phone. Ideas de regalo navideño para chicos.",
+    "intro": "Banana Phone es un auricular con forma de banana que se conecta al celular para atender llamadas, según la publicación. Sí, es exactamente lo que suena: hablar por teléfono sosteniendo una banana. Para chicos grandes que tienen celular y mucho humor, es el gadget más absurdo que pueden recibir.",
+    "por_que_es_bolucompra": [
+      "Los celulares ya tienen micrófono y parlante. No hace falta un accesorio frutal para hablar por teléfono. Pero atender a la abuela con una banana en la oreja tiene un valor comedia incalculable.",
+      "Es una de las bolucompras más caras de la lista para lo que hace, y eso la vuelve todavía más boluda. Pero como regalo gracioso para un preadolescente, es inolvidable."
+    ],
+    "para_quien": [
+      "Chicos grandes que ya tienen celular",
+      "Fans de la canción Banana Phone",
+      "Tíos que quieren el regalo más absurdo",
+      "Adolescentes con humor de memes"
+    ],
+    "pros": [
+      "Humor instantáneo",
+      "Funciona como auricular real según la publicación",
+      "Regalo diferente a todo lo demás"
+    ],
+    "contras": [
+      "Caro para lo que es",
+      "Necesita un celular compatible",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Atender la llamada de Navidad de los abuelos",
+      "Videos para redes familiares",
+      "Regalo de amigo invisible",
+      "Accesorio de escritorio"
+    ],
+    "veredicto": "Absurdo total. Si el presupuesto lo permite, es el regalo del que más se va a hablar.",
+    "faq": [
+      {
+        "pregunta": "¿Funciona de verdad?",
+        "respuesta": "La publicación lo presenta como un auricular para celular. Revisá la compatibilidad antes de comprar."
+      },
+      {
+        "pregunta": "¿Es apto para chicos?",
+        "respuesta": "Es un gadget para chicos grandes que ya usan celular, con supervisión adulta."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "banana phone",
+      "teléfono banana",
+      "gadget gracioso",
+      "regalo absurdo",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos grandes con supervisión",
+    "franja_precio": "caro",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: teléfono banana funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos grandes con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 75,
+    "nombre": "Nariz antiestrés que larga mocos",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B00Z8GBDKM",
+    "url_verificada": true,
+    "precio_referencia": 10689,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "👃",
+    "imagen_url": "https://m.media-amazon.com/images/I/41QzzQoN4-L._AC_UL320_.jpg",
+    "descripcion_graciosa": "Apretás la nariz y sale un moco de gel. Antiestrés nivel asqueroso.",
+    "nivel_boludez": 9,
+    "tags": "nariz antiestrés,moco de juguete,juguete asqueroso,relleno bota navideña,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-16",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "nariz-antiestres-que-larga-mocos-75",
+    "titulo_seo": "Nariz antiestrés que larga mocos: regalo de Navidad gracioso para chic",
+    "meta_description": "Apretás la nariz y sale un moco de gel. Antiestrés nivel asqueroso. Ideas de regalo navideño para chicos.",
+    "intro": "Esta nariz de goma es un juguete antiestrés: cuando la apretás, de las fosas nasales sale un moco de gel que después vuelve a entrar, según la publicación. Es asquerosa, es ridícula y es exactamente el tipo de cosa que hace reír a un chico durante horas. Ideal para la mano inquieta de la sobremesa.",
+    "por_que_es_bolucompra": [
+      "Una nariz que estornuda moco verde no resuelve ningún problema. Pero sí logra algo: que el chico deje de aburrirse en la mesa larga del 24 y que el primo grande grite de asco.",
+      "Es una bolucompra barata, chica y efectiva. Entra en una bota navideña y genera más reacciones que muchos regalos caros."
+    ],
+    "para_quien": [
+      "Chicos con humor de asco",
+      "Primos que se hacen bromas",
+      "Chicos inquietos en reuniones largas",
+      "Relleno de botas navideñas"
+    ],
+    "pros": [
+      "Precio bajo",
+      "Antiestrés y gracioso",
+      "Tamaño ideal para bolsitas"
+    ],
+    "contras": [
+      "Puede romperse si se aprieta con demasiada fuerza",
+      "No apto para chicos que muerden juguetes",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Broma en la mesa navideña",
+      "Relleno de la bota",
+      "Antiestrés para la vuelta al cole",
+      "Regalo de amigo invisible"
+    ],
+    "veredicto": "Barata, asquerosa y muy divertida. Bolucompra chica con impacto grande.",
+    "faq": [
+      {
+        "pregunta": "¿Qué tiene adentro?",
+        "respuesta": "Un gel que sale al apretar. Si se rompe, no dejar que los chicos lo lleven a la boca."
+      },
+      {
+        "pregunta": "¿Es para chicos chicos?",
+        "respuesta": "Mejor para chicos grandes y con supervisión."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "nariz antiestrés",
+      "moco de juguete",
+      "juguete asqueroso",
+      "relleno bota navideña",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos grandes con supervisión",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: nariz antiestrés que larga mocos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos grandes con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 76,
+    "nombre": "Gorro de Papá Noel con luces",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0H4W4YDYT",
+    "url_verificada": true,
+    "precio_referencia": 15277,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🎅",
+    "imagen_url": "https://m.media-amazon.com/images/I/61Tirta+IiL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Gorro rojo que se ilumina. El chico va a ser el arbolito de la mesa.",
+    "nivel_boludez": 6,
+    "tags": "gorro papa noel con luces,accesorio navideño,foto familiar navidad,disfraz navidad niños,amazon navidad,bolucompra navideña",
+    "categoria": "Disfraces",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-17",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "gorro-de-papa-noel-con-luces-76",
+    "titulo_seo": "Gorro de Papá Noel con luces: regalo de Navidad gracioso para chicos |",
+    "meta_description": "Gorro rojo que se ilumina. El chico va a ser el arbolito de la mesa. Ideas de regalo navideño para chicos.",
+    "intro": "Este gorro de Papá Noel tiene luces incorporadas, según la publicación, para que quien lo use brille en la noche del 24. Es el accesorio ideal para la foto familiar, para el brindis y para que los chicos se sientan los protagonistas de la fiesta, aunque haga 30 grados.",
+    "por_que_es_bolucompra": [
+      "Usar un gorro de lana con pompón en pleno verano argentino es un acto de fe navideña. Encima con luces. Pero la tradición importa más que el clima.",
+      "La bolucompra es que los chicos lo van a querer usar todo diciembre, incluso para ir al súper. Y vos vas a terminar con el gorro puesto en alguna foto."
+    ],
+    "para_quien": [
+      "Chicos que aman la Navidad",
+      "Familias que hacen foto grupal temática",
+      "Animadores de la fiesta del 24",
+      "Tíos que quieren ser Papá Noel por una noche"
+    ],
+    "pros": [
+      "Ilumina la foto navideña",
+      "Precio accesible",
+      "Para chicos y grandes"
+    ],
+    "contras": [
+      "Calor asegurado en diciembre",
+      "Usa pilas: guardalas lejos de los más chicos",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Foto familiar del 24",
+      "Uniforme para repartir regalos",
+      "Disfraz de ayudante de Papá Noel",
+      "Decoración del árbol si nadie lo usa"
+    ],
+    "veredicto": "Un clásico que brilla. Bolucompra simple para meterse en el espíritu navideño.",
+    "faq": [
+      {
+        "pregunta": "¿Las luces usan pilas?",
+        "respuesta": "Revisá en la publicación el tipo de pilas. El compartimento debe estar fuera del alcance de los chicos."
+      },
+      {
+        "pregunta": "¿Es talle único?",
+        "respuesta": "Revisá la descripción para confirmar el talle."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "gorro papa noel con luces",
+      "accesorio navideño",
+      "foto familiar navidad",
+      "disfraz navidad niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Todas las edades con supervisión de pilas",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gorro de papá noel con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades con supervisión de pilas. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 77,
+    "nombre": "Libro de más de 400 stickers navideños",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0H5JY6YKH",
+    "url_verificada": true,
+    "precio_referencia": 13733,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "⭐",
+    "imagen_url": "https://m.media-amazon.com/images/I/91KRTBHoOyL._AC_UY218_.jpg",
+    "descripcion_graciosa": "Más de 400 stickers para pegar en todo, incluida la heladera, la mesa y el perro.",
+    "nivel_boludez": 6,
+    "tags": "stickers navideños,libro de stickers,manualidades navidad,regalo barato niños,amazon navidad,bolucompra navideña",
+    "categoria": "Manualidades",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-18",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "libro-de-mas-de-400-stickers-navidenos-77",
+    "titulo_seo": "Libro de más de 400 stickers navideños: regalo de Navidad gracioso par",
+    "meta_description": "Más de 400 stickers para pegar en todo, incluida la heladera, la mesa y el perro. Ideas de regalo navideño para chicos.",
+    "intro": "Este libro trae más de 400 stickers navideños, según la publicación: Papás Noel, renos, muñecos de nieve, árboles y estrellas. Es una actividad simple, barata y silenciosa, ideal para mantener ocupados a los chicos mientras los adultos terminan de preparar la cena del 24.",
+    "por_que_es_bolucompra": [
+      "Nadie necesita 400 stickers. Ni siquiera 100. Pero los chicos no piensan así: para ellos cada hoja es un tesoro, y la decisión de dónde pegar cada uno es un asunto muy serio.",
+      "La bolucompra es que vas a encontrar renos pegados en lugares inexplicables durante meses. Es el precio de una tarde tranquila."
+    ],
+    "para_quien": [
+      "Chicos que aman pegar stickers",
+      "Familias que necesitan una actividad tranquila",
+      "Docentes que premian con stickers",
+      "Padrinos con presupuesto acotado"
+    ],
+    "pros": [
+      "Muchísimos stickers por poco precio",
+      "Actividad tranquila",
+      "Sirve para decorar tarjetas y regalos"
+    ],
+    "contras": [
+      "Stickers en lugares inesperados",
+      "Los más chicos pueden necesitar ayuda",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Decorar paquetes de regalo",
+      "Hacer tarjetas navideñas caseras",
+      "Premios por buena conducta",
+      "Decorar cuadernos para la vuelta al cole"
+    ],
+    "veredicto": "Barata, simple y efectiva. Bolucompra de alto rendimiento para chicos.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántos stickers trae?",
+        "respuesta": "La publicación indica más de 400."
+      },
+      {
+        "pregunta": "¿Para qué edad?",
+        "respuesta": "Ideal para chicos en edad escolar; los más chicos con ayuda."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "stickers navideños",
+      "libro de stickers",
+      "manualidades navidad",
+      "regalo barato niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos en edad escolar",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: libro de más de 400 stickers navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos en edad escolar. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 78,
+    "nombre": "Mr. Potato Head Tinsel Tots navideño",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B09P1ZGJK6",
+    "url_verificada": true,
+    "precio_referencia": 13748,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🥔",
+    "imagen_url": "https://m.media-amazon.com/images/I/81SBj1OJbqL._AC_UL320_.jpg",
+    "descripcion_graciosa": "El Señor Cara de Papa en versión navideña. Papá Noel tubérculo.",
+    "nivel_boludez": 7,
+    "tags": "mr potato head,señor cara de papa,juguete navideño,regalo niños 3 años,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-19",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "mr-potato-head-tinsel-tots-navideno-78",
+    "titulo_seo": "Mr. Potato Head Tinsel Tots navideño: regalo de Navidad gracioso para ",
+    "meta_description": "El Señor Cara de Papa en versión navideña. Papá Noel tubérculo. Ideas de regalo navideño para chicos.",
+    "intro": "Mr. Potato Head Tinsel Tots es una versión navideña del clásico Señor Cara de Papa de Hasbro, y la publicación lo indica para chicos desde 3 años. Trae piezas para armar personajes festivos, y como siempre, se puede poner la nariz donde va la oreja. Es un juguete con décadas de historia y todavía funciona.",
+    "por_que_es_bolucompra": [
+      "Una papa con gorro navideño no es un concepto que se le ocurra a nadie con sentido común. Pero el Señor Cara de Papa nunca tuvo sentido común, y por eso sobrevivió a generaciones.",
+      "La bolucompra es que es un juguete de la infancia de los padres, y los padres lo van a disfrutar tanto como los chicos."
+    ],
+    "para_quien": [
+      "Chicos desde 3 años",
+      "Fans de Toy Story",
+      "Padres nostálgicos",
+      "Abuelos que buscan un clásico"
+    ],
+    "pros": [
+      "Clásico que estimula la imaginación",
+      "Edad indicada en la publicación",
+      "Tema navideño"
+    ],
+    "contras": [
+      "Piezas para guardar bien",
+      "Puede convertirse en adorno de la cómoda",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Armar personajes navideños en la sobremesa",
+      "Adorno del árbol durante diciembre",
+      "Regalo de Reyes",
+      "Juego de caras graciosas para fotos"
+    ],
+    "veredicto": "Un clásico con gorro de Navidad. Bolucompra tierna para los más chicos.",
+    "faq": [
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo indica desde 3 años."
+      },
+      {
+        "pregunta": "¿Qué incluye?",
+        "respuesta": "Revisá en la publicación las piezas incluidas."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "mr potato head",
+      "señor cara de papa",
+      "juguete navideño",
+      "regalo niños 3 años",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 años en adelante",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: mr. potato head tinsel tots navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 79,
+    "nombre": "201 estrellas que brillan en la oscuridad",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0CGVK2NKP",
+    "url_verificada": true,
+    "precio_referencia": 13748,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🌟",
+    "imagen_url": "https://m.media-amazon.com/images/I/71+BVKoTPZL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Doscientas una estrellas para el techo. Un cielo propio sin salir del cuarto.",
+    "nivel_boludez": 5,
+    "tags": "estrellas que brillan,decoración cuarto infantil,techo estrellado,regalo tierno niños,amazon navidad,bolucompra navideña",
+    "categoria": "Decoración",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-20",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "201-estrellas-que-brillan-en-la-oscuridad-79",
+    "titulo_seo": "201 estrellas que brillan en la oscuridad: regalo de Navidad gracioso ",
+    "meta_description": "Doscientas una estrellas para el techo. Un cielo propio sin salir del cuarto. Ideas de regalo navideño para chicos.",
+    "intro": "Este pack trae 201 estrellas adhesivas que brillan en la oscuridad, según la publicación. Se pegan en el techo o en la pared del cuarto y, al apagar la luz, convierten la habitación en un pequeño planetario. Es un regalo navideño tranquilo, para el chico que se duerme mirando el techo.",
+    "por_que_es_bolucompra": [
+      "Doscientas una estrellas son muchas estrellas. Más de las que se ven en una noche nublada de ciudad. Nadie las necesita, pero cuando se apagan las luces, todos dicen 'uau'.",
+      "La bolucompra es que el adulto va a pasar una tarde arriba de una silla pegando estrellas y armando constelaciones inventadas. Y le va a encantar."
+    ],
+    "para_quien": [
+      "Chicos que tienen miedo a la oscuridad",
+      "Fans del espacio",
+      "Familias que redecoran el cuarto",
+      "Padrinos que buscan algo tierno"
+    ],
+    "pros": [
+      "Efecto mágico a la noche",
+      "Muchas estrellas por poco precio",
+      "Transforma el cuarto sin pintar"
+    ],
+    "contras": [
+      "Hay que pegarlas con paciencia",
+      "Pueden dejar marca al despegarlas",
+      "Piezas chicas: no para bebés"
+    ],
+    "ideas_de_uso": [
+      "Armar constelaciones reales",
+      "Techo de la Nochebuena",
+      "Decorar una carpa de juegos",
+      "Regalo de Reyes para el cuarto"
+    ],
+    "veredicto": "Tierna, barata y mágica. Bolucompra de las que se usan todas las noches.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántas trae?",
+        "respuesta": "La publicación indica 201 piezas."
+      },
+      {
+        "pregunta": "¿Necesitan electricidad?",
+        "respuesta": "No, se cargan con luz y brillan en la oscuridad."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "estrellas que brillan",
+      "decoración cuarto infantil",
+      "techo estrellado",
+      "regalo tierno niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Colocación a cargo de un adulto",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: 201 estrellas que brillan en la oscuridad funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: colocación a cargo de un adulto. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 80,
+    "nombre": "Pop it navideño de JOYIN",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FH6JTFMM",
+    "url_verificada": true,
+    "precio_referencia": 15277,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🎄",
+    "imagen_url": "https://m.media-amazon.com/images/I/81ls9N0GlfL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Burbujas de silicona para explotar sin fin. Antiestrés con gorro de Papá Noel.",
+    "nivel_boludez": 5,
+    "tags": "pop it navidad,fidget toy,juguete antiestrés,regalo barato niños,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-21",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "pop-it-navideno-de-joyin-80",
+    "titulo_seo": "Pop it navideño de JOYIN: regalo de Navidad gracioso para chicos | Bol",
+    "meta_description": "Burbujas de silicona para explotar sin fin. Antiestrés con gorro de Papá Noel. Ideas de regalo navideño para chicos.",
+    "intro": "Los pop it son esas placas de silicona con burbujas que se apretan y hacen 'pop', y que se pueden apretar una y otra vez. Esta versión de JOYIN tiene temática navideña, según la publicación. Es un antiestrés simple, silencioso y que los chicos pueden usar en cualquier lado.",
+    "por_que_es_bolucompra": [
+      "Apretar burbujas de silicona que nunca se terminan es una actividad sin fin ni propósito. Por eso es tan adictiva para los chicos y, en secreto, para muchos adultos también.",
+      "La bolucompra está en el diseño navideño: el mismo juguete de siempre, pero con forma de fiesta. Perfecto para la bota o el arbolito."
+    ],
+    "para_quien": [
+      "Chicos inquietos",
+      "Fans de los pop it",
+      "Relleno de botas navideñas",
+      "Viajes largos en auto"
+    ],
+    "pros": [
+      "Precio bajo",
+      "Silencioso y reutilizable",
+      "Temática navideña"
+    ],
+    "contras": [
+      "Puede volverse un vicio",
+      "Algunos ya tienen varios",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Entretenimiento en la mesa del 24",
+      "Relleno de la bota",
+      "Juego en el viaje a la costa",
+      "Premio en juegos familiares"
+    ],
+    "veredicto": "Simple, barato y adictivo. Bolucompra chiquita y navideña.",
+    "faq": [
+      {
+        "pregunta": "¿Es de silicona?",
+        "respuesta": "Los pop it suelen serlo; revisá la publicación para el material exacto."
+      },
+      {
+        "pregunta": "¿Para qué edad?",
+        "respuesta": "Para chicos en edad escolar."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "pop it navidad",
+      "fidget toy",
+      "juguete antiestrés",
+      "regalo barato niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos en edad escolar",
+    "franja_precio": "barato",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pop it navideño de joyin funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos en edad escolar. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 81,
+    "nombre": "50 bolas de nieve para guerra en casa",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0B8SN3FLV",
+    "url_verificada": true,
+    "precio_referencia": 30570,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "❄️",
+    "imagen_url": "https://m.media-amazon.com/images/I/71F60IvEtUL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Bolas de nieve de tela para una guerra navideña en pleno verano. Nieve sin frío.",
+    "nivel_boludez": 8,
+    "tags": "bolas de nieve,guerra de nieve,juego navideño,navidad en verano,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-22",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "50-bolas-de-nieve-para-guerra-en-casa-81",
+    "titulo_seo": "50 bolas de nieve para guerra en casa: regalo de Navidad gracioso para",
+    "meta_description": "Bolas de nieve de tela para una guerra navideña en pleno verano. Nieve sin frío. Ideas de regalo navideño para chicos.",
+    "intro": "En Argentina la Navidad cae en verano, así que la guerra de nieve de las películas parecía imposible. Este pack trae 50 bolas de nieve de interior blandas, según la publicación, para armar una batalla navideña dentro de casa, sin frío y sin romper nada (en teoría).",
+    "por_que_es_bolucompra": [
+      "Bolas de nieve falsas para un país donde en diciembre hace 35 grados: no puede haber algo más innecesario. Y sin embargo, es exactamente lo que hace que sea tan gracioso.",
+      "La bolucompra es que la guerra arranca con los chicos y termina con los abuelos tirando desde el sillón. Y 50 bolas alcanzan para varias rondas."
+    ],
+    "para_quien": [
+      "Familias con muchos chicos",
+      "Primos que se pelean por todo",
+      "Tíos con espíritu de juego",
+      "Fiestas infantiles navideñas"
+    ],
+    "pros": [
+      "Blandas, para jugar dentro de casa",
+      "Muchas unidades",
+      "Juego activo para todas las edades"
+    ],
+    "contras": [
+      "Hay que juntar 50 bolas después",
+      "No apuntar a la cara ni a la mesa servida",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Guerra de nieve del 25 a la tarde",
+      "Juego de embocar en baldes",
+      "Decoración del arbolito",
+      "Pelea en la pijamada"
+    ],
+    "veredicto": "Nieve sin frío para una Navidad de verano. Bolucompra perfecta para el caos familiar.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántas trae?",
+        "respuesta": "La publicación indica 50 unidades."
+      },
+      {
+        "pregunta": "¿Son seguras?",
+        "respuesta": "Son blandas y para interior, pero conviene jugar sin apuntar a la cara."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "bolas de nieve",
+      "guerra de nieve",
+      "juego navideño",
+      "navidad en verano",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Todas las edades",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: 50 bolas de nieve para guerra en casa funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 82,
+    "nombre": "Peluche del Grinch con corazón que brilla",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0FWDCR3CV",
+    "url_verificada": true,
+    "precio_referencia": 22893,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "💚",
+    "imagen_url": "https://m.media-amazon.com/images/I/71wV0BOhVoL._AC_UL320_.jpg",
+    "descripcion_graciosa": "El Grinch con corazón luminoso. El villano de la Navidad, ahora abrazable.",
+    "nivel_boludez": 6,
+    "tags": "peluche grinch,grinch navidad,peluche con luz,regalo navideño niños,amazon navidad,bolucompra navideña",
+    "categoria": "Peluches",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-23",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "peluche-del-grinch-con-corazon-que-brilla-82",
+    "titulo_seo": "Peluche del Grinch con corazón que brilla: regalo de Navidad gracioso ",
+    "meta_description": "El Grinch con corazón luminoso. El villano de la Navidad, ahora abrazable. Ideas de regalo navideño para chicos.",
+    "intro": "Este peluche del Grinch tiene un corazón que se ilumina, según la publicación, como guiño al final de la historia, cuando el corazón del Grinch crece. Es tierno y es irónico: el personaje que odiaba la Navidad convertido en el peluche que los chicos van a abrazar el 24.",
+    "por_que_es_bolucompra": [
+      "Regalar el Grinch en Navidad es como regalarle una alarma al que odia madrugar. Es un chiste. Pero es un chiste que los chicos entienden y disfrutan.",
+      "La bolucompra es que el tío gruñón de la familia va a recibir más de una indirecta mirando este peluche. Y hasta puede que se le ilumine el corazón."
+    ],
+    "para_quien": [
+      "Fans de la película del Grinch",
+      "Chicos que aman los peluches",
+      "Tíos gruñones (de regalo indirecto)",
+      "Familias que hacen maratón de películas navideñas"
+    ],
+    "pros": [
+      "Corazón luminoso, según la publicación",
+      "Personaje navideño famoso",
+      "Suave y abrazable"
+    ],
+    "contras": [
+      "Usa pilas o batería: revisar el compartimento",
+      "Puede quedar como chiste familiar eterno",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Compañía para ver la película",
+      "Decoración del árbol",
+      "Regalo indirecto al pariente gruñón",
+      "Luz suave para dormir"
+    ],
+    "veredicto": "Tierno, irónico y navideño. Bolucompra con mensaje.",
+    "faq": [
+      {
+        "pregunta": "¿Cómo se ilumina el corazón?",
+        "respuesta": "Revisá en la publicación el tipo de pilas o batería."
+      },
+      {
+        "pregunta": "¿Se puede lavar?",
+        "respuesta": "Revisá las indicaciones del fabricante, en especial por la parte electrónica."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "peluche grinch",
+      "grinch navidad",
+      "peluche con luz",
+      "regalo navideño niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Todas las edades",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: peluche del grinch con corazón que brilla funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 83,
+    "nombre": "Pistola de burbujas navideña",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B07C8L74FX",
+    "url_verificada": true,
+    "precio_referencia": 20614,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🫧",
+    "imagen_url": "https://m.media-amazon.com/images/I/71g+9E1wqDL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Una pistola que lanza burbujas con look navideño. El tiroteo más pacífico de diciembre.",
+    "nivel_boludez": 6,
+    "tags": "pistola de burbujas,burbujas navidad,juguete al aire libre,regalo niños verano,amazon navidad,bolucompra navideña",
+    "categoria": "Juguetes",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-24",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "pistola-de-burbujas-navidena-83",
+    "titulo_seo": "Pistola de burbujas navideña: regalo de Navidad gracioso para chicos |",
+    "meta_description": "Una pistola que lanza burbujas con look navideño. El tiroteo más pacífico de diciembre. Ideas de regalo navideño para chicos.",
+    "intro": "Esta pistola de burbujas con temática navideña lanza un chorro de burbujas al apretar el gatillo, según la publicación. Es el juguete perfecto para la Navidad argentina: se usa al aire libre, en el patio o en la vereda, mientras los adultos terminan de prender el fuego.",
+    "por_que_es_bolucompra": [
+      "Hacer burbujas con un aro y agua con jabón siempre funcionó. No hacía falta una pistola. Pero la pistola hace cien burbujas por segundo y eso, para un chico, es una revolución tecnológica.",
+      "La bolucompra es que el líquido se va a terminar rápido y vas a estar preparando más con detergente a la medianoche. Es parte de la tradición."
+    ],
+    "para_quien": [
+      "Chicos chicos",
+      "Familias que pasan la Navidad al aire libre",
+      "Fiestas en el patio",
+      "Primos que se persiguen por toda la casa"
+    ],
+    "pros": [
+      "Diversión al aire libre",
+      "Temática navideña",
+      "Ideal para verano"
+    ],
+    "contras": [
+      "El líquido se termina rápido",
+      "Puede requerir pilas",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Burbujas en el brindis de medianoche",
+      "Juego en el patio el 25",
+      "Fotos navideñas con burbujas",
+      "Fiesta de cumpleaños de verano"
+    ],
+    "veredicto": "Simple y feliz. Bolucompra burbujeante para una Navidad de verano.",
+    "faq": [
+      {
+        "pregunta": "¿Usa pilas?",
+        "respuesta": "Revisá en la publicación si necesita pilas y de qué tipo."
+      },
+      {
+        "pregunta": "¿Trae líquido?",
+        "respuesta": "Revisá en la publicación si incluye líquido para burbujas."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "pistola de burbujas",
+      "burbujas navidad",
+      "juguete al aire libre",
+      "regalo niños verano",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos chicos con supervisión",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pistola de burbujas navideña funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos chicos con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Navidad"
+  },
+  {
+    "id": 84,
+    "nombre": "Pijama kigurumi para chicos",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/ygH6P3/pijama-kigurumi-ninos-mameluco-disfraz-personajes-animales",
+    "url_verificada": false,
+    "precio_referencia": 32990,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🦖",
+    "imagen_url": "",
+    "descripcion_graciosa": "Un mameluco de animal con capucha: tu sobrino se acuesta nene y se despierta dinosaurio.",
+    "nivel_boludez": 6,
+    "tags": "kigurumi niños,pijama de dinosaurio,pijama enterizo,regalo de reyes,ropa divertida chicos,bolucompra navideña",
+    "categoria": "Ropa",
+    "link_afiliado": "",
+    "fecha_publicacion": "2026-12-31",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Precio visto en el resultado de búsqueda, verificar.",
+    "slug": "pijama-kigurumi-para-chicos-84",
+    "titulo_seo": "Pijama kigurumi para chicos: regalo de Navidad gracioso para chicos | ",
+    "meta_description": "Un mameluco de animal con capucha: tu sobrino se acuesta nene y se despierta dinosaurio. Ideas de regalo navideño para chicos.",
+    "intro": "El kigurumi es ese pijama enterito con capucha de animal que convierte a cualquier chico en un peluche ambulante. Dinosaurios, unicornios, ositos: hay para todos los gustos. Como regalo de Navidad o de Reyes tiene una ventaja enorme, porque lo estrenan esa misma noche y no se lo quieren sacar más.",
+    "por_que_es_bolucompra": [
+      "Un pijama sirve para dormir, y para eso alcanza con un short y una remera vieja. Nadie necesita dormir con una capucha de dinosaurio con dientes de felpa. Pero los chicos no piensan en necesidades: piensan en rugir por el pasillo a las once de la noche.",
+      "La boludez es que en pleno diciembre argentino un mameluco entero da calor. Por eso conviene guardarlo para Reyes o pensarlo como regalo para el invierno que viene. Igual, la emoción de abrirlo no tiene estación."
+    ],
+    "para_quien": [
+      "Chicos fanáticos de los dinosaurios o los animales",
+      "Pijamadas y vacaciones en lugares frescos",
+      "Padrinos que quieren un regalo útil disfrazado de divertido",
+      "Familias que hacen fotos temáticas con pijamas"
+    ],
+    "pros": [
+      "Es ropa útil que también funciona como disfraz",
+      "Muchos modelos son suaves y abrigados",
+      "Hay muchos personajes y talles para elegir"
+    ],
+    "contras": [
+      "Para el calor de diciembre puede ser demasiado",
+      "Ir al baño con un mameluco entero lleva su técnica",
+      "Los talles varían mucho entre vendedores"
+    ],
+    "ideas_de_uso": [
+      "Regalo de Reyes para estrenar en las vacaciones",
+      "Uniforme de pijamada con primos",
+      "Disfraz improvisado para un cumpleaños temático",
+      "Foto familiar todos de animales"
+    ],
+    "veredicto": "Bolucompra con utilidad real: abriga, divierte y sirve de disfraz. Solo pensá en el calor y elegí bien el talle, porque los chicos crecen más rápido que los envíos.",
+    "faq": [
+      {
+        "pregunta": "¿De qué material es?",
+        "respuesta": "Depende del modelo. Muchos son de tela polar o similar; revisá la descripción del vendedor."
+      },
+      {
+        "pregunta": "¿Conviene para Navidad o para Reyes?",
+        "respuesta": "Como abriga, puede ser mejor para Reyes o como regalo pensado para el invierno, pero se puede regalar en cualquier fecha."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "kigurumi niños",
+      "pijama de dinosaurio",
+      "pijama enterizo",
+      "regalo de reyes",
+      "ropa divertida chicos",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Según talle de la publicación",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pijama kigurumi para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 85,
+    "nombre": "Lámpara luna para pintar",
+    "tienda": "Mercado Libre",
+    "url_producto": "https://articulo.mercadolibre.com.ar/MLA-1470655969-moon-lamp-weceit-paint-your-own-w-stand-art-supplies-para-n-_JM",
+    "url_verificada": false,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🌕",
+    "imagen_url": "",
+    "descripcion_graciosa": "Un kit para que los chicos pinten su propia luna y la cuelguen de velador. Astronomía con témpera.",
+    "nivel_boludez": 5,
+    "tags": "lámpara luna,manualidades para niños,velador infantil,kit de pintura,regalo de reyes,bolucompra navideña",
+    "categoria": "Manualidades",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-01",
+    "nota": "URL tomada de resultados de búsqueda; Mercado Libre bloquea la verificación automática desde el servidor. Sin precio confirmado.",
+    "slug": "lampara-luna-para-pintar-85",
+    "titulo_seo": "Lámpara luna para pintar: regalo de Navidad gracioso para chicos | Bol",
+    "meta_description": "Un kit para que los chicos pinten su propia luna y la cuelguen de velador. Astronomía con témpera. Ideas de regalo navideño para chicos.",
+    "intro": "La lámpara luna es uno de esos objetos que pasaron de decoración de Instagram a la mesa de luz de medio país. Esta versión es para chicos: viene para pintar, así que cada uno diseña su propia luna. Puede ser realista, de colores, con cara o con un reno flotando en el cráter más grande. Después se prende y queda de velador.",
+    "por_que_es_bolucompra": [
+      "Nadie necesita una luna en la habitación cuando hay una gratis en el cielo todas las noches. Pero la luna del cielo no se puede pintar de violeta con estrellitas doradas, y esta sí. Ahí está la gracia.",
+      "Es bolucompra porque combina dos cosas que los chicos aman: hacer un desastre con pintura y tener algo que brilla de noche. Y además queda un recuerdo hecho por ellos mismos."
+    ],
+    "para_quien": [
+      "Chicos creativos a los que les encanta pintar",
+      "Familias que buscan una actividad para las vacaciones",
+      "Chicos con algo de miedo a la oscuridad",
+      "Padrinos que quieren un regalo que deje recuerdo"
+    ],
+    "pros": [
+      "Es manualidad y velador al mismo tiempo",
+      "Cada luna queda única",
+      "Actividad tranquila para después del almuerzo navideño"
+    ],
+    "contras": [
+      "La pintura mancha, preparate",
+      "Requiere ayuda adulta para los más chicos",
+      "El resultado artístico es impredecible"
+    ],
+    "ideas_de_uso": [
+      "Taller de pintura navideña el 25",
+      "Regalo de Reyes para decorar la habitación",
+      "Pintar la luna con los colores del equipo de fútbol",
+      "Actividad de pijamada con primos"
+    ],
+    "veredicto": "Bolucompra tierna y creativa, con un final luminoso. Una de las más tranquilas de la lista, y eso en diciembre también se agradece.",
+    "faq": [
+      {
+        "pregunta": "¿Qué incluye el kit?",
+        "respuesta": "Según la publicación, incluye pinturas, pinceles y soporte. Confirmalo en la descripción antes de comprar."
+      },
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación la orienta a chicos de 3 a 12 años. Con los más chicos, pintá en equipo."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Al ser Mercado Libre Argentina, muchas publicaciones tienen envío rápido. Revisá la fecha estimada de entrega en la publicación antes de comprar."
+      }
+    ],
+    "tags_ricos": [
+      "lámpara luna",
+      "manualidades para niños",
+      "velador infantil",
+      "kit de pintura",
+      "regalo de reyes",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 a 12 años según la publicación",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: lámpara luna para pintar funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 12 años según la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 86,
+    "nombre": "Hámster de peluche que repite lo que decís",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0CGRDYL86",
+    "url_verificada": true,
+    "precio_referencia": 35157,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🐹",
+    "imagen_url": "https://m.media-amazon.com/images/I/71Ci4AgtcHL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Un hámster rosa que imita tu voz. Mascota sin jaula, sin olor y con mucho chisme.",
+    "nivel_boludez": 8,
+    "tags": "hámster que habla,peluche que repite,juguete parlante,regalo navidad niños,amazon navidad,bolucompra navideña",
+    "categoria": "Peluches",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-02",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "hamster-de-peluche-que-repite-lo-que-decis-86",
+    "titulo_seo": "Hámster de peluche que repite lo que decís: regalo de Navidad gracioso",
+    "meta_description": "Un hámster rosa que imita tu voz. Mascota sin jaula, sin olor y con mucho chisme. Ideas de regalo navideño para chicos.",
+    "intro": "El hámster parlante es un peluche que repite lo que le decís con voz aguda, según la publicación, que lo indica para chicos desde 3 años. Es la mascota ideal para el departamento: no come, no se escapa y no muerde. Solo repite, a veces con una precisión incómoda, lo que se dijo en la mesa.",
+    "por_que_es_bolucompra": [
+      "Un hámster que habla es una idea que no necesitábamos pero que el mundo abrazó con fuerza. Los videos de estos peluches son virales por una razón: imitan la voz con un tono tan ridículo que hasta un reto suena gracioso.",
+      "Es bolucompra porque es un juguete simple que funciona por pura repetición. Y los chicos pueden pasar horas probando qué frase lo hace sonar más gracioso."
+    ],
+    "para_quien": [
+      "Chicos que piden una mascota todos los días",
+      "Nenes de 3 años en adelante",
+      "Familias de departamento",
+      "Tíos que quieren un regalo con efecto inmediato"
+    ],
+    "pros": [
+      "Interacción instantánea y divertida",
+      "Peluche suave y abrazable",
+      "Edad mínima indicada en la publicación"
+    ],
+    "contras": [
+      "Va a repetir cosas que no tenía que repetir",
+      "Usa pilas o batería según el modelo",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Que el hámster dé el discurso navideño",
+      "Juego de adivinar quién habló",
+      "Practicar palabras con los más chicos",
+      "Mascota de viaje para las vacaciones"
+    ],
+    "veredicto": "Una bolucompra parlanchina y tierna. Ideal para chicos, desafiante para los secretos familiares.",
+    "faq": [
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo orienta a chicos desde 3 años."
+      },
+      {
+        "pregunta": "¿Qué necesita para funcionar?",
+        "respuesta": "Revisá en la publicación el tipo de pilas o batería."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "hámster que habla",
+      "peluche que repite",
+      "juguete parlante",
+      "regalo navidad niños",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "3 años en adelante",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: hámster de peluche que repite lo que decís funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 87,
+    "nombre": "Gooey Louie, el juego de sacarle mocos",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0BTMXFRVT",
+    "url_verificada": true,
+    "precio_referencia": 30187,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "👃",
+    "imagen_url": "https://m.media-amazon.com/images/I/81UpUdQiTmL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Hay que sacarle mocos a Louie hasta que le explote la cabeza. Juego de mesa nivel asco.",
+    "nivel_boludez": 10,
+    "tags": "gooey louie,juego de mesa niños,juegos de mocos,juegos familiares,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-03",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "gooey-louie-el-juego-de-sacarle-mocos-87",
+    "titulo_seo": "Gooey Louie, el juego de sacarle mocos: regalo de Navidad gracioso par",
+    "meta_description": "Hay que sacarle mocos a Louie hasta que le explote la cabeza. Juego de mesa nivel asco. Ideas de regalo navideño para chicos.",
+    "intro": "Gooey Louie es un juego de mesa de Goliath para 2 a 4 jugadores desde 4 años, según la publicación. La premisa es simple y asquerosa: Louie tiene la nariz llena de mocos, y hay que ir sacándolos uno por uno. Uno de ellos hace que se le levante la cabeza de golpe. El que lo saca, pierde.",
+    "por_que_es_bolucompra": [
+      "Sacarle mocos a alguien no es una actividad que un adulto proponga en voz alta. Este juego la convierte en competencia familiar y en una de las experiencias más divertidas para chicos chicos.",
+      "La bolucompra está en el tema, pero el juego tiene suspenso, turnos y risas. Es ideal para la sobremesa navideña, cuando nadie quiere jugar algo complicado."
+    ],
+    "para_quien": [
+      "Chicos desde 4 años",
+      "Familias que juegan juegos de mesa",
+      "Hermanos que compiten por todo",
+      "Abuelos que quieren jugar con los nietos"
+    ],
+    "pros": [
+      "Reglas simples para chicos chicos",
+      "Suspenso y carcajadas en cada turno",
+      "De 2 a 4 jugadores"
+    ],
+    "contras": [
+      "El tema puede dar asco a algún adulto",
+      "Piezas chicas a guardar bien",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Torneo de sobremesa navideña",
+      "Regalo de Reyes para jugar en vacaciones",
+      "Juego de la pijamada",
+      "Premio para el perdedor: lavar los platos"
+    ],
+    "veredicto": "Asqueroso, gracioso y muy jugable. Bolucompra perfecta para que los chicos larguen el celular.",
+    "faq": [
+      {
+        "pregunta": "¿Cuántos juegan?",
+        "respuesta": "La publicación indica de 2 a 4 jugadores."
+      },
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo indica desde 4 años."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "gooey louie",
+      "juego de mesa niños",
+      "juegos de mocos",
+      "juegos familiares",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "4 años en adelante",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gooey louie, el juego de sacarle mocos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 4 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 88,
+    "nombre": "Pie Face, el juego de la crema en la cara",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0767NJPZ6",
+    "url_verificada": true,
+    "precio_referencia": null,
+    "moneda": "",
+    "fecha_precio": "",
+    "emoji": "🥧",
+    "imagen_url": "https://m.media-amazon.com/images/I/81auoMWfv4L._AC_UL320_.jpg",
+    "descripcion_graciosa": "Girás, apretás y rezás: en cualquier momento te llega un manotazo de crema. Navidad con chantilly.",
+    "nivel_boludez": 9,
+    "tags": "pie face,juego de crema,juegos de mesa familiares,juego navideño,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-04",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación. Sin precio visible.",
+    "slug": "pie-face-el-juego-de-la-crema-en-la-cara-88",
+    "titulo_seo": "Pie Face, el juego de la crema en la cara: regalo de Navidad gracioso ",
+    "meta_description": "Girás, apretás y rezás: en cualquier momento te llega un manotazo de crema. Navidad con chantilly. Ideas de regalo navideño para chicos.",
+    "intro": "Pie Face es el juego de Hasbro en el que cada jugador apoya la cara en una máscara, gira la ruleta y aprieta la manija. En cualquier momento, una mano con crema batida sale disparada hacia su cara. La publicación lo indica para 2 o más jugadores desde 5 años. En una Navidad de verano, el chantilly en la cara es casi refrescante.",
+    "por_que_es_bolucompra": [
+      "Ponerte crema en la cara a propósito no es un plan razonable. Pero cuando es parte de un juego, la familia entera hace fila para participar. Ese es el poder de esta bolucompra.",
+      "Lo mejor es que se juega igual de bien con chicos y con abuelos. Y el que recibe la crema siempre termina riéndose más que nadie."
+    ],
+    "para_quien": [
+      "Chicos desde 5 años",
+      "Familias grandes y ruidosas",
+      "Sobremesas largas de Navidad",
+      "Tíos que se animan a ensuciarse"
+    ],
+    "pros": [
+      "Diversión para todas las edades",
+      "Reglas simples",
+      "Ideal para jugar al aire libre en verano"
+    ],
+    "contras": [
+      "Hay que limpiar la crema después",
+      "No es para quien se acaba de peinar",
+      "No figuraba precio al revisar la búsqueda"
+    ],
+    "ideas_de_uso": [
+      "Torneo en el patio el 25",
+      "Juego de Reyes en las vacaciones",
+      "Videos familiares inolvidables",
+      "Castigo para el que pierde al truco"
+    ],
+    "veredicto": "Una bolucompra clásica que nunca falla. Prepará servilletas y la cámara del celular.",
+    "faq": [
+      {
+        "pregunta": "¿Hay que usar crema de verdad?",
+        "respuesta": "El juego está pensado para crema batida, aunque también se puede jugar con una esponja húmeda."
+      },
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo indica desde 5 años."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "pie face",
+      "juego de crema",
+      "juegos de mesa familiares",
+      "juego navideño",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "5 años en adelante",
+    "franja_precio": "",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pie face, el juego de la crema en la cara funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 5 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 89,
+    "nombre": "Throw Throw Burrito, el juego de los burritos voladores",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B07TS96J7Q",
+    "url_verificada": true,
+    "precio_referencia": 30570,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🌯",
+    "imagen_url": "https://m.media-amazon.com/images/I/71u0LoDcOIL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Juego de cartas donde se tiran burritos de goma. Guerra de comida con reglamento.",
+    "nivel_boludez": 9,
+    "tags": "throw throw burrito,juego de cartas,juego familiar,regalo de reyes,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-05",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "throw-throw-burrito-el-juego-de-los-burritos-voladores-89",
+    "titulo_seo": "Throw Throw Burrito, el juego de los burritos voladores: regalo de Nav",
+    "meta_description": "Juego de cartas donde se tiran burritos de goma. Guerra de comida con reglamento. Ideas de regalo navideño para chicos.",
+    "intro": "Throw Throw Burrito es un juego de cartas de los creadores de Exploding Kittens que combina juntar parejas con tirarse burritos de espuma, según la publicación, que lo indica desde 7 años. Es el juego que convierte la sobremesa en una batalla campal, pero con reglas.",
+    "por_que_es_bolucompra": [
+      "Tirarse comida en la mesa está prohibido en cualquier casa decente. Este juego lo hace legal, con burritos blandos y un reglamento oficial. La bolucompra perfecta para romper la seriedad familiar.",
+      "Es caótico, ruidoso y muy competitivo. Los chicos grandes lo aman y los adultos terminan esquivando burritos detrás del sillón."
+    ],
+    "para_quien": [
+      "Chicos desde 7 años",
+      "Familias competitivas",
+      "Primos adolescentes",
+      "Grupos grandes de vacaciones"
+    ],
+    "pros": [
+      "Mucha acción y risas",
+      "Ideal para grupos",
+      "Edad indicada en la publicación"
+    ],
+    "contras": [
+      "Algún vaso puede caer en batalla",
+      "Hay que jugarlo lejos de lo frágil",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Juego de la tarde del 25",
+      "Regalo de Reyes para las vacaciones",
+      "Torneo en la costa",
+      "Juego de la pijamada"
+    ],
+    "veredicto": "Caos controlado y carcajadas. Una bolucompra que se juega toda la temporada.",
+    "faq": [
+      {
+        "pregunta": "¿Desde qué edad?",
+        "respuesta": "La publicación lo indica desde 7 años."
+      },
+      {
+        "pregunta": "¿Los burritos lastiman?",
+        "respuesta": "Son blandos, pero conviene jugar sin apuntar a la cara."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "throw throw burrito",
+      "juego de cartas",
+      "juego familiar",
+      "regalo de reyes",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "7 años en adelante",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: throw throw burrito, el juego de los burritos voladores funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 7 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Reyes"
+  },
+  {
+    "id": 90,
+    "nombre": "Bowling navideño",
+    "tienda": "Amazon",
+    "url_producto": "https://www.amazon.com/dp/B0CLYN8H5W",
+    "url_verificada": true,
+    "precio_referencia": 33628,
+    "moneda": "ARS",
+    "fecha_precio": "2026-10-26",
+    "emoji": "🎳",
+    "imagen_url": "https://m.media-amazon.com/images/I/81yTLJFlhuL._AC_UL320_.jpg",
+    "descripcion_graciosa": "Bolos con forma de personajes navideños. Tirarle una bocha a Papá Noel nunca fue tan sano.",
+    "nivel_boludez": 7,
+    "tags": "bowling navideño,juego para niños,juegos de navidad,regalo de reyes,amazon navidad,bolucompra navideña",
+    "categoria": "Juegos",
+    "link_afiliado": "",
+    "fecha_publicacion": "2027-01-06",
+    "nota": "Precio de Amazon en ARS visto el 2026-10-26, sin envío ni impuestos de importación.",
+    "slug": "bowling-navideno-90",
+    "titulo_seo": "Bowling navideño: regalo de Navidad gracioso para chicos | Bolucompras",
+    "meta_description": "Bolos con forma de personajes navideños. Tirarle una bocha a Papá Noel nunca fue tan sano. Ideas de regalo navideño para chicos.",
+    "intro": "Este set de bowling tiene bolos con temática navideña, según la publicación, para armar una cancha en el living o en el patio. Es un juego simple, ideal para los más chicos, que pueden pasar horas derribando muñecos de nieve y renos y volviéndolos a parar.",
+    "por_que_es_bolucompra": [
+      "Derribar a Papá Noel y a sus renos con una pelota no parece el espíritu navideño más correcto. Pero los chicos no lo ven así: para ellos, cada strike es una fiesta.",
+      "La bolucompra es que vas a pasar buena parte de la tarde parando bolos. Aceptalo: es parte del regalo."
+    ],
+    "para_quien": [
+      "Chicos chicos",
+      "Familias con patio o living amplio",
+      "Abuelos que juegan con los nietos",
+      "Fiestas infantiles"
+    ],
+    "pros": [
+      "Juego activo y simple",
+      "Temática navideña",
+      "Sirve todo el año"
+    ],
+    "contras": [
+      "Alguien tiene que parar los bolos",
+      "Necesita espacio",
+      "Compra internacional"
+    ],
+    "ideas_de_uso": [
+      "Torneo de bowling del 25",
+      "Juego de Reyes",
+      "Juego en la fiesta del jardín",
+      "Decoración navideña cuando no se usa"
+    ],
+    "veredicto": "Simple y entretenido. Bolucompra navideña ideal para los más chicos.",
+    "faq": [
+      {
+        "pregunta": "¿Qué incluye?",
+        "respuesta": "Revisá en la publicación la cantidad de bolos y pelotas."
+      },
+      {
+        "pregunta": "¿Se puede jugar afuera?",
+        "respuesta": "Sí, en una superficie lisa."
+      },
+      {
+        "pregunta": "¿Llega antes de Navidad?",
+        "respuesta": "Es una compra internacional: el envío a Argentina puede tardar varias semanas y suma costos de importación. Si es para el 24, conviene comprar en noviembre."
+      }
+    ],
+    "tags_ricos": [
+      "bowling navideño",
+      "juego para niños",
+      "juegos de navidad",
+      "regalo de reyes",
+      "amazon navidad",
+      "bolucompra navideña"
+    ],
+    "edad_sugerida": "Chicos chicos con supervisión",
+    "franja_precio": "medio",
+    "consejo_para_regalar": "Consejo para tíos, padrinos y padres: bowling navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos chicos con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
+    "temporada": "Reyes"
   }
 ]

@@ -14,15 +14,17 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const { today, featured, anteriores } = getCatalog();
+  const { today, featured, bonus, anteriores } = getCatalog();
   const tabs = buildTabs(anteriores, today);
+  const site = getSiteUrl();
 
   return (
     <>
       {featured ? (
         <>
-          <HeroBolucompra product={featured} today={today} />
-          <JsonLd data={productJsonLd(featured, getSiteUrl())} />
+          <HeroBolucompra product={featured} bonus={bonus} today={today} />
+          <JsonLd data={productJsonLd(featured, site)} />
+          {bonus ? <JsonLd data={productJsonLd(bonus, site)} /> : null}
         </>
       ) : (
         <HeroEspera today={today} nextDate={getNextPublicationDate(today)} />

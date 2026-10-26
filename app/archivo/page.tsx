@@ -52,7 +52,7 @@ export async function generateMetadata({ searchParams }: ArchivoProps): Promise<
   return {
     title: "Archivo",
     description:
-      "Todas las bolucompras que ya salieron, de la más nueva a la más vieja. Una por día, sin adelantar las que vienen.",
+      "Todas las bolucompras que ya salieron, de la más nueva a la más vieja. Sin adelantar las que vienen.",
     alternates: { canonical: canonicalUrl("/archivo") },
     openGraph: pageOpenGraph(
       "/archivo",

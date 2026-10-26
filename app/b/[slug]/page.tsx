@@ -51,9 +51,17 @@ export default async function BolucompraPage({ params }: PageProps) {
   const product = getPublishedBySlug(slug);
   if (!product) notFound();
 
-  const { today, published } = getCatalog();
+  const { today, featured, bonus, published } = getCatalog();
   const others = published.filter((item) => item.id !== product.id).slice(0, 4);
   const site = getSiteUrl();
+  const bajada =
+    bonus && product.id === bonus.id
+      ? "Hoy entra de bonus, al lado de la bolucompra del día."
+      : featured && product.id === featured.id && bonus
+        ? "Es la bolucompra del día. En la portada, al lado, hay un bonus."
+        : product.fecha === today
+          ? "Es la bolucompra del día. Aprovechá, mañana hay otra."
+          : `Salió el ${formatLongDate(product.fecha)}. Sigue dando vergüenza ajena.`;
 
   return (
     <article className="px-5 py-8">
@@ -78,11 +86,7 @@ export default async function BolucompraPage({ params }: PageProps) {
             </li>
           </ol>
         </nav>
-        <p className="mb-4 text-center font-extrabold">
-          {product.fecha === today
-            ? "Es la bolucompra del día. Aprovechá, mañana hay otra."
-            : `Salió el ${formatLongDate(product.fecha)}. Sigue dando vergüenza ajena.`}
-        </p>
+        <p className="mb-4 text-center font-extrabold">{bajada}</p>
         <BolucompraCard product={product} today={today} heading="h1" priorityImage />
         <FichaContenido product={product} />
         {others.length > 0 ? (

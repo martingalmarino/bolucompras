@@ -1,5 +1,6 @@
 import { BolucompraCard } from "@/components/BolucompraCard";
 import { Sticker } from "@/components/Sticker";
+import { cx } from "@/lib/cx";
 import { addDays, formatLongDate } from "@/lib/dates";
 import type { Bolucompra } from "@/lib/types";
 
@@ -17,12 +18,61 @@ function TituloDelDia() {
   );
 }
 
-export function HeroBolucompra({ product, today }: { product: Bolucompra; today: string }) {
+function Etiqueta({ children, tone }: { children: string; tone: "pink" | "yellow" }) {
+  return (
+    <h2
+      className={cx(
+        "mb-4 inline-block -rotate-2 rounded-2xl border-[3px] border-ink px-4 py-1.5 font-impact text-[26px] leading-none shadow-[4px_4px_0_#1d1d1b] min-[400px]:text-[32px]",
+        tone === "pink" ? "bg-fucsia text-white" : "bg-sun text-ink",
+      )}
+    >
+      {children}
+    </h2>
+  );
+}
+
+export function HeroBolucompra({
+  product,
+  bonus,
+  today,
+}: {
+  product: Bolucompra;
+  bonus?: Bolucompra | null;
+  today: string;
+}) {
   return (
     <section className="px-5 pb-4 pt-10">
       <div className="mx-auto w-full max-w-[1160px]">
         <TituloDelDia />
-        <BolucompraCard product={product} today={today} heading="h2" showFichaLink priorityImage />
+        {bonus ? (
+          <div className="grid grid-cols-1 items-start gap-8 min-[701px]:grid-cols-[minmax(0,1.15fr)_minmax(240px,0.85fr)]">
+            <div>
+              <Etiqueta tone="pink">Bolucompra del día</Etiqueta>
+              <BolucompraCard
+                product={product}
+                today={today}
+                heading="h3"
+                showFichaLink
+                priorityImage
+                stack
+              />
+            </div>
+            <div>
+              <Etiqueta tone="yellow">Bonus del día</Etiqueta>
+              <BolucompraCard
+                product={bonus}
+                today={today}
+                heading="h3"
+                showFichaLink
+                compact
+                stack
+                ribbon="BONUS"
+              />
+            </div>
+          </div>
+        ) : (
+          <BolucompraCard product={product} today={today} heading="h2" showFichaLink priorityImage />
+        )}
       </div>
     </section>
   );

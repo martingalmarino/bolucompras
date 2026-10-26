@@ -3,6 +3,7 @@ import { StoreBadge } from "@/components/StoreBadge";
 import { cx } from "@/lib/cx";
 import { formatShortDate } from "@/lib/dates";
 import { formatPrice } from "@/lib/format";
+import { franjaLabel } from "@/lib/temporada";
 import type { Bolucompra } from "@/lib/types";
 import Link from "next/link";
 
@@ -16,10 +17,12 @@ export function ProductCard({
   product,
   index = 0,
   layout = "carousel",
+  showRegalo = false,
 }: {
   product: Bolucompra;
   index?: number;
   layout?: "carousel" | "grid";
+  showRegalo?: boolean;
 }) {
   const precio = formatPrice(product.precioReferencia, product.moneda);
   return (
@@ -54,6 +57,13 @@ export function ProductCard({
         <p className="mt-2 line-clamp-3 min-h-[3.9rem] text-[17px] font-extrabold leading-tight">
           {product.nombre}
         </p>
+        {showRegalo && (product.edadSugerida || product.franja) ? (
+          <p className="mt-1 line-clamp-2 text-[12px] font-bold leading-snug text-ink/80">
+            {[product.edadSugerida, product.franja ? franjaLabel(product.franja) : ""]
+              .filter(Boolean)
+              .join(" · ")}
+          </p>
+        ) : null}
         <div className="mt-auto flex items-end justify-between gap-2 pt-2 text-[13px] font-bold">
           <span className="min-w-0 font-impact text-xl leading-none text-fucsia">
             {precio ?? "En la tienda"}

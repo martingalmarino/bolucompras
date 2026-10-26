@@ -3,6 +3,10 @@ export type FaqItem = {
   respuesta: string;
 };
 
+export type Temporada = "general" | "Navidad" | "Reyes";
+
+export type FranjaPrecio = "barato" | "medio" | "caro";
+
 export type Bolucompra = {
   id: number;
   slug: string;
@@ -31,4 +35,8 @@ export type Bolucompra = {
   veredicto: string;
   faq: FaqItem[];
   tagsRicos: string[];
+  temporada: Temporada;
+  edadSugerida: string;
+  franja: FranjaPrecio | "";
+  consejoParaRegalar: string;
 };

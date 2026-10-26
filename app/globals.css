@@ -84,4 +84,30 @@ summary::-webkit-details-marker {
   .ticker-track span + span {
     display: none;
   }
+
+  .nieve {
+    animation: none;
+  }
+}
+
+.nieve {
+  position: absolute;
+  top: 0;
+  font-size: 13px;
+  opacity: 0.85;
+  animation: nieve 3.8s linear infinite;
+}
+
+@keyframes nieve {
+  0% {
+    transform: translateY(-8px);
+    opacity: 0.25;
+  }
+  50% {
+    opacity: 0.95;
+  }
+  100% {
+    transform: translateY(12px);
+    opacity: 0.25;
+  }
 }
