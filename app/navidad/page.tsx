@@ -1,4 +1,5 @@
 import { CuentaRegresiva } from "@/components/CuentaRegresiva";
+import { Newsletter } from "@/components/Newsletter";
 import { ProductCard } from "@/components/ProductCard";
 import { formatDayMonth } from "@/lib/dates";
 import { cx } from "@/lib/cx";
@@ -66,15 +67,23 @@ export default async function NavidadPage({ searchParams }: NavidadProps) {
         </p>
 
         {published.length === 0 ? (
-          <div className="mx-auto max-w-xl rounded-[28px] border-4 border-ink bg-white p-6 text-center shadow-[8px_8px_0_#1d1d1b] min-[701px]:p-8">
-            <h2 className="font-impact text-[40px] leading-none min-[701px]:text-6xl">
-              Se viene… <span aria-hidden="true">🎅</span>
-            </h2>
-            <p className="mt-3 text-lg">
-              La primera se destapa el {cuando}. Hasta entonces, la lista sigue envuelta.
-            </p>
-            <CuentaRegresiva target={estreno} />
-          </div>
+          <>
+            <div className="mx-auto max-w-xl rounded-[28px] border-4 border-ink bg-white p-6 text-center shadow-[8px_8px_0_#1d1d1b] min-[701px]:p-8">
+              <h2 className="font-impact text-[40px] leading-none min-[701px]:text-6xl">
+                Se viene… <span aria-hidden="true">🎅</span>
+              </h2>
+              <p className="mt-3 text-lg">
+                La primera se destapa el {cuando}. Hasta entonces, la lista sigue envuelta.
+              </p>
+              <CuentaRegresiva target={estreno} />
+            </div>
+            <Newsletter
+              ancla="aviso-navidad"
+              compacto
+              titulo="Avisame cuando salga la primera"
+              bajada="Dejá el mail y te avisamos el 22/11, ni un día antes."
+            />
+          </>
         ) : (
           <>
             <div className="mb-6 flex flex-col gap-4 rounded-[24px] border-4 border-ink bg-white p-4 shadow-[6px_6px_0_#1d1d1b] min-[701px]:flex-row min-[701px]:items-end min-[701px]:justify-between">

@@ -20,15 +20,13 @@ function Gorrito() {
   );
 }
 
-export function Header({ festive = false, showNavidad = false }: { festive?: boolean; showNavidad?: boolean }) {
+export function Header({ festive = false }: { festive?: boolean }) {
   return (
     <header className="border-b-[5px] border-fucsia bg-ink text-white">
       <div className="mx-auto flex w-full max-w-[1160px] items-center justify-between gap-2 px-3 py-3 min-[400px]:px-5 min-[400px]:py-3.5">
         <Link href="/" aria-label="Bolucompras, inicio" className="min-w-0 no-underline">
           <span
-            className={`inline-block -rotate-2 whitespace-nowrap font-impact tracking-wide text-white text-[16px] min-[400px]:text-[22px] ${
-              showNavidad ? "min-[701px]:text-[26px] min-[1100px]:text-[34px]" : "min-[701px]:text-[34px]"
-            }`}
+            className="inline-block -rotate-2 whitespace-nowrap font-impact text-[16px] tracking-wide text-white min-[400px]:text-[22px] min-[701px]:text-[26px] min-[1100px]:text-[34px]"
           >
             <span className="relative inline-block">
               {festive ? <Gorrito /> : null}
@@ -39,15 +37,10 @@ export function Header({ festive = false, showNavidad = false }: { festive?: boo
           </span>
         </Link>
 
-        <nav
-          className={`hidden items-center min-[701px]:flex ${showNavidad ? "gap-x-3 text-sm" : "gap-x-[18px]"}`}
-          aria-label="Principal"
-        >
-          {showNavidad ? (
-            <Link className={LINK} href="/navidad">
-              <span aria-hidden="true">🎄 </span>Navidad
-            </Link>
-          ) : null}
+        <nav className="hidden items-center gap-x-3 text-sm min-[701px]:flex" aria-label="Principal">
+          <Link className={LINK} href="/navidad">
+            <span aria-hidden="true">🎄 </span>Navidad
+          </Link>
           <Link className={LINK} href="/archivo">
             Archivo
           </Link>
@@ -64,7 +57,7 @@ export function Header({ festive = false, showNavidad = false }: { festive?: boo
         </nav>
 
         <div className="flex shrink-0 items-center gap-1.5 min-[701px]:hidden">
-          <MobileMenu showNavidad={showNavidad} />
+          <MobileMenu />
           <Link className={CTA} href="#newsletter">
             <span aria-hidden="true">💌</span>
             <span className="ml-1 max-[359px]:sr-only">Suscribite</span>

@@ -6,7 +6,17 @@ import { useState, type FormEvent } from "react";
 const ERROR = "Algo se rompió, probá de nuevo";
 const EXITO = "¡Listo! Revisá tu mail para confirmar 🙌";
 
-export function Newsletter() {
+export function Newsletter({
+  titulo = "💌 Recibí la boludez del día",
+  bajada = "Todas las mañanas, una compra innecesaria directo a tu mail. Sin spam (bueno, un poquito de boludez).",
+  ancla = "newsletter",
+  compacto = false,
+}: {
+  titulo?: string;
+  bajada?: string;
+  ancla?: string;
+  compacto?: boolean;
+} = {}) {
   const [estado, setEstado] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [mensaje, setMensaje] = useState("");
 
@@ -45,28 +55,44 @@ export function Newsletter() {
   const ocupado = estado === "loading";
 
   return (
-    <section id="newsletter" className="scroll-mt-6 px-5 pb-2 pt-6" aria-labelledby="newsletter-titulo">
-      <div className="relative mx-auto max-w-[1160px] rounded-[28px] border-4 border-ink bg-violet px-4 pb-8 pt-20 text-center text-white shadow-[7px_7px_0_#1d1d1b] min-[701px]:px-10 min-[701px]:py-10 min-[701px]:shadow-[12px_12px_0_#1d1d1b]">
-        <Sticker tone="green" className="right-3 top-3 rotate-[8deg] min-[701px]:right-8 min-[701px]:top-[-22px]">
-          GRATIS 🙌
-        </Sticker>
-        <h2 id="newsletter-titulo" className="font-impact text-[28px] leading-none min-[400px]:text-[32px] min-[701px]:text-[44px]">
-          💌 Recibí la boludez del día
+    <section
+      id={ancla}
+      className={compacto ? "scroll-mt-6 pb-2 pt-6" : "scroll-mt-6 px-5 pb-2 pt-6"}
+      aria-labelledby={`${ancla}-titulo`}
+    >
+      <div
+        className={
+          compacto
+            ? "relative mx-auto max-w-xl rounded-[24px] border-4 border-ink bg-violet px-4 py-6 text-center text-white shadow-[7px_7px_0_#1d1d1b]"
+            : "relative mx-auto max-w-[1160px] rounded-[28px] border-4 border-ink bg-violet px-4 pb-8 pt-20 text-center text-white shadow-[7px_7px_0_#1d1d1b] min-[701px]:px-10 min-[701px]:py-10 min-[701px]:shadow-[12px_12px_0_#1d1d1b]"
+        }
+      >
+        {compacto ? null : (
+          <Sticker tone="green" className="right-3 top-3 rotate-[8deg] min-[701px]:right-8 min-[701px]:top-[-22px]">
+            GRATIS 🙌
+          </Sticker>
+        )}
+        <h2
+          id={`${ancla}-titulo`}
+          className={
+            compacto
+              ? "font-impact text-[28px] leading-none min-[400px]:text-[34px]"
+              : "font-impact text-[28px] leading-none min-[400px]:text-[32px] min-[701px]:text-[44px]"
+          }
+        >
+          {titulo}
         </h2>
-        <p className="mx-auto mt-2 max-w-2xl text-lg">
-          Todas las mañanas, una compra innecesaria directo a tu mail. Sin spam (bueno, un poquito
-          de boludez).
-        </p>
+        {bajada ? <p className="mx-auto mt-2 max-w-2xl text-lg">{bajada}</p> : null}
         <form
           className="mx-auto mt-5 flex max-w-[560px] flex-col gap-2.5 min-[701px]:flex-row"
           onSubmit={enviar}
           aria-busy={ocupado}
         >
-          <label htmlFor="email" className="sr-only">
+          <label htmlFor={`${ancla}-email`} className="sr-only">
             Tu mail
           </label>
           <input
-            id="email"
+            id={`${ancla}-email`}
             name="email"
             type="email"
             required

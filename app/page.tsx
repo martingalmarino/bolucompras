@@ -1,6 +1,8 @@
+import { BannerNavidad } from "@/components/BannerNavidad";
 import { CarruselAnteriores } from "@/components/CarruselAnteriores";
 import { HeroBolucompra, HeroEspera } from "@/components/HeroBolucompra";
 import { JsonLd } from "@/components/JsonLd";
+import { showNavidadBanner } from "@/lib/dates";
 import { productJsonLd } from "@/lib/jsonld";
 import { getCatalog, getNextPublicationDate } from "@/lib/products";
 import { canonicalUrl, getSiteUrl } from "@/lib/site";
@@ -20,6 +22,7 @@ export default function HomePage() {
 
   return (
     <>
+      {showNavidadBanner(today) ? <BannerNavidad /> : null}
       {featured ? (
         <>
           <HeroBolucompra product={featured} bonus={bonus} today={today} />

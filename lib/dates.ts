@@ -81,7 +81,7 @@ export function isFestiveSeason(iso: string): boolean {
   return monthDay >= "11-15" || monthDay <= "01-06";
 }
 
-/** El enlace a /navidad entra al menú desde el 1 de noviembre de 2026. */
-export function showNavidadMenu(iso: string): boolean {
-  return iso >= "2026-11-01";
+/** El banner de la portada se muestra hasta el 6 de enero de 2027, inclusive. */
+export function showNavidadBanner(iso: string): boolean {
+  return iso <= "2027-01-06";
 }

@@ -4,7 +4,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Newsletter } from "@/components/Newsletter";
 import { Ticker } from "@/components/Ticker";
 import { websiteJsonLd } from "@/lib/jsonld";
-import { isFestiveSeason, showNavidadMenu, todayISO } from "@/lib/dates";
+import { isFestiveSeason, todayISO } from "@/lib/dates";
 import { getSiteUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
 import type { Metadata } from "next";
 import "./globals.css";
@@ -50,9 +50,7 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const today = todayISO();
-  const festive = isFestiveSeason(today);
-  const showNavidad = showNavidadMenu(today);
+  const festive = isFestiveSeason(todayISO());
 
   return (
     <html lang="es">
@@ -64,7 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Saltar al contenido
         </a>
-        <Header festive={festive} showNavidad={showNavidad} />
+        <Header festive={festive} />
         <Ticker festive={festive} />
         <main id="contenido" className="flex-1">
           {children}

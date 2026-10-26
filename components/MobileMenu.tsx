@@ -6,7 +6,7 @@ import { useEffect, useRef } from "react";
 
 const ITEM = "rounded-xl px-3 py-3 font-extrabold text-ink no-underline hover:bg-sun";
 
-export function MobileMenu({ showNavidad = false }: { showNavidad?: boolean }) {
+export function MobileMenu() {
   const pathname = usePathname();
   const details = useRef<HTMLDetailsElement>(null);
 
@@ -30,11 +30,9 @@ export function MobileMenu({ showNavidad = false }: { showNavidad?: boolean }) {
         aria-label="Principal"
         className="absolute right-0 z-30 mt-2 flex w-56 flex-col rounded-2xl border-[3px] border-ink bg-white p-2 text-ink shadow-[4px_4px_0_#1d1d1b]"
       >
-        {showNavidad ? (
-          <Link className={ITEM} href="/navidad" onClick={close}>
-            <span aria-hidden="true">🎄 </span>Navidad
-          </Link>
-        ) : null}
+        <Link className={ITEM} href="/navidad" onClick={close}>
+          <span aria-hidden="true">🎄 </span>Navidad
+        </Link>
         <Link className={ITEM} href="/archivo" onClick={close}>
           Archivo
         </Link>
