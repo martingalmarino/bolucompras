@@ -1,6 +1,7 @@
 import { ProductCard } from "@/components/ProductCard";
 import { monthKey, monthLabel, weekKey } from "@/lib/dates";
 import { getCatalog } from "@/lib/products";
+import { canonicalUrl, pageOpenGraph } from "@/lib/site";
 import { cx } from "@/lib/cx";
 import type { Bolucompra } from "@/lib/types";
 import type { Metadata } from "next";
@@ -40,26 +41,24 @@ export async function generateMetadata({ searchParams }: ArchivoProps): Promise<
       title: "Ranking: las más boludas",
       description:
         "El ranking de bolucompras ordenado por nivel de boludez. Las que rozan el 10, primero.",
-      alternates: { canonical: "/archivo?vista=boludas" },
-      openGraph: {
-        title: "Ranking: las más boludas",
-        description:
-          "El ranking de bolucompras ordenado por nivel de boludez. Las que rozan el 10, primero.",
-        locale: "es_AR",
-      },
+      alternates: { canonical: canonicalUrl("/archivo?vista=boludas") },
+      openGraph: pageOpenGraph(
+        "/archivo?vista=boludas",
+        "Ranking: las más boludas",
+        "El ranking de bolucompras ordenado por nivel de boludez. Las que rozan el 10, primero.",
+      ),
     };
   }
   return {
     title: "Archivo",
     description:
       "Todas las bolucompras que ya salieron, de la más nueva a la más vieja. Una por día, sin adelantar las que vienen.",
-    alternates: { canonical: "/archivo" },
-    openGraph: {
-      title: "Archivo de Bolucompras",
-      description:
-        "Todas las bolucompras que ya salieron, de la más nueva a la más vieja.",
-      locale: "es_AR",
-    },
+    alternates: { canonical: canonicalUrl("/archivo") },
+    openGraph: pageOpenGraph(
+      "/archivo",
+      "Archivo de Bolucompras",
+      "Todas las bolucompras que ya salieron, de la más nueva a la más vieja.",
+    ),
   };
 }
 

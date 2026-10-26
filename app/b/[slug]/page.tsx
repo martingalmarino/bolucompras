@@ -5,7 +5,7 @@ import { ProductCard } from "@/components/ProductCard";
 import { formatLongDate } from "@/lib/dates";
 import { productJsonLd } from "@/lib/jsonld";
 import { getAllSlugs, getCatalog, getPublishedBySlug } from "@/lib/products";
-import { getSiteUrl } from "@/lib/site";
+import { canonicalUrl, getSiteUrl, pageOpenGraph } from "@/lib/site";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -30,26 +30,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
-  const site = getSiteUrl();
+  const url = canonicalUrl(`/b/${product.slug}`);
   const title = product.tituloSeo || product.nombre;
   const description = product.metaDescription || product.descripcion;
   return {
     title,
     description,
-    alternates: { canonical: `/b/${product.slug}` },
-    openGraph: {
-      type: "website",
-      locale: "es_AR",
-      url: `${site}/b/${product.slug}`,
-      title,
-      description,
-      images: product.imagenUrl ? [{ url: product.imagenUrl, alt: product.nombre }] : undefined,
-    },
+    alternates: { canonical: url },
+    openGraph: pageOpenGraph(`/b/${product.slug}`, title, description),
     twitter: {
-      card: product.imagenUrl ? "summary_large_image" : "summary",
+      card: "summary_large_image",
       title,
       description,
-      images: product.imagenUrl ? [product.imagenUrl] : undefined,
     },
   };
 }

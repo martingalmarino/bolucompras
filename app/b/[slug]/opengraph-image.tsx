@@ -1,5 +1,5 @@
-import { ImageResponse } from "next/og";
 import { getPublishedBySlug } from "@/lib/products";
+import { ImageResponse } from "next/og";
 
 export const alt = "Bolucompra";
 export const size = { width: 1200, height: 630 };
@@ -9,10 +9,9 @@ export const revalidate = 86400;
 export default async function Image({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const product = getPublishedBySlug(slug);
-  const title = product?.tituloSeo || product?.nombre || "Esta boludez todavía no salió";
-  const kicker = product
-    ? `${product.tienda} · nivel ${product.nivel}/10`
-    : "Bolucompras · sin spoilers";
+  const emoji = product?.emoji || "🛒";
+  const nombre = product?.nombre || "Esta boludez todavía no salió";
+  const nivel = product ? `Nivel de boludez ${product.nivel}/10` : "Bolucompras · sin spoilers";
 
   return new ImageResponse(
     (
@@ -43,20 +42,21 @@ export default async function Image({ params }: { params: Promise<{ slug: string
         >
           BOLUCOMPRAS
         </div>
+        <div style={{ display: "flex", fontSize: 120, lineHeight: 1, marginTop: 28 }}>{emoji}</div>
         <div
           style={{
             display: "flex",
             flexWrap: "wrap",
-            fontSize: 64,
+            fontSize: 56,
             fontWeight: 800,
             lineHeight: 1.05,
-            marginTop: 28,
+            marginTop: 16,
             maxWidth: 1000,
           }}
         >
-          {title}
+          {nombre}
         </div>
-        <div style={{ display: "flex", fontSize: 32, marginTop: 24 }}>{kicker}</div>
+        <div style={{ display: "flex", fontSize: 36, marginTop: 22 }}>{nivel}</div>
       </div>
     ),
     { ...size },

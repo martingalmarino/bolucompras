@@ -3,10 +3,15 @@ import { HeroBolucompra, HeroEspera } from "@/components/HeroBolucompra";
 import { JsonLd } from "@/components/JsonLd";
 import { productJsonLd } from "@/lib/jsonld";
 import { getCatalog, getNextPublicationDate } from "@/lib/products";
-import { getSiteUrl } from "@/lib/site";
+import { canonicalUrl, getSiteUrl } from "@/lib/site";
 import { buildTabs } from "@/lib/tabs";
+import type { Metadata } from "next";
 
 export const revalidate = 86400;
+
+export const metadata: Metadata = {
+  alternates: { canonical: canonicalUrl("/") },
+};
 
 export default function HomePage() {
   const { today, featured, anteriores } = getCatalog();

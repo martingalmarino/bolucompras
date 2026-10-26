@@ -1,5 +1,5 @@
 import { getCatalog } from "@/lib/products";
-import { getSiteUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
+import { canonicalUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
 
 export const revalidate = 86400;
 
@@ -17,11 +17,10 @@ function pubDate(fecha: string): string {
 }
 
 export function GET() {
-  const site = getSiteUrl();
   const { published } = getCatalog();
   const items = published
     .map((product) => {
-      const link = `${site}/b/${product.slug}`;
+      const link = canonicalUrl(`/b/${product.slug}`);
       const title = product.tituloSeo || product.nombre;
       const description = product.metaDescription || product.descripcion;
       return `<item>
@@ -38,7 +37,7 @@ export function GET() {
 <rss version="2.0">
   <channel>
     <title>${xml(SITE_NAME)}</title>
-    <link>${xml(site)}</link>
+    <link>${xml(canonicalUrl("/"))}</link>
     <description>${xml(SITE_DESCRIPTION)}</description>
     <language>es-ar</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>

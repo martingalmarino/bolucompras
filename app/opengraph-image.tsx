@@ -45,7 +45,7 @@ export default function OpenGraphImage() {
           La boludez del día
         </div>
         <div style={{ display: "flex", fontSize: 34, marginTop: 22 }}>
-          Nadie la necesita. Todos la quieren.
+          No lo necesitás, pero igual lo querés.
         </div>
       </div>
     ),

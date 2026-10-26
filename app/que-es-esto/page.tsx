@@ -1,3 +1,4 @@
+import { canonicalUrl, pageOpenGraph } from "@/lib/site";
 import type { Metadata } from "next";
 import Link from "next/link";
 
@@ -7,13 +8,12 @@ export const metadata: Metadata = {
   title: "¿Qué es esto?",
   description:
     "Bolucompras muestra una compra innecesaria por día, con link a la tienda y un medidor de boludez del 1 al 10.",
-  alternates: { canonical: "/que-es-esto" },
-  openGraph: {
-    title: "¿Qué es Bolucompras?",
-    description:
-      "Una bolucompra por día. Nadie la necesita. Igual la querés mirar.",
-    locale: "es_AR",
-  },
+  alternates: { canonical: canonicalUrl("/que-es-esto") },
+  openGraph: pageOpenGraph(
+    "/que-es-esto",
+    "¿Qué es Bolucompras?",
+    "Una bolucompra por día. Nadie la necesita. Igual la querés mirar.",
+  ),
 };
 
 const cards = [

@@ -57,13 +57,18 @@ Para sumar productos nuevos hay que volver a deployar: el JSON viaja en el build
 1. Subí el repo a GitHub.
 2. En Vercel, importá el proyecto. Framework: Next.js. El comando de build es `npm run build`.
 3. Variables de entorno (también están en `.env.example`):
-   - `NEXT_PUBLIC_SITE_URL`: la URL pública, sin barra al final. Sirve para el canonical, el sitemap, Open Graph y el feed.
+   - `NEXT_PUBLIC_SITE_URL`: la URL canónica, sin barra al final. En producción es `https://www.nolonecesitas.com.ar`. De ahí salen el canonical, `og:url`, `og:image`, el sitemap, el JSON-LD y `/rss.xml`.
+   - `NEXT_PUBLIC_GSC_VERIFICATION`: el código de Google Search Console. Si no está, no se imprime el meta de verificación.
    - `CRON_SECRET`: un string largo. Vercel lo manda como `Authorization: Bearer …` cuando corre el cron. Si no está, cualquiera puede pegarle a `/api/revalidate`.
    - `KIT_API_KEY`: API key de Kit (ConvertKit), la de la API v3. Solo vive en el servidor.
    - `KIT_FORM_ID`: id numérico del formulario de Kit al que se anotan los mails.
 4. El archivo `vercel.json` programa `/api/revalidate` a las 03:05 UTC, que son las 00:05 en Argentina (UTC−3, sin horario de verano). Eso, más la revalidación de 24 horas, cambia el día sin un deploy manual.
 
 En el plan Hobby de Vercel el cron diario entra. Después del deploy, la home, el archivo, las fichas `/b/[slug]`, el sitemap y `/rss.xml` se regeneran con la fecha nueva.
+
+En producción, si el host es `*.vercel.app` o no es `www.nolonecesitas.com.ar`, el middleware responde 308 hacia `https://www.nolonecesitas.com.ar` con el mismo path y query. Las rutas `/api/` no se redirigen, para que el cron siga pegándole a `/api/revalidate`. Los deploys de Preview no redirigen y salen con `noindex`.
+
+`/ads.txt` está vacío a propósito, hasta que AdSense pase el ID de publisher.
 
 ## Newsletter
 

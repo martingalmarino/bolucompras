@@ -4,29 +4,31 @@ import { JsonLd } from "@/components/JsonLd";
 import { Newsletter } from "@/components/Newsletter";
 import { Ticker } from "@/components/Ticker";
 import { websiteJsonLd } from "@/lib/jsonld";
-import { getSiteUrl, SITE_DESCRIPTION } from "@/lib/site";
+import { getSiteUrl, SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
 import type { Metadata } from "next";
 import "./globals.css";
 
 export const revalidate = 86400;
 
 const site = getSiteUrl();
+const googleVerification = process.env.NEXT_PUBLIC_GSC_VERIFICATION?.trim();
+const isPreview = process.env.VERCEL_ENV === "preview";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(site),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL?.trim().replace(/\/+$/, "") || site),
   title: {
     default: "Bolucompras – La boludez del día",
     template: "%s · Bolucompras",
   },
   description: SITE_DESCRIPTION,
-  applicationName: "Bolucompras",
+  applicationName: SITE_NAME,
   authors: [{ name: "Bolucompras" }],
   creator: "Bolucompras",
   category: "shopping",
   openGraph: {
     type: "website",
     locale: "es_AR",
-    siteName: "Bolucompras",
+    siteName: SITE_NAME,
     title: "Bolucompras – La boludez del día",
     description: SITE_DESCRIPTION,
     url: site,
@@ -36,11 +38,10 @@ export const metadata: Metadata = {
     title: "Bolucompras – La boludez del día",
     description: SITE_DESCRIPTION,
   },
-  robots: { index: true, follow: true },
-  verification: {
-    google: "crGNhcUvRZASWLc8ANndk83KMX8Q1U6kLfaZ4w9BPtk",
-  },
+  robots: isPreview ? { index: false, follow: false } : { index: true, follow: true },
+  ...(googleVerification ? { verification: { google: googleVerification } } : {}),
   alternates: {
+    canonical: site,
     types: {
       "application/rss+xml": "/rss.xml",
     },

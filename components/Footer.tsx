@@ -18,7 +18,17 @@ export function Footer() {
           <Link className="text-white no-underline hover:text-sun" href="/que-es-esto">
             ¿Qué es esto?
           </Link>
+          <Link className="text-white no-underline hover:text-sun" href="/privacidad">
+            Privacidad
+          </Link>
+          <Link className="text-white no-underline hover:text-sun" href="/terminos">
+            Términos
+          </Link>
+          <Link className="text-white no-underline hover:text-sun" href="/contacto">
+            Contacto
+          </Link>
         </nav>
+        <p className="mb-3 font-extrabold text-sun">No lo necesitás · nolonecesitas.com.ar</p>
         <div className="my-3 rounded-lg border-l-[5px] border-fucsia bg-[#2c2c2a] px-4 py-3">
           <p>
             <span aria-hidden="true">⚠️ </span>

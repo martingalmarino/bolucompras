@@ -1,16 +1,16 @@
 import { ctaHref } from "@/lib/links";
 import { parsePrice } from "@/lib/format";
+import { SITE_DESCRIPTION, SITE_NAME } from "@/lib/site";
 import type { Bolucompra } from "@/lib/types";
 
 export function websiteJsonLd(site: string) {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Bolucompras",
+    name: SITE_NAME,
     url: site,
     inLanguage: "es-AR",
-    description:
-      "Cada día, una compra innecesaria que igual querés. La boludez diaria, con link y todo.",
+    description: SITE_DESCRIPTION,
   };
 }
 
