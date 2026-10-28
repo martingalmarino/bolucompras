@@ -3,7 +3,7 @@ import "server-only";
 import dataset from "@/data/dataset.json";
 import { todayISO } from "@/lib/dates";
 import { armarPortada } from "@/lib/portada";
-import type { Bolucompra, FaqItem, FranjaPrecio, Temporada } from "@/lib/types";
+import type { Bolucompra, FaqItem, FranjaPrecio, Temporada, TipoLink } from "@/lib/types";
 
 type RawFaq = {
   pregunta?: string;
@@ -25,6 +25,7 @@ type RawProduct = {
   tags: string;
   categoria: string;
   link_afiliado: string;
+  tipo_link?: string;
   fecha_publicacion: string;
   slug?: string;
   titulo_seo?: string;
@@ -62,6 +63,11 @@ function asTemporada(value: unknown): Temporada {
 function asFranja(value: unknown): FranjaPrecio | "" {
   if (value === "barato" || value === "medio" || value === "caro") return value;
   return "";
+}
+
+function asTipoLink(value: unknown, id: number): TipoLink {
+  if (value === "producto" || value === "busqueda") return value;
+  throw new Error(`tipo_link inválido en el id ${id}`);
 }
 
 function asList(value: string[] | undefined): string[] {
@@ -102,6 +108,7 @@ function toProduct(raw: RawProduct): Bolucompra {
     tienda: raw.tienda.trim(),
     urlProducto: raw.url_producto?.trim() ?? "",
     linkAfiliado: raw.link_afiliado?.trim() ?? "",
+    tipoLink: asTipoLink(raw.tipo_link, raw.id),
     precioReferencia: asPrice(raw.precio_referencia),
     moneda: raw.moneda?.trim() ?? "",
     fechaPrecio: raw.fecha_precio?.trim() ?? "",

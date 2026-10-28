@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "Pantuflas de capibara",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.mercadolibre.com.ar/pantuflas-capibara-peluche-super-abrigadas/up/MLAU3252263932",
+    "url_producto": "https://listado.mercadolibre.com.ar/pantuflas-capibara",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -70,7 +70,8 @@
       "regalos graciosos",
       "bolucompra de invierno"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 2,
@@ -143,13 +144,14 @@
       "humor negro tierno",
       "regalos raros"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 3,
     "nombre": "Medias graciosas novedad (hombre)",
     "tienda": "Shein",
-    "url_producto": "https://us.shein.com/goods-p-115259976.html",
+    "url_producto": "https://ar.shein.com/pdsearch/medias%20graciosas%20hombre/",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -216,7 +218,8 @@
       "regalos baratos",
       "shein"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 4,
@@ -290,13 +293,14 @@
       "decoración divertida",
       "bolucompra"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 5,
     "nombre": "Casco cervecero Duff de Homero",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.tiendadefiestaok.com.ar/MLA-866171031-gorro-cervecero-casco-cerveza-duff-homero-simpson-cotillon-_JM",
+    "url_producto": "https://listado.mercadolibre.com.ar/casco-cervecero",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -363,7 +367,8 @@
       "disfraz los simpson",
       "accesorios para fiestas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 6,
@@ -436,13 +441,14 @@
       "cocina divertida",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 7,
     "nombre": "Medias de lana graciosas (mujer)",
     "tienda": "Shein",
-    "url_producto": "https://us.shein.com/goods-p-109566402.html",
+    "url_producto": "https://ar.shein.com/pdsearch/medias%20de%20lana%20graciosas%20mujer/",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -509,7 +515,8 @@
       "regalos tiernos",
       "shein"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 8,
@@ -582,13 +589,14 @@
       "regalo para cocineros",
       "gadgets raros"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 9,
     "nombre": "Pistola lanza billetes de dólares",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.cotilloncolores.com/MLA-899877990-pistola-lanza-billetes-dolares-super-dollar-gun-con-billetes-_JM",
+    "url_producto": "https://listado.mercadolibre.com.ar/pistola-lanza-billetes",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -655,7 +663,8 @@
       "fiesta de egresados",
       "juguetes para fiestas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 10,
@@ -729,13 +738,14 @@
       "regalos graciosos",
       "bolucompra"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 11,
     "nombre": "Almohadón con forma de galletita de chocolate",
     "tienda": "Shein",
-    "url_producto": "https://m.shein.co.uk/Chocolate-Cookie-Shaped-Plush-Toy-Soft-And-Comfortable-Fun-And-Interesting-Food-Shaped-Pillow-Suitable-For-Sofa-Chair-Floor-Decoration-And-Cushion--p-26997475-cat-7485.html",
+    "url_producto": "https://ar.shein.com/pdsearch/almohadon%20galletita/",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -802,7 +812,8 @@
       "peluches originales",
       "shein"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 12,
@@ -875,13 +886,14 @@
       "regalos tiernos",
       "peluches de comida"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 13,
     "nombre": "Sombrero-sombrilla de Argentina",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.veoquiero.ar/MLA-1157083753-sombrero-gorro-argentina-paragua-sombrilla-mundial-_JM",
+    "url_producto": "https://listado.mercadolibre.com.ar/sombrero-sombrilla-argentina",
     "url_verificada": false,
     "precio_referencia": "",
     "moneda": "",
@@ -948,7 +960,8 @@
       "accesorios para la playa",
       "regalos para hinchas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "busqueda"
   },
   {
     "id": 14,
@@ -1021,7 +1034,8 @@
       "dinosaurios",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 15,
@@ -1095,7 +1109,8 @@
       "regalo para quien lo tiene todo",
       "bolucompra"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 16,
@@ -1168,7 +1183,8 @@
       "juguetes de escritorio",
       "regalo para quien lo tiene todo"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 17,
@@ -1241,7 +1257,8 @@
       "regalo día del padre",
       "regalos graciosos"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 18,
@@ -1314,7 +1331,8 @@
       "halloween mascotas",
       "regalos para gateros"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 19,
@@ -1387,7 +1405,8 @@
       "regalo día del padre",
       "gadgets de baño"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 20,
@@ -1460,7 +1479,8 @@
       "cotillón",
       "regalos de broma"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 21,
@@ -1533,7 +1553,8 @@
       "regalos para gateros",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 22,
@@ -1606,7 +1627,8 @@
       "decoración divertida",
       "mantas originales"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 23,
@@ -1679,7 +1701,8 @@
       "regalos de broma",
       "juguetes de humor"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 24,
@@ -1752,7 +1775,8 @@
       "cumpleaños",
       "comida divertida"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 25,
@@ -1825,7 +1849,8 @@
       "escritorio",
       "michis"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 26,
@@ -1898,7 +1923,8 @@
       "decoración graciosa",
       "regalos de broma"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 27,
@@ -1971,7 +1997,8 @@
       "fiestas temáticas",
       "videos virales"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 28,
@@ -2044,13 +2071,14 @@
       "regalos de verano",
       "pileta"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 51,
     "nombre": "Cactus bailarín que repite lo que decís",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/05MrY7/cactus-luminoso-bailarin-repetidor-musica-40cm-algodon-ninos",
+    "url_producto": "https://listado.mercadolibre.com.ar/cactus-bailarin",
     "url_verificada": false,
     "precio_referencia": 11990,
     "moneda": "ARS",
@@ -2120,7 +2148,8 @@
     "edad_sugerida": "3 a 6 años",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: cactus bailarín que repite lo que decís funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 6 años. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 29,
@@ -2193,13 +2222,14 @@
       "regalos para amigas",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 52,
     "nombre": "Pistola automática de burbujas",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/QCctrq/burbujero-pistola-automatica-burbujas-ideal-regalo-nino",
+    "url_producto": "https://listado.mercadolibre.com.ar/pistola-de-burbujas-automatica",
     "url_verificada": false,
     "precio_referencia": 7700,
     "moneda": "ARS",
@@ -2269,7 +2299,8 @@
     "edad_sugerida": "3 años en adelante",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pistola automática de burbujas funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 30,
@@ -2342,13 +2373,14 @@
       "souvenirs graciosos",
       "humor visual"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 53,
     "nombre": "Disfraz de reno para chicos",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-de-reno",
+    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-reno-ni%C3%B1os",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -2418,7 +2450,8 @@
     "edad_sugerida": "Según talle de la publicación",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: disfraz de reno para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 31,
@@ -2491,13 +2524,14 @@
       "decoración divertida",
       "potato pillow"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 54,
     "nombre": "Almohadón tira pedos",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/Rpb9h8/almohadon-tira-pedos-chasco-juego-bromas-juguete",
+    "url_producto": "https://listado.mercadolibre.com.ar/almohadon-tira-pedos",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -2567,7 +2601,8 @@
     "edad_sugerida": "Para chicos que ya entienden las bromas, con supervisión",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: almohadón tira pedos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: para chicos que ya entienden las bromas, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 32,
@@ -2640,13 +2675,14 @@
       "calzado de entrecasa",
       "memes de patos"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 55,
     "nombre": "Huevos de dinosaurio que nacen en el agua",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/juguetes-que-crecen-en-el-agua",
+    "url_producto": "https://listado.mercadolibre.com.ar/huevos-de-dinosaurio-crecen-en-agua",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -2716,7 +2752,8 @@
     "edad_sugerida": "3 años en adelante, con supervisión",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: huevos de dinosaurio que nacen en el agua funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 33,
@@ -2789,13 +2826,14 @@
       "regalos tiernos",
       "regalos para oficina"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 56,
     "nombre": "Fábrica de slime con toppings",
     "tienda": "Mercado Libre",
-    "url_producto": "https://articulo.mercadolibre.com.ar/MLA-1454531744-fabrica-de-slime-1-l-17-toppings-p-ninos-sugar-splash-c-_JM",
+    "url_producto": "https://listado.mercadolibre.com.ar/fabrica-de-slime",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -2865,7 +2903,8 @@
     "edad_sugerida": "Según indicación del fabricante, con supervisión",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: fábrica de slime con toppings funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del fabricante, con supervisión. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 34,
@@ -2938,13 +2977,14 @@
       "regalos graciosos",
       "aromas extraños"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 57,
     "nombre": "Garras de dinosaurio",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/garra-dinosaurio",
+    "url_producto": "https://listado.mercadolibre.com.ar/garras-de-dinosaurio",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -3014,7 +3054,8 @@
     "edad_sugerida": "Según indicación del vendedor",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: garras de dinosaurio funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del vendedor. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 35,
@@ -3087,13 +3128,14 @@
       "regalos para dueños de perros",
       "mascotas graciosas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 58,
     "nombre": "Buzo navideño",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/buzo-de-navidad",
+    "url_producto": "https://listado.mercadolibre.com.ar/buzo-navide%C3%B1o",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -3163,7 +3205,8 @@
     "edad_sugerida": "Según talle de la publicación",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: buzo navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 36,
@@ -3236,13 +3279,14 @@
       "calzado de invierno",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 59,
     "nombre": "Gorro de Papá Noel con luces",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/gorros-de-navidad-con-luces",
+    "url_producto": "https://listado.mercadolibre.com.ar/gorro-papa-noel-con-luces",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -3312,7 +3356,8 @@
     "edad_sugerida": "Según indicación del vendedor",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gorro de papá noel con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según indicación del vendedor. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 37,
@@ -3385,13 +3430,14 @@
       "disfraces",
       "accesorios para fiestas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 60,
     "nombre": "Disfraz de Rex de Toy Story",
     "tienda": "Mercado Libre",
-    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-toy-story-rex-dinosaurio",
+    "url_producto": "https://listado.mercadolibre.com.ar/disfraz-rex-toy-story",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -3461,7 +3507,8 @@
     "edad_sugerida": "Según talle de la publicación",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: disfraz de rex de toy story funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "busqueda"
   },
   {
     "id": 38,
@@ -3534,7 +3581,8 @@
       "mascotas",
       "juegos al aire libre"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 61,
@@ -3610,7 +3658,8 @@
     "edad_sugerida": "3 a 7 años",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: ugly sweater navideño para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 7 años. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 39,
@@ -3683,7 +3732,8 @@
       "cultura pop",
       "regalos de broma"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 62,
@@ -3759,7 +3809,8 @@
     "edad_sugerida": "Con supervisión adulta",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: vincha de reno con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 40,
@@ -3832,7 +3883,8 @@
       "gadgets raros",
       "regalos divertidos"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 63,
@@ -3908,7 +3960,8 @@
     "edad_sugerida": "Con supervisión adulta",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: papá noel que tira burbujas por la cola funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 41,
@@ -3981,7 +4034,8 @@
       "gadgets de cocina",
       "regalos originales"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 64,
@@ -4057,7 +4111,8 @@
     "edad_sugerida": "4 a 12 años",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pack de slimes navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 4 a 12 años. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 42,
@@ -4130,7 +4185,8 @@
       "patos",
       "moda excéntrica"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 65,
@@ -4206,7 +4262,8 @@
     "edad_sugerida": "Con supervisión adulta",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: orejas de duende funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 43,
@@ -4279,7 +4336,8 @@
       "comida mexicana",
       "decoración divertida"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 66,
@@ -4355,7 +4413,8 @@
     "edad_sugerida": "Con supervisión adulta",
     "franja_precio": "caro",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: arbolito de navidad que canta y baila funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 44,
@@ -4428,7 +4487,8 @@
       "humor de baño",
       "regalos raros"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 67,
@@ -4504,7 +4564,8 @@
     "edad_sugerida": "Según talle de la publicación",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pijama de animal enterito funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 45,
@@ -4577,7 +4638,8 @@
       "fotos de bebés",
       "bolucompra amazon"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 68,
@@ -4653,7 +4715,8 @@
     "edad_sugerida": "Para chicos grandes, con supervisión",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: básquet para el inodoro con pelotas de caca funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: para chicos grandes, con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 46,
@@ -4726,7 +4789,8 @@
       "zombies",
       "decoración rara"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 69,
@@ -4802,7 +4866,8 @@
     "edad_sugerida": "Con adulto en la cocina",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de moldes para hacer gomitas funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con adulto en la cocina. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 47,
@@ -4875,7 +4940,8 @@
       "regalos tiernos",
       "alpacas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 70,
@@ -4951,7 +5017,8 @@
     "edad_sugerida": "Todas las edades",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: almohadón de caca sonriente funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 48,
@@ -5024,7 +5091,8 @@
       "estilo campo",
       "gadgets de cocina"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 71,
@@ -5100,7 +5168,8 @@
     "edad_sugerida": "Con supervisión, no para los más chicos",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pack de 120 squishies navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión, no para los más chicos. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 49,
@@ -5173,7 +5242,8 @@
       "regalos tiernos",
       "invierno"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 72,
@@ -5249,7 +5319,8 @@
     "edad_sugerida": "6 años en adelante",
     "franja_precio": "caro",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de slime de unicornio esponjoso funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 6 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 50,
@@ -5322,7 +5393,8 @@
       "regalos graciosos",
       "medias divertidas"
     ],
-    "temporada": "general"
+    "temporada": "general",
+    "tipo_link": "producto"
   },
   {
     "id": 73,
@@ -5398,7 +5470,8 @@
     "edad_sugerida": "Con supervisión adulta",
     "franja_precio": "caro",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: kit de casita de jengibre para decorar funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: con supervisión adulta. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 74,
@@ -5474,7 +5547,8 @@
     "edad_sugerida": "Chicos grandes con supervisión",
     "franja_precio": "caro",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: teléfono banana funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos grandes con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 75,
@@ -5550,7 +5624,8 @@
     "edad_sugerida": "Chicos grandes con supervisión",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: nariz antiestrés que larga mocos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos grandes con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 76,
@@ -5626,7 +5701,8 @@
     "edad_sugerida": "Todas las edades con supervisión de pilas",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gorro de papá noel con luces funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades con supervisión de pilas. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 77,
@@ -5702,7 +5778,8 @@
     "edad_sugerida": "Chicos en edad escolar",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: libro de más de 400 stickers navideños funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos en edad escolar. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 78,
@@ -5778,7 +5855,8 @@
     "edad_sugerida": "3 años en adelante",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: mr. potato head tinsel tots navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 79,
@@ -5854,7 +5932,8 @@
     "edad_sugerida": "Colocación a cargo de un adulto",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: 201 estrellas que brillan en la oscuridad funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: colocación a cargo de un adulto. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 80,
@@ -5930,7 +6009,8 @@
     "edad_sugerida": "Chicos en edad escolar",
     "franja_precio": "barato",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pop it navideño de joyin funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos en edad escolar. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 81,
@@ -6006,7 +6086,8 @@
     "edad_sugerida": "Todas las edades",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: 50 bolas de nieve para guerra en casa funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 82,
@@ -6082,7 +6163,8 @@
     "edad_sugerida": "Todas las edades",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: peluche del grinch con corazón que brilla funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: todas las edades. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 83,
@@ -6158,13 +6240,14 @@
     "edad_sugerida": "Chicos chicos con supervisión",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pistola de burbujas navideña funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos chicos con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Navidad"
+    "temporada": "Navidad",
+    "tipo_link": "producto"
   },
   {
     "id": 84,
     "nombre": "Pijama kigurumi para chicos",
     "tienda": "Mercado Libre",
-    "url_producto": "https://www.mercadolibre.com.ar/shorts/clips/ygH6P3/pijama-kigurumi-ninos-mameluco-disfraz-personajes-animales",
+    "url_producto": "https://listado.mercadolibre.com.ar/pijama-kigurumi-ni%C3%B1os",
     "url_verificada": false,
     "precio_referencia": 32990,
     "moneda": "ARS",
@@ -6234,13 +6317,14 @@
     "edad_sugerida": "Según talle de la publicación",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pijama kigurumi para chicos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: según talle de la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "busqueda"
   },
   {
     "id": 85,
     "nombre": "Lámpara luna para pintar",
     "tienda": "Mercado Libre",
-    "url_producto": "https://articulo.mercadolibre.com.ar/MLA-1470655969-moon-lamp-weceit-paint-your-own-w-stand-art-supplies-para-n-_JM",
+    "url_producto": "https://listado.mercadolibre.com.ar/lampara-luna-para-pintar",
     "url_verificada": false,
     "precio_referencia": null,
     "moneda": "",
@@ -6310,7 +6394,8 @@
     "edad_sugerida": "3 a 12 años según la publicación",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: lámpara luna para pintar funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 a 12 años según la publicación. Como se compra en Mercado Libre Argentina, chequeá stock, vendedor y fecha de entrega antes de confirmar.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "busqueda"
   },
   {
     "id": 86,
@@ -6386,7 +6471,8 @@
     "edad_sugerida": "3 años en adelante",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: hámster de peluche que repite lo que decís funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 3 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "producto"
   },
   {
     "id": 87,
@@ -6462,7 +6548,8 @@
     "edad_sugerida": "4 años en adelante",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: gooey louie, el juego de sacarle mocos funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 4 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "producto"
   },
   {
     "id": 88,
@@ -6538,7 +6625,8 @@
     "edad_sugerida": "5 años en adelante",
     "franja_precio": "",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: pie face, el juego de la crema en la cara funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 5 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "producto"
   },
   {
     "id": 89,
@@ -6614,7 +6702,8 @@
     "edad_sugerida": "7 años en adelante",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: throw throw burrito, el juego de los burritos voladores funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: 7 años en adelante. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "producto"
   },
   {
     "id": 90,
@@ -6690,6 +6779,7 @@
     "edad_sugerida": "Chicos chicos con supervisión",
     "franja_precio": "medio",
     "consejo_para_regalar": "Consejo para tíos, padrinos y padres: bowling navideño funciona mejor si lo entregás con un poco de puesta en escena. Envolvelo con papel navideño, sumale una tarjeta con un chiste propio y, si podés, quedate a jugar o a mirar la reacción. Edad sugerida: chicos chicos con supervisión. Como es una compra en Amazon, calculá envío e impuestos y comprá con anticipación para que llegue antes del 24 o de Reyes.",
-    "temporada": "Reyes"
+    "temporada": "Reyes",
+    "tipo_link": "producto"
   }
 ]

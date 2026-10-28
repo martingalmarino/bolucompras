@@ -7,6 +7,8 @@ export type Temporada = "general" | "Navidad" | "Reyes";
 
 export type FranjaPrecio = "barato" | "medio" | "caro";
 
+export type TipoLink = "producto" | "busqueda";
+
 export type Bolucompra = {
   id: number;
   slug: string;
@@ -14,6 +16,7 @@ export type Bolucompra = {
   tienda: string;
   urlProducto: string;
   linkAfiliado: string;
+  tipoLink: TipoLink;
   precioReferencia: string;
   moneda: string;
   fechaPrecio: string;
